@@ -1,0 +1,4 @@
+# tri
+```
+$ php tri.php
+```
