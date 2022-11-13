@@ -1,0 +1,1787 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    
+    <meta name="author" content="BGST">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+    <meta name="csrf-token" content="Jjqk6NpsgBZo1Tz4MeFBjmvITBhaEW1o9DPldONq"/>
+    <title>BGST | Home </title>
+    
+    <link rel="shortcut icon" type="image/ico" href="https://www.bgst.edu.sg/favicon.ico"/>
+    <link rel="apple-touch-icon" href="https://www.bgst.edu.sg/favicon.png"/>
+    <meta name="dcterms.rightsHolder" content="bgst.edu.sg � BGST"/>
+    <link rel="icon" type="image/gif" href="https://bgst.edu.sg/animated_favicon1.gif"/>
+    <link href="https://www.bgst.edu.sg/css/animation.css" rel="stylesheet" type="text/css">
+    <link href="https://www.bgst.edu.sg/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
+          integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+    <!--[if lt IE 9]>
+    <script src="js/html5.js"></script>
+    <![endif]-->
+    <script src="https://www.bgst.edu.sg/js/respond.min.js"></script>
+    <script src="https://www.bgst.edu.sg/js/jquery-latest.js"></script>
+    <script src="https://www.bgst.edu.sg/js/bootstrap.min.js"></script>
+    <link href="https://www.bgst.edu.sg/css/slick.css" rel="stylesheet" type="text/css">
+    <link href="https://www.bgst.edu.sg/css/bootstrap-select.min.css" rel="stylesheet" type="text/css">
+    <link href="https://www.bgst.edu.sg/css/style.css" rel="stylesheet" type="text/css">
+    <link href="https://www.bgst.edu.sg/css/responsive.css" rel="stylesheet" type="text/css">
+    <link href="https://www.bgst.edu.sg/css/bootstrap-datetimepicker-eonasdan.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://www.bgst.edu.sg/assets/plugins/datatables.net-bs/css/dataTables.bootstrap.min.css">
+    <script src="https://www.bgst.edu.sg/assets/plugins/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="https://www.bgst.edu.sg/assets/plugins/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <style>
+        div.form-group > .bootstrap-select + input {
+            margin-top: 15px;
+        }
+    </style>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143007422-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-143007422-1');
+    </script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1748475791968708');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1748475791968708&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->
+
+</head>
+
+<body >
+<div id="wrapper">
+    <!-- Header -->
+<header id="header" class="header">
+    <div class="container">
+        <div class="top-bar">
+            <div class="welcome-msg">Welcome to The Biblical Graduate School of Theology</div>
+            <div class="top-contact">
+                <ul>
+                    <li><i class="fas fa-phone ileft"></i>+65-6227-6815</li>
+                    <li><a href="mailto:enquiries@bgst.edu.sg"><i
+                                    class="fas fa-envelope-open ileft"></i>enquiries@bgst.edu.sg</a></li>
+                </ul>
+            </div>
+            <div class="top-social">Follow us:<a target="_blank" href="https://www.facebook.com/BGST1989"><i
+                            class="fab fa-facebook-f"></i></a>
+                <!--a target="_blank" href="https://twitter.com/PublicityBgst"><i
+                            class="fab fa-twitter"></i></a-->
+                <a target="_blank" href="https://www.linkedin.com/in/bgst-singapore-41411b8b/"><i class="fab fa-linkedin"></i></a>
+                <a target="_blank" href="https://www.instagram.com/bgst1989/"><i
+                            class="fab fa-instagram"></i></a>
+            </div>
+            <div class="top-right-links">
+                                    <!--<a href="javascript:void(0);" id="log-in" class="btn-login" data-toggle="modal" data-target="#LoginModal">Log In</a>-->
+                    <a href="https://courses.bgst.edu.sg/users/sign_in" target="_blank" id="log-in" class="btn-login" data-toggle="modal">Log In</a>
+                                <a href="https://www.bgst.edu.sg/paymentmethods" class="btn-support">Donate</a>
+
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="logo"><a href="https://www.bgst.edu.sg/home"><img src="https://www.bgst.edu.sg/uploads/systemSettings/BGST_LOGO_brown_1629428089.png"
+                                                          alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></a></div>
+        <div class="top-menu-holder">
+                        <div class="menu">
+                <ul>
+                    
+    
+            <li class=" about-us-menu  ">
+            <a data-menu-id="2" class="click-highlight"
+               href=" javascript:void(0); "><span>About Us</span></a>
+            <ul>
+                
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="16"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/principal-welcome">Principal’s Welcome</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="21"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/alumni">Alumni</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="15"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/history">History</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="18"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/theological-position">Theological Position</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="22"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/contact-us">Contact us</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                        <li class=""><a data-menu-id="20"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgst.edu.sg/our-team">Our Team</a>
+            </li>
+             
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="111"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/subscribe-to-our-mailing-list">Subscribe to Mailing List</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="114"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/bgstcareer-opportunities">Work With Us</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="170"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/annual-report">Organisational Documents</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+                </ul>
+        </li>
+    
+    
+            <li class=" postgraduate-menu  ">
+            <a data-menu-id="185" class="click-highlight"
+               href=" javascript:void(0); "><span>Postgraduate</span></a>
+            <ul>
+                
+    
+        <li class=""><a target="_blank" data-menu-id="223"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://courses.bgst.edu.sg/pages/programmes">Programmes</a>
+            </li>     
+    
+    
+        <li class=""><a target="_blank" data-menu-id="187"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://courses.bgst.edu.sg">Courses</a>
+            </li>     
+    
+    
+            <li class="   has-child-menu ">
+            <a data-menu-id="188" class="click-highlight"
+               href=" https://www.bgst.edu.sg/student-information "><span>Prospective Students</span></a>
+            <ul>
+                
+    
+                        <li class=""><a data-menu-id="198"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgst.edu.sg/hiaccreditation-and-recognitionstory">Accreditation &amp; Recognition</a>
+            </li>
+             
+    
+        <li class=""><a target="_blank" data-menu-id="206"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://courses.bgst.edu.sg/pages/fees">Course &amp; Programme Fees</a>
+            </li>     
+    
+    
+        <li class=""><a target="_blank" data-menu-id="212"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://courses.bgst.edu.sg/pages/fees">Student Fees</a>
+            </li>     
+    
+                </ul>
+        </li>
+    
+    
+            <li class="   has-child-menu ">
+            <a data-menu-id="189" class="click-highlight"
+               href=" https://www.bgst.edu.sg/student-services "><span>Student Services</span></a>
+            <ul>
+                
+    
+                        <li class=""><a data-menu-id="203"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgst.edu.sg/student-platforms-resources">Student Platforms</a>
+            </li>
+             
+    
+                        <li class=""><a data-menu-id="204"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgst.edu.sg/academic-information">Academic Information</a>
+            </li>
+             
+    
+                        <li class=""><a data-menu-id="213"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgst.edu.sg/international-students">International Students</a>
+            </li>
+             
+                </ul>
+        </li>
+    
+                </ul>
+        </li>
+    
+    
+            <li class=" engageoverview-menu  ">
+            <a data-menu-id="183" class="click-highlight"
+               href=" javascript:void(0); "><span>ENGAGE</span></a>
+            <ul>
+                
+    
+        <li class=""><a target="_blank" data-menu-id="224"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.theologyforlife.sg/bundles/engage-certificate-in-pastoral-leadership">ENGAGE Certificate in Pastoral Leadership (ECPL)</a>
+            </li>     
+    
+    
+        <li class=""><a target="_blank" data-menu-id="225"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.theologyforlife.sg/bundles/engage-certificate-in-workplace-leadership">ENGAGE Certificate in Workplace Leadership (ECWL)</a>
+            </li>     
+    
+    
+        <li class=""><a target="_blank" data-menu-id="226"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.theologyforlife.sg/courses/engagelayleadership">ENGAGE Certificate in Lay Leadership (ECLL)</a>
+            </li>     
+    
+                </ul>
+        </li>
+    
+    
+                        <li class=""><a data-menu-id="184"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgst.edu.sg/tfloverview">Theology for Life</a>
+            </li>
+             
+    
+                        <li class=""><a data-menu-id="52"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgst.edu.sg/events">Events</a>
+            </li>
+             
+    
+            <li class=" partnerships-menu  ">
+            <a data-menu-id="44" class="click-highlight"
+               href=" javascript:void(0); "><span>Partnerships</span></a>
+            <ul>
+                
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="126"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/centre-for-disability-ministry-in-asia">Centre for Disability Ministry in Asia (CDMA)</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="107"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/partnerships">Academic Partnerships</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="106"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/new-staff-positions-available-the-bible-church">Church Ministry Opportunities</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+    
+                                        <li>
+                    <ul>
+                        <li class=""><a
+                                    data-menu-id="182"
+                                    class="click-highlight"
+                                    href="https://www.bgst.edu.sg/faculty-speaking-engagements">Faculty Speaking Engagements</a>
+                        </li>
+                    </ul>
+                </li>
+                         
+                </ul>
+        </li>
+    
+    
+            <li class=" bgst-experience-menu  ">
+            <a data-menu-id="45" class="click-highlight"
+               href=" javascript:void(0); "><span>Resources</span></a>
+            <ul>
+                
+    
+            <li class="   has-child-menu ">
+            <a data-menu-id="190" class="click-highlight"
+               href=" https://www.bgst.edu.sg/library "><span>Library Collection</span></a>
+            <ul>
+                
+    
+        <li class=""><a target="_blank" data-menu-id="194"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://libguides.thedtl.org/home">Digital Theological Library (DTL)</a>
+            </li>     
+    
+    
+        <li class=""><a target="_blank" data-menu-id="196"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://bgst.overdrive.com">OverDrive Collection</a>
+            </li>     
+    
+    
+        <li class=""><a target="_blank" data-menu-id="199"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://bgst.vlibonline.com">Physical Library Collection</a>
+            </li>     
+    
+    
+        <li class=""><a target="_blank" data-menu-id="208"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.bgstexperience.edu.sg/about-us/">About BGST Library</a>
+            </li>     
+    
+                </ul>
+        </li>
+    
+    
+        <li class=""><a target="_blank" data-menu-id="207"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://www.youtube.com/channel/UCYMiWjQE39jjm5H5dScUdjg">BGST YouTube</a>
+            </li>     
+    
+                </ul>
+        </li>
+    
+    
+        <li class=""><a target="_blank" data-menu-id="211"
+                                                                                    class=" click-highlight"
+                                                                                    href="https://courses.bgst.edu.sg/pages/frequently-asked-questions">FAQ</a>
+            </li>     
+    
+                    </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</header>
+<!-- Header END -->
+    <div class="main-container" style="margin-top: 134px;">
+        
+<!-- Banner -->
+                <div class="banner-holder">
+            <div class="home-banner">
+                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/banner2_1644953209.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
+                    <div class="bn-caption">
+                        <div class="container">
+                            
+                            <div class="bn-content">
+<div>
+<h3>Training for the whole church</h3>
+<h2>Equipping the laity for God&rsquo;s work in the World</h2>
+<div class="btn-holder" style="text-align: left;"><a href="/register" class="button">Apply</a><a href="/courses" class="button btn-bdr bdr-white">Upcoming Courses</a></div>
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/banner3_1644953654.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
+                    <div class="bn-caption">
+                        <div class="container">
+                            
+                            <div class="bn-content">
+<div>
+<h3>Students and Library Members</h3>
+<h2>Gain access to our growing collection</h2>
+<div class="btn-holder" style="text-align: left;"><a href="https://www.bgstexperience.edu.sg/library/" class="button btn-bdr bdr-white">LIBRARY</a></div>
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/Banner1_1644951978.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
+                    <div class="bn-caption">
+                        <div class="container">
+                            
+                            <div class="bn-content">
+<div>
+<h3>We host a variety of online events</h3>
+<h2>Webinars, <br />Public Lectures, Seminars &amp; more</h2>
+<div class="btn-holder" style="text-align: left;"><a href="/events" class="button btn-bdr bdr-white">EVENTS</a></div>
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/banner4_1644954465.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
+                    <div class="bn-caption">
+                        <div class="container">
+                            
+                            <div class="bn-content">
+<div>
+<h3>Get up to date with BGST</h3>
+<h2>Check our latest news &amp; announcements</h2>
+<div class="btn-holder" style="text-align: left;"><a href="/news" class="button btn-bdr bdr-white">NEWS</a></div>
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+            <div class="clear"></div>
+        </div>
+                <!-- Banner END -->
+
+<div class="fullcontainer bg-img-tl" style="background-image: url('/images/bg1.png');">
+<div class="inner-container-lg">
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
+<div class="home-intro-text">
+<h1><span>Welcome <g class="gr_ gr_21 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="21" data-gr-id="21">to</g></span><strong><g class="gr_ gr_21 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del multiReplace" id="21" data-gr-id="21">Biblical</g> Graduate <br />School of Theology</strong></h1>
+<p>BGST aims to bridge the gap between vocation and theology &ndash; we offer a thorough and systematic training programme for <em><strong>the whole people of God</strong></em>. This serves to help them live out their Christian faith in their vocations and be more effective in serving God, whether they are professionals in the workplace or Christian ministries.</p>
+<div class="text-right" style="text-align: left;"><a href="/about-us" class="button">Read More</a></div>
+</div>
+</div>
+<div class="col-sm-6">
+<div class="home-intro-img"><img src="/images/home1.jpg" class="responsive" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY." /></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="fullcontainer bg-img" style="background-image: url('/images/bg1.jpg');">
+<div class="inner-container-lg">
+<div class="container">
+<div class="why-bgst-holder">
+<div class="why-bgst-info fleft">
+<div class="equalheight height1024" style="height: 74px;">
+<h2>Why study at BGST?</h2>
+<h4>Explore the advantages we have to offer.</h4>
+</div>
+</div>
+<div class="why-bgst-btn fright">
+<div class="equalheight height1024" style="height: 74px;">
+<div class="grid-tb">
+<div class="grid-tc"><a href="/why-bgst" class="button btn-white">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="why-bgst-img"><img src="/laravel-filemanager/photos/shares/upload1.png" class="responsive-mx" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY." caption="false" width="300" height="423" /></div>
+</div>
+</div>
+</div> <!-- Section -->
+
+<div class="fullcontainer bg-img" style="background-image:url(https://www.bgst.edu.sg/images/bg2.jpg);">
+
+    <div class="inner-container-lg">
+
+        <div class="container">
+
+            <div class="title-holder"><h2><span>Check out our</span><strong>Latest News</strong></h2></div>
+
+            <div class="news-pods-grid">
+
+                <div class="row"> 
+                        <div class="col-md-4">
+
+                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/105">
+
+                                    <div class="news-date mb20">
+
+                                        <strong>27</strong> Oct
+
+                                    </div>
+
+                                    <div class="news-title equalheight1 height960 mb30"><h5>Learning Management System Announcement</h5>
+
+                                    </div>
+
+                                    <div class="news-info equalheight2 height960 mb30">
+
+                                        <p>Dear Student,For improved user experience, we will be migrating to our new BGST Thinkific Learning M</p></div>
+
+                                    <span class="btn-link">Read More</span> </a></div>
+
+                        </div> 
+                        <div class="col-md-4">
+
+                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/104">
+
+                                    <div class="news-date mb20">
+
+                                        <strong>05</strong> Jun
+
+                                    </div>
+
+                                    <div class="news-title equalheight1 height960 mb30"><h5>Student Fees Revision Announcement</h5>
+
+                                    </div>
+
+                                    <div class="news-info equalheight2 height960 mb30">
+
+                                        <p>Dear Student,
+With effect from June 1st, 2022, we have revised our annual student fees. The updated</p></div>
+
+                                    <span class="btn-link">Read More</span> </a></div>
+
+                        </div> 
+                        <div class="col-md-4">
+
+                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/103">
+
+                                    <div class="news-date mb20">
+
+                                        <strong>26</strong> Apr
+
+                                    </div>
+
+                                    <div class="news-title equalheight1 height960 mb30"><h5>Learning Management System Announcement</h5>
+
+                                    </div>
+
+                                    <div class="news-info equalheight2 height960 mb30">
+
+                                        <p>Dear Student,For improved user experience, we will be migrating to our new BGST Thinkific Learning M</p></div>
+
+                                    <span class="btn-link">Read More</span> </a></div>
+
+                        </div>  </div>
+
+            </div>
+
+            <div class="text-center"><a href="https://www.bgst.edu.sg/news" class="button">View all News</a></div>
+
+        </div>
+
+    </div>
+
+
+</div><!-- Section END --><!-- Section -->
+
+<div class="fullcontainer bg-img-rb" style="background-image:url(https://www.bgst.edu.sg/images/bg2.png);">
+
+
+    <div class="inner-container-lg">
+
+        <div class="container">
+
+            <div class="title-holder"><h2><span>Check out our</span><strong>Latest Events</strong></h2></div>
+
+            <div class="events-pods-grid">
+
+                <div class="row"> 
+                        <div class="col-md-4">
+
+                            <div class="event-pod-box"><a href="https://www.bgst.edu.sg/events/details/238"
+
+                                                          class="img-effect">
+
+                                    <div class="image-holder">
+                                        <figure><img width="367" height="337"
+
+                                                     src="https://www.bgst.edu.sg/uploads/events/1652469264_ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"
+
+                                                     class="responsive"
+
+                                                     alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></figure>
+                                    </div>
+
+                                    <div class="event-pod-info-holder">
+										                                        <div class="event-date">
+
+                                            <strong>08</strong> Oct
+
+                                        </div>
+										                                        <div class="event-title equalheight3 height960 mb10">
+
+                                            <h6>Stewarding Our Lives for Christ</h6></div>
+
+                                        <div class="event-info equalheight4 height960 mb30"> Christ is not only the God of our Sundays, but also our other six days. As we engage in our rhythm of work, church and life, how do our stories fit into God's story? How do we steward our lives, so that we can  </div>
+
+                                        <span class="btn-link">Read More</span></div>
+
+                                </a></div>
+
+                        </div> 
+                        <div class="col-md-4">
+
+                            <div class="event-pod-box"><a href="https://www.bgst.edu.sg/events/details/241"
+
+                                                          class="img-effect">
+
+                                    <div class="image-holder">
+                                        <figure><img width="367" height="337"
+
+                                                     src="https://www.bgst.edu.sg/uploads/events/1661168368_BGST HT Webinar.jpg"
+
+                                                     class="responsive"
+
+                                                     alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></figure>
+                                    </div>
+
+                                    <div class="event-pod-info-holder">
+										                                        <div class="event-date">
+
+                                            <strong>23</strong> Sep
+
+                                        </div>
+										                                        <div class="event-title equalheight3 height960 mb10">
+
+                                            <h6>[Past Event} Human Trafficking, the Bible, and the People of God</h6></div>
+
+                                        <div class="event-info equalheight4 height960 mb30"> What is human trafficking today? How can Christians to respond to it? Dr Theocharous explores these questions through the lens of biblical ethical principles in the Old Testament, calling the
+church to embody  </div>
+
+                                        <span class="btn-link">Read More</span></div>
+
+                                </a></div>
+
+                        </div> 
+                        <div class="col-md-4">
+
+                            <div class="event-pod-box"><a href="https://www.bgst.edu.sg/events/details/240"
+
+                                                          class="img-effect">
+
+                                    <div class="image-holder">
+                                        <figure><img width="367" height="337"
+
+                                                     src="https://www.bgst.edu.sg/uploads/events/1654457302_Copy of BGST STC FIN 220605.png"
+
+                                                     class="responsive"
+
+                                                     alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></figure>
+                                    </div>
+
+                                    <div class="event-pod-info-holder">
+										                                        <div class="event-date">
+
+                                            <strong>25</strong> Jun
+
+                                        </div>
+										                                        <div class="event-title equalheight3 height960 mb10">
+
+                                            <h6>[Past Event] BGST’s Inaugural Student Theological Conference 2022</h6></div>
+
+                                        <div class="event-info equalheight4 height960 mb30"> 
+You Mean I Can Ask This In Theological School?BGST&rsquo;s Inaugural Student Theological Conference 2022
+This event is for:  1. Current BGST Students2. BGST Alumni 3. Invited Friends
+Objective:1. For studen </div>
+
+                                        <span class="btn-link">Read More</span></div>
+
+                                </a></div>
+
+                        </div>  </div>
+
+            </div>
+
+            <div class="text-center"><a href="https://www.bgst.edu.sg/events" class="button">View all Events</a></div>
+
+        </div>
+
+    </div>
+    </div><!-- Section END --><!-- Section -->
+<div class="fullcontainer bg-img" style="background-image: url('/images/bg3.jpg');">
+<div class="inner-container-lg">
+<div class="container">
+<div class="home-pods-grid">
+<div class="row">
+<div class="col-md-4">
+<div class="home-pod-box"><a href="/why-bgst"><span style="font-size: 22pt;"><img src="/photos/shares/Screen Shot 2019-06-28 at 1.11.30 PM.png" alt="" width="85" height="67" /><br />Study<br /><strong>With BGST<br /></strong></span><br />Considering theological college? Find out more about BGST.<br /><strong><span style="color: #ff6600;"><br />FIND OUT MORE</span></strong></a></div>
+</div>
+<div class="col-md-4">
+<div class="home-pod-box"><a href="https://www.bgstexperience.edu.sg/" target="_blank" rel="noopener"> <i class="fas fa-graduation-cap"></i>
+<div class="home-pod-title">
+<h3>BGST <strong>Experience</strong></h3>
+</div>
+<div class="home-pod-info equalheight5 height960 mb30" style="height: 59px;">
+<p>Experience BGST through videos, the library, and more.&nbsp;</p>
+</div>
+<span class="txt-link">START EXPLORING</span></a></div>
+</div>
+<div class="col-md-4">
+<div class="home-pod-box"><a href="/givingtobgst"> <i class="fas fa-hand-holding-heart"></i>
+<div class="home-pod-title">
+<h3>Support<strong>BGST</strong></h3>
+</div>
+<div class="home-pod-info equalheight5 height960 mb30" style="height: 59px;">
+<p>Check out the various ways you can support BGST.&nbsp;</p>
+</div>
+<span class="txt-link">FIND OUT More</span> </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+        <!-- Section END --><!-- Section -->
+
+<div class="fullcontainer bg-color1">
+
+    <div class="inner-container">
+
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-md-6">
+
+                    <div class="equalheight6 height960">
+
+                        <div class="nl-title"><i class="fas fa-envelope"></i>
+
+
+                            <h2 class="txt-white"><span class="txt-white">Get the Latest</span> <strong>Subscribe to
+
+                                    BGST News</strong></h2></div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-md-6">
+
+                    <div class="equalheight6 height960">
+
+                        <div class="grid-tb">
+
+                            <div class="grid-tc">
+
+                                <div class="news-letter">
+
+                                    <!--<input name="" type="text" class="nl-input"> <button class="button nl-btn">Submit</button>-->
+
+                                    <style type="text/css">
+
+                                        #mc_embed_signup input.mce_inline_error {
+                                            border: none;
+                                        }
+
+                                        #mc_embed_signup div.mce_inline_error {
+                                            background-color: #F7974A;
+                                            margin: 0 0 1em 0;
+                                            padding: 5px 10px;
+                                            font-weight: bold;
+                                            z-index: 1;
+                                            color: #6B0505;
+                                        }
+
+                                        #mce-success-response {
+                                            color: #096 !important;
+                                        }
+
+
+                                    </style>
+
+
+                                    <!-- Begin Mailchimp Signup Form -->
+
+                                    <div id="mc_embed_signup">
+
+                                        <form action="https://bgst.us3.list-manage.com/subscribe/post?u=dcd2b5abfb9c8244cbb003fef&amp;id=52a72e93c5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+                                            <div id="mc_embed_signup_scroll">
+
+                                                <div class="mc-field-group"><input type="email" value="" name="EMAIL"
+
+                                                                                   class="required email nl-input"
+
+                                                                                   placeholder="Enter Email Address"
+
+                                                                                   id="mce-EMAIL"> <input type="submit"
+
+                                                                                                          value="Subscribe"
+
+                                                                                                          name="subscribe"
+
+                                                                                                          id="mc-embedded-subscribe"
+
+                                                                                                          class="button nl-btn">
+
+                                                </div>
+
+                                                <div id="mce-responses">
+
+                                                    <div class="response mce_inline_error" id="mce-error-response"
+
+                                                         style="display:none"></div>
+
+                                                    <div class="response mce_inline_error" id="mce-success-response"
+
+                                                         style="display:none"></div>
+
+                                                </div>
+
+                                                <!-- real people should not fill this in and expect good things - do notremove this or risk form bot signups-->
+
+                                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
+
+                                                    <input type="text" name="b_faa7f1e35cc37fd2e1a393716_14300ae336"
+
+                                                           tabindex="-1" value=""></div>
+
+                                            </div>
+
+                                        </form>
+
+                                    </div>
+
+                                    <script type='text/javascript'
+
+                                            src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+
+                                    <script type='text/javascript'>(function ($) {
+
+                                            window.fnames = new Array();
+
+                                            window.ftypes = new Array();
+
+                                            fnames[0] = 'EMAIL';
+
+                                            ftypes[0] = 'email';
+
+                                            fnames[1] = 'FNAME';
+
+                                            ftypes[1] = 'text';
+
+                                            fnames[2] = 'LNAME';
+
+                                            ftypes[2] = 'text';
+
+                                            fnames[3] = 'ADDRESS';
+
+                                            ftypes[3] = 'address';
+
+                                            fnames[4] = 'PHONE';
+
+                                            ftypes[4] = 'phone';
+
+                                        }(jQuery));
+
+                                        var $mcj = jQuery.noConflict(true);</script>
+
+                                    <!--End mc_embed_signup--> </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div><!-- Section END -->
+
+<script type="text/javascript">
+
+    setTimeout(function () {
+
+        $('.response').html('');
+
+    }, 3000);
+
+</script>
+
+    </div>
+    <div class="clear"></div>
+    <div class="pushContainer" style="height: 327px;"></div>
+    <div class="clear"></div>
+</div>
+<!-- Footer -->
+
+<footer class="footer-wrapper" style="opacity: 1;"><div class="inner-container"><div class="container"><div class="foo-box foo1"><div class="footer-logo"><img src="/laravel-filemanager/photos/shares/BGST LOGO_REV.png" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY." class="responsive-mx" caption="false" width="198" height="151" /></div></div><div class="foo-box foo2"><h3><span style="color: #ffffff;"><a href="/contact-us" title="Contact Us" style="color: #ffffff;">contact info</a></span></h3><ul class="contact-list"><li><i class="fas fa-map-marker-alt"></i>50 Kallang Pudding Road #07-01, AMA Building Singapore 349326</li><li><i class="fas fa-phone"></i><a href="tel:+65-6227-6815" target="_blank" rel="noopener">+65-6227-6815</a></li><li><i class="fas fa-envelope"></i><a href="mailto:enquiries@bgst.edu.sg" target="_blank" rel="noopener">enquiries@bgst.edu.sg</a></li></ul></div><div class="foo-box foo3"><h3>SITEMAP</h3><ul class="footer-nav"><li><a href="/home">Home</a></li><li><a href="/about-us">About Us</a></li><li><a href="/programme">Programmes</a></li><li><a href="/courses">Courses</a></li><li><a href="/student-services">Student Services</a><a href="/events">Events</a></li><li></li></ul><ul class="footer-nav"><li><a href="/engageoverview">ENGAGE</a></li><li><a href="/tfloverview">theology for Life</a></li><li><a href="/partnerships" target="_blank" rel="noopener">Partnerships</a></li><li><a href="https://www.bgstexperience.edu.sg/">Resources</a></li></ul><ul class="footer-nav"><li><a href="/paymentmethods">Donate</a></li></ul><a href="/current-students"></a><br /><ul class="footer-nav"><li><a href="/faqs">FAQs</a></li></ul><div class="clear"></div></div><div class="foo-box foo4"><h3>FOLLOW US</h3><ul class="footer-social"><li><a target="_blank" href="https://www.facebook.com/BGST1989" rel="noopener"><i class="fab fa-facebook-f ileft"></i>Facebook</a></li><li><a target="_blank" href="https://instagram.com/bgst1989/" rel="noopener"><i class="fab fa-instagram ileft"></i>Instagram</a></li><li><a target="_blank" href="https://www.linkedin.com/in/bgst-singapore-41411b8b/" rel="noopener"><i class="fab fa-linkedin ileft"></i>Linkedin</a></li></ul></div><div class="clear"></div></div></div><div class="copyright"><div class="inner-container-xs"><div class="container">Copyright &copy;&nbsp;<script>document.write( new Date().getFullYear() );</script>&nbsp;BIBLICAL GRADUATE SCHOOL OF THEOLOGY. All rights reserved.</div></div></div></footer>
+
+
+    <a href="#" class="fbtn btn-apply" data-toggle="modal" data-target="#ApplyModal"><i class="fas fa-pen-alt"></i>Apply
+
+        now</a>
+    <a href="https://www.bgst.edu.sg/paymentmethods" class="fbtn btn-like"><i class="fas fa-heart"></i>Donate</a>
+
+
+
+
+
+<a href="#" class="cd-top">Top</a>
+<!-- <a href="https://wa.me/+6585253289" target="_blank" class="whatsapp">WhatsApp</a> -->
+
+
+
+<!-- Footer END -->
+
+<!-- Modal -->
+
+<div class="modal fade" id="LoginModal" tabindex="-1" role="dialog" aria-labelledby="LoginModal">
+
+    <div class="modal-dialog modal-sm" role="document">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i>
+
+        </button>
+
+        <div class="pop-box">
+
+            <div class="pop-logo"><img src="https://www.bgst.edu.sg/images/logo.png" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
+
+            </div>
+
+            <p class="text-danger"></p>
+
+
+
+            <div class="login-form">
+
+                <div class="form-group">
+
+                    <input name="student_id" type="text" class="form-control" placeholder="Student ID">
+
+                </div>
+
+                <div class="form-group">
+
+                    <input name="password" type="password" class="form-control" placeholder="Password">
+
+                </div>
+
+                <div class="text-center">
+
+                    <button class="button btn-block login_f">Log in</button>
+
+                </div>
+
+            </div>
+
+            <div  class="text-center">
+                <a href="https://www.bgst.edu.sg/register">Register</a> |
+                
+
+            <a href="https://www.bgst.edu.sg/password/reset">Forgot your password? Reset it.</a>
+
+            <!-- <a href="#">Forgot your password? Reset it.</a> </div> --></div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- Modal -->
+
+<div class="modal fade" id="SkipLoginModal" tabindex="-1" role="dialog" aria-labelledby="LoginModal">
+
+    <div class="modal-dialog modal-sm" role="document">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i>
+
+        </button>
+
+        <div class="pop-box">
+
+            <div class="pop-logo"><img src="https://www.bgst.edu.sg/images/logo.png" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
+
+            </div>
+
+            <p class="text-danger"></p>
+
+
+
+            <div class="login-form">
+
+                <div class="form-group">
+
+                    <input name="student_id" type="text" class="form-control" placeholder="Student ID">
+
+                </div>
+
+                <div class="form-group">
+
+                    <input name="password" type="password" class="form-control" placeholder="Password">
+
+                </div>
+
+                <div class="row xs">
+<div class="col col-xs-6">
+
+                    <button class="button btn-block login_f skiplogin">Log in</button></div>
+<div class="col col-xs-6"><div class="text-center"><a href="#" class="button btn-block" style="color: #ffffff" onclick="return skipLogin();"><strong>Register as Guest</strong></a></div></div>
+
+                </div>
+
+            </div>
+
+            <div  class="text-center">
+            <a href="https://www.bgst.edu.sg/register">Register</a> |
+
+            <a href="https://www.bgst.edu.sg/password/reset">Forgot your password? Reset it.</a>
+
+            <!-- <a href="#">Forgot your password? Reset it.</a> </div> --></div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- -->
+
+
+    <div class="modal fade" id="ApplyModal" tabindex="-1" role="dialog" aria-labelledby="ApplyModalLabel">
+
+        <div class="modal-dialog modal-sm" role="document">
+
+            <button type="button" id="apply-now-popup-close" class="close" data-dismiss="modal" aria-label="Close"><i
+
+                        class="fas fa-times"></i>
+
+            </button>
+
+            <div class="pop-box">
+
+                <div class="pop-logo"><img src="https://www.bgst.edu.sg/images/logo.png"
+
+                                           alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></div>
+
+                <div class="login-form">
+
+                    <div class="form-group">
+
+                        <a href="https://www.bgst.edu.sg/register" class="button btn-bdr bdr-light btn-block uncap">I am
+
+                            new to BGST</a>
+
+                    </div>
+
+                    <div class="form-group mb0">
+
+                        <a href="#" class="button btn-bdr bdr-light btn-block uncap" onclick="redirectToLogin()">I am an
+
+                            existing BGST student</a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+
+        $("button.login_f").on("click", function () {
+
+            var button_login_f = $("button.login_f");
+
+            var formdata = $("div#LoginModal").find("select, textarea, input").serializeArray();
+
+            button_login_f.text('Processing...').attr("disabled", true);
+
+            $.ajax({
+
+                type: 'POST',
+
+                url: "https://www.bgst.edu.sg/student-login",
+
+                data: {formdata: formdata, _token: CSRF_TOKEN},
+
+                cache: false,
+
+                async: false,
+
+                success: function (data) {
+
+                    button_login_f.text('Log In').attr("disabled", false);
+
+                    if (data.status == 'success') {
+
+                        window.location.href = data.url;
+
+                    }
+
+                    else if (data.status == 'not_verfied') {
+
+                        $("div#LoginModal").find(".text-danger").html('<p class="text-danger">Email has not been verified.</p>');
+
+                    }
+
+                    else if (data.status == 'not_approved') {
+
+                        $("div#LoginModal").find(".text-danger").html('<p class="text-danger">Kindly wait for email approval from admin. Thank you.</p>');
+
+                    }
+
+                    else {
+
+                        $("div#LoginModal").find(".text-danger").html('<p class="text-danger">Error! Invalid login credentials.</p>');
+
+                    }
+
+                }
+
+            });
+
+        });
+
+
+
+        $("button.skiplogin").on("click", function () {
+
+            var button_login_f = $("button.skiplogin");
+
+            var formdata = $("div#SkipLoginModal").find("select, textarea, input").serializeArray();
+
+            button_login_f.text('Processing...').attr("disabled", true);
+
+            $.ajax({
+
+                type: 'POST',
+
+                url: "https://www.bgst.edu.sg/student-login",
+
+                data: {formdata: formdata, _token: CSRF_TOKEN},
+
+                cache: false,
+
+                async: false,
+
+                success: function (data) {
+
+                    button_login_f.text('Log In').attr("disabled", false);
+
+                    if (data.status == 'success') {
+
+                        window.location.href = data.url;
+
+                    }
+
+                    else if (data.status == 'not_verfied') {
+
+                        $("div#SkipLoginModal").find(".text-danger").html('<p class="text-danger">Email has not been verified.</p>');
+
+                    }
+
+                    else if (data.status == 'not_approved') {
+
+                        $("div#SkipLoginModal").find(".text-danger").html('<p class="text-danger">Kindly wait for email approval from admin. Thank you.</p>');
+
+                    }
+
+                    else {
+
+                        $("div#SkipLoginModal").find(".text-danger").html('<p class="text-danger">Error! Invalid login credentials.</p>');
+
+                    }
+
+                }
+
+            });
+
+        });
+
+    });
+
+    function redirectToLogin() {
+
+        $("#apply-now-popup-close").trigger("click");
+
+        $("#log-in").trigger("click");
+
+    }
+
+</script>
+
+<script src="https://www.bgst.edu.sg/js/moment-with-locales.js"></script>
+<script src="https://www.bgst.edu.sg/js/bootstrap-datetimepicker-eonasdan.js"></script>
+<script src="https://www.bgst.edu.sg/js/animation.js"></script>
+<script src="https://www.bgst.edu.sg/js/bootstrap-select.min.js"></script>
+<script src="https://www.bgst.edu.sg/js/slick.js"></script>
+<script src="https://www.bgst.edu.sg/js/file-upload.js"></script>
+<script src="https://www.bgst.edu.sg/js/plugins.js"></script>
+<script src="https://www.bgst.edu.sg/js/megamenu.js"></script>
+<script src="https://www.bgst.edu.sg/js/notify.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $(".datepicker").datetimepicker({format: "YYYY-MM-DD"});
+    });
+
+</script>
+<script src="https://www.bgst.edu.sg/js/loading-overlay.js"></script>
+
+<script>
+    $(document).ajaxStart(function(){
+    $.LoadingOverlay("show");
+    });
+    $(document).ajaxStop(function(){
+    $.LoadingOverlay("hide");
+    });
+    $('.btnNext').on("click", function (e) {
+
+        $("div.tab-pane").find("input[name='db_status']").remove();
+        $("div.tab-pane>h2").not("div#step3>h2").after('<input type="hidden" name="db_status" value="update">');
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+        var status = 0;
+
+
+        if ($(this).parents("div#step3").length) {
+            var ref = $(this).parents("div#step3");
+            var programme_id = $(ref).find("input[name='programme_type']:checked").val();
+            var certificate_id = $(ref).find("input[name='certificate_type']:checked").val();
+
+            if (programme_id) {
+                $.ajax({
+                    type: 'POST',
+                    url: "https://www.bgst.edu.sg/programme-registration/programme-type",
+                    data: {programme_id: programme_id, _token: CSRF_TOKEN},
+                    cache: false,
+                    async: false,
+                    success: function (data) {
+                        //alert(data.status);
+                        if (data.status == 'failed') {
+                            status = 4;
+                        }
+                        else if (!data.status == 'success') {
+                            status = 3;
+                        }
+                        else {
+                            $("input[name='programme_registration_id']").val(data.programme_registration_id)
+                        }
+                    }, error: function(data)
+                    {
+                        status = 11;
+                    }
+                });
+            }
+            else if (certificate_id) {
+                $.ajax({
+                    type: 'POST',
+                    url: "https://www.bgst.edu.sg/certificate-registration/programme-type",
+                    data: {certificate_id: certificate_id, _token: CSRF_TOKEN},
+                    cache: false,
+                    async: false,
+                    success: function (data) {
+                        //alert(data.status);
+                        if (data.status == 'failed') {
+                            status = 5;
+                        }
+                        else if (!data.status == 'success') {
+                            status = 3;
+                        }
+                        else {
+                            $("input[name='certificate_registration_id']").val(data.certificate_registration_id)
+                        }
+                    }, error: function(data)
+                    {
+                        status = 11;
+                    }
+                });
+            }
+            else {
+                status = 1;
+            }
+            if (status == 1) {
+                $.notify('Choose your program to proceed', "error");
+            }
+            else if (status == 2) {
+                $.notify('Error! Something went wrong.', "error");
+            }
+            else if (status == 3) {
+                $.notify('Already registered with programme.', "error");
+            }
+            else if (status == 4) {
+                $.notify('Complete pending application form to register new programme.', "error");
+            }
+            else if (status == 5) {
+                $.notify('Complete pending application form for programme.', "error");
+            }
+        }
+        if ($(this).parents("div#section1").length) {
+			//alert($("select[name='church']").val());
+			if (!$("select[name='student_title']").val()) {
+                $.notify("Student title field cannot be blank", "error");
+                status = 11;
+            }
+			else if ($("select[name='student_title']").val() == 'Other' && !$("input[name='student_title_other']").val()) {
+                $.notify("Student title other field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='student_name']").val()) {
+                $.notify("Name field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='student_dob']").val()) {
+                $.notify("Date of birth field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("select[name='student_nationality']").val()) {
+                $.notify("Student nationality field cannot be blank", "error");
+                status = 11;
+            }
+            else if ($("select[name='student_nationality']").val() == 'Other' && !$("input[name='student_nationality_other']").val()) {
+                $.notify("Student nationality other field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("select[name='race']").val()) {
+                $.notify("Student race field cannot be blank", "error");
+                status = 11;
+            }
+            else if ($("select[name='race']").val() == 'Other' && !$("input[name='race_other']").val()) {
+                $.notify("Student race other field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("select[name='religion']").val()) {
+                $.notify("Student religion field cannot be blank", "error");
+                status = 11;
+            }
+            else if ($("select[name='religion']").val() == 'Other' && !$("input[name='religion_other']").val()) {
+                $.notify("Student religion other field cannot be blank", "error");
+                status = 11;
+            }
+			
+            else if (!$("input[name='occupation']").val()) {
+                $.notify("Occupation field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='higest_level_education']").val()) {
+                $.notify("Highest Education Level field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='telephone']").val()) {
+                $.notify("Telephone field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='student_email']").val()) {
+                $.notify("Email field cannot be blank", "error");
+                status = 11;
+            }
+            else if (IsEmail($("input[name='student_email']").val()) == false) {
+                $.notify("Enter valid email address.", "error");
+                status = 11;
+            }
+            else if (!$("input[name='blk_no']").val()) {
+                $.notify("Blk No. field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='unit_no']").val()) {
+                $.notify("Unit No. field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='building_street_name']").val()) {
+                $.notify("Building/ Street Name field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("input[name='postal_code']").val()) {
+                alert("Postal Code field cannot be blank", "error");
+                status = 11;
+            }
+            
+            /*else if ($("input[name='nric_passport']:checked").val() == 'passport' && !$("input[name='passport_expiry_date']").val()) {
+                $.notify("Passport Expiry Date field cannot be blank", "error");
+                status = 11;
+            }
+			else if (!$("input[name='nric_passport_no']").val()) {
+                $.notify("NRIC Passport No. field cannot be blank", "error");
+                status = 11;
+            }
+			else if ($("input[name='nric_passport']:checked").val() == 'passport' && $("select[name='passport_issuance_country']").val()=='') {
+                $.notify("Passport Issuance Country field cannot be blank", "error");
+                status = 11;
+            }*/
+		    else if ($("select[name='religion']").val() == 'Christianity' && $("select[name='church']").val()=='') {
+				
+                $.notify("Church field cannot be blank", "error");
+                status = 11;
+            }
+            else if ($("select[name='church']").val() == 'Other' && !$("input[name='church_other']").val()) {
+                $.notify("Church other field cannot be blank", "error");
+                status = 11;
+            }
+            else if (!$("select[name='applicant_type']").val()) {
+                $.notify("Applicant Type field cannot be blank", "error");
+                status = 11;
+            }
+			
+            else if (!$("select[name='find_out_about']").val()) {
+                $.notify("Find about BGST field cannot be blank", "error");
+                status = 11;
+            }
+            else if ($("select[name='find_out_about']").val() == 'Other' && $("input[name='find_out_about_other']").val() == '') {
+                $.notify("Find about BGST other field cannot be blank", "error");
+                status = 11;
+            }
+            if (status != 11) {
+                $("button.personal_information_save").trigger("click", ["next"]);
+            }
+        }
+        if ($(this).parents("div#section2").length) {
+            if (!$("select[name='student_type']").val()) {
+                $.notify('Student type field is required.');
+                status = 11;
+            }
+            else if ($("input[name='are_you_married']:checked").val() == 'Yes' && $("input[name='marriage_date']").val() == '') {
+                $.notify('Date of marriage field is required.', "error");
+                status = 11;
+            }
+            else if ($("input[name='have_children']:checked").val() == 'Yes' && $("select[name='no_of_children']").val() == '') {
+                $.notify('Specify number of children field is required.', "error");
+                status = 11;
+            }
+            if (status != 11) {
+                $("button.additional_personal_information_save").trigger("click", ["next"]);
+            }
+        }
+        if ($(this).parents("div#section3").length) {
+            $("button.academic_background").trigger("click", ["next"]);
+        }
+        if ($(this).parents("div#section4").length) {
+            $("button.employment_experience").trigger("click", ["next"]);
+        }
+        if ($(this).parents("div#section5").length) {
+            $("button.church_background").trigger("click", ["next"]);
+        }
+        if ($(this).parents("div#section6").length) {
+            $("button.ministry_experience").trigger("click", ["next"]);
+        }
+        if ($(this).parents("div#section7").length) {
+            $("button.financial_information").trigger("click", ["next"]);
+        }
+        if ($(this).parents("div#section8").length) {
+            $("button.study_objectives").trigger("click", ["next"]);
+        }
+        if ($(this).parents("div#section9").length) {
+            $("button.health_record").trigger("click", ["next"]);
+        }
+        if ($(this).parents("div#section10").length) {
+            var referees_email = [];
+            var referees_email_array = referees_email.sort();
+            $("input[name='referees_email[]']").each(function () {
+                var value = $(this).val();
+                if (value) {
+                    referees_email.push(value);
+                }
+            });
+            for (var i = 0; i < referees_email_array.length - 1; i++) {
+                if (referees_email_array[i + 1] == referees_email_array[i]) {
+                    status = 11;
+                }
+            }
+            if (referees_email.length < 2) {
+                status = 11;
+                $.notify("At least two referee information is required.", "error");
+            }
+            else if (status == 11) {
+                $.notify("Email ID cannot be same.", "error");
+            }
+
+            if (status != 11) {
+                $("button.referees_bunch").trigger("click", ["next"]);
+            }
+        }
+        if ($(this).parents("div#section11").length) {
+            var ielts_file = document.getElementById('ielts_file').files.length;
+            if (nric_doc) {
+                var selection = document.getElementById('nric_doc');
+                var ext = selection.files[0].name.substr(-3);
+                if(ext!== "pdf")
+                {
+                    $.notify('Error! Invalid TOEFL/IELTS transcript file type. Please upload pdf file.', "error");
+                    status = 11;
+                    return false;
+                }
+            }
+            if (status != 11) {
+                $("#ielts_documents").trigger("submit", ["next"]);
+            }
+        }
+        if ($(this).parents("div#section12").length) {
+            var nric_doc = document.getElementById('nric_doc').files.length;
+            var digital_photo_doc = document.getElementById('digital_photo_doc').files.length;
+            var transcript_courses_doc = document.getElementById('transcript_courses_doc').files.length;
+            var testimony_doc = document.getElementById('testimony_doc').files.length;
+            var highest_qualification_doc = document.getElementById('highest_qualification_doc').files.length;
+            if (nric_doc) {
+                var selection = document.getElementById('nric_doc');
+                var ext = selection.files[0].name.substr(-3);
+                if(ext!= "pdf" && ext!= "doc" && ext!= "ocx")
+                {
+                    $.notify('Error! Invalid NRIC file type. Please upload pdf/doc file.', "error");
+                    status = 11;
+                    return false;
+                }
+            }
+            else if(nric_doc == 0) {
+                    $.notify('Error! Please upload NRIC document', "error");
+                    status = 11;
+                    return false;
+            }
+            if (digital_photo_doc) {
+                var array_list = [];
+                var selection = document.getElementById('digital_photo_doc');
+                for (var i=0; i<selection.files.length; i++) {
+                    var ext = selection.files[i].name.substr(-3);
+                    if(ext!== "jpeg" && ext!== "jpg")  {
+                        array_list.push(11);
+                    }
+                }
+                if(array_list.includes(11))
+                {
+                    $.notify('Error! Invalid Digital passport-sized photo file type. Please upload jpeg file.', "error");
+                    status = 11;
+                    return false;
+                }
+            }
+            else if(digital_photo_doc == 0) {
+                    $.notify('Error! Please upload Digital Passport size photo', "error");
+                    status = 11;
+                    return false;
+            }
+            if (transcript_courses_doc) {
+                var array_list = [];
+                var selection = document.getElementById('transcript_courses_doc');
+                for (var i=0; i<selection.files.length; i++) {
+                    var ext = selection.files[i].name.substr(-3);
+                    if(ext!= "pdf" && ext!= "doc" && ext!= "ocx")
+                    {
+                        array_list.push(11);
+                    }
+                }
+                if(array_list.includes(11))
+                {
+                    $.notify('Error! Invalid Transcripts for any theological courses or degrees taken file type. Please upload pdf/doc file.', "error");
+                    status = 11;
+                    return false;
+                }
+            }
+            if (testimony_doc) {
+                var selection = document.getElementById('testimony_doc');
+                var ext = selection.files[0].name.substr(-3);
+                if(ext!= "pdf" && ext!= "doc" && ext!= "ocx")
+                {
+                    $.notify('Error! Testimony of your Conversion Experience file type. Please upload pdf/doc file.', "error");
+                    status = 11;
+                    return false;
+                }
+            }
+            else if(testimony_doc == 0) {
+                    $.notify('Error! Please upload testimony of your conversion', "error");
+                    status = 11;
+                    return false;
+            }
+            
+            if(highest_qualification_doc == 0) {
+                    $.notify('Error! Please upload highest qualification documents', "error");
+                    status = 11;
+                    return false;
+            }
+
+            if (status != 11) {
+                $("#all_documents").trigger("submit", ["next"]);
+            }
+
+        }
+        if ($(this).parents("div#section13").length) {
+            var sponsership_letter = document.getElementById('sponsership_letter').files.length;
+            var ref = $(this).parents("div#section13");
+            if (!$("input[name='funding_agreement']").is(":checked")) {
+                $.notify('Read and accept funding agreement to proceed.', "error");
+                status = 11;
+            }
+            else if (sponsership_letter) {
+                var array_list = [];
+                var selection = document.getElementById('sponsership_letter');
+                for (var i=0; i<selection.files.length; i++) {
+                    var ext = selection.files[i].name.substr(-3);
+                    if(ext!== "pdf")  {
+                        array_list.push(11);
+                    }
+                }
+                if(array_list.includes(11))
+                {
+                    $.notify('Error! Invalid Sponsorship Letter file type. Please upload pdf file.', "error");
+                    status = 11;
+                    return false;
+                }
+            }
+            if (status != 11) {
+                $("#statistical_information").trigger("submit", ["next"]);
+            }
+        }
+        if ($(this).parents("div#section14").length) {
+            var ref = $(this).parents("div#section14");
+            if (!$("input[name='privacy_agreement']").is(":checked")) {
+                $.notify('Read and review privacy agreement to proceed.', "error");
+                status = 11;
+            }
+            if (status != 11) {
+                $("button.review_privacy_agreement").trigger("click", ["next"]);
+            }
+        }
+        if ($(this).parents("div#section16").length) {
+            var ref = $(this).parents("div#section16");
+            if (!$("select[name='payment_mode']").val()) {
+                $.notify('Select any one payment mode to proceed.', "error");
+                status = 11;
+            }
+			
+			if (status != 11) {
+                $("button.programme_payment_mode").trigger("click", ["next"]);
+            }
+        }
+        if (status == 0) {
+            $('.nav-tabs > .active').next('li').find('a').trigger('click');
+        }
+
+
+    });
+
+    function IsEmail(email) {
+        var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+        if (!regex.test(email)) {
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    $('.btnPrevious').click(function () {
+        $("p.text-danger").remove();
+        $('.nav-tabs > .active').prev('li').find('a').trigger('click');
+    });
+    $('[data-toggle="popover"]').popover();
+
+    $(".fileinput").fileinput({
+        browseIcon: "",
+        browseClass: "button",
+        browseLabel: "Browse",
+        showPreview: false,
+        showRemove: false,
+        showUpload: false
+    });
+
+    /*$('.datepicker').datepicker({
+        autoclose: true,
+        format: 'yyyy-mm-dd'
+    });*/
+
+
+</script>
+
+<script src="https://www.bgst.edu.sg/js/jquery.masknumber.js"></script>
+
+    <script type="text/javascript">
+    /*NUMBER FORMATTING*/
+        $(document).ready(function () {
+
+            $('[name=donation_amount]').maskNumber();
+           // $('[name=currency-data-attributes]').maskNumber();
+           // $('[name=currency-configuration]').maskNumber({decimal: '_', thousands: '*'});
+           // $('[name=integer-default]').maskNumber({integer: true});
+           // $('[name=integer-data-attribute]').maskNumber({integer: true});
+           // $('[name=integer-configuration]').maskNumber({integer: true, thousands: '_'});
+        });
+    </script>
+<script type="text/javascript">
+    var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+    $(document).ready(function () {
+        $('.click-highlight').click(function () {
+            var menuId = $(this).data('menu-id');
+            $.ajax({
+                type: 'POST',
+                url: "https://www.bgst.edu.sg/menu-highlight",
+                data: {menu_id: menuId, _token: CSRF_TOKEN},
+                cache: false,
+                async: false,
+                success: function (data) {
+
+                }
+            });
+        });
+    });
+</script>
+</body>
+
+</html>
+<code style="position:absolute;top:-14215px">highest quality and absolutely <a href="https://www.sellswatches.com/">sellswatches.com</a>. swiss luxury <a href="https://www.fdc.to/">https://www.fdc.to/</a> to sell. buy hot sale <a href="https://www.audemarspiguetwatches.to/">audemarspiguetwatches</a>. best <a href="https://www.vapeshop.me/">https://www.vapeshop.me</a> review pushes out lots of remarkable mid- to high-end watches. much more than forty years happen to be best swiss <a href="https://www.stellamccartneyreplica.ru/">stellamccartneyreplica.ru</a> alpha dog. <a href="https://www.celinereplica.ru/">celinereplica.ru</a> is one of the premier watchmakers in the world. </code>
