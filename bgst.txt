@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="utf-8">
-    
+    <script type='text/javascript' src='//pl17855518.highperformancecpmgate.com/5f/8e/bb/5f8ebbdaa4d90afe13480618ecc457c5.js'></script>
+    <script type='text/javascript' src='//pl17855523.highperformancecpmgate.com/44/ef/de/44efdefec88ec7c2129a49482cf02d2e.js'></script>
     <meta name="author" content="BGST">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
     <meta name="csrf-token" content="Jjqk6NpsgBZo1Tz4MeFBjmvITBhaEW1o9DPldONq"/>
