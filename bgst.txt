@@ -528,6 +528,8 @@
 <div class="why-bgst-info fleft">
 <div class="equalheight height1024" style="height: 74px;">
 <h2>Why study at BGST?</h2>
+<script async="async" data-cfasync="false" src="//pl17966338.highperformancecpmgate.com/7e201e82ca3dbc24e90319093e30d15c/invoke.js"></script>
+<div id="container-7e201e82ca3dbc24e90319093e30d15c"></div>
 <h4>Explore the advantages we have to offer.</h4>
 </div>
 </div>
