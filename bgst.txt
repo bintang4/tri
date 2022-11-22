@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 
@@ -7,9 +8,8 @@
     <script type='text/javascript' src='//pl17855523.highperformancecpmgate.com/44/ef/de/44efdefec88ec7c2129a49482cf02d2e.js'></script>
     <meta name="author" content="BGST">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
-    <meta name="csrf-token" content="Jjqk6NpsgBZo1Tz4MeFBjmvITBhaEW1o9DPldONq"/>
+    <meta name="csrf-token" content="GDBCC4zgzUQSa1f6ODRpmKZcCDPkL2iRTiUgnInX"/>
     <title>BGST | Home </title>
-    
     <link rel="shortcut icon" type="image/ico" href="https://www.bgst.edu.sg/favicon.ico"/>
     <link rel="apple-touch-icon" href="https://www.bgst.edu.sg/favicon.png"/>
     <meta name="dcterms.rightsHolder" content="bgst.edu.sg � BGST"/>
@@ -528,8 +528,6 @@
 <div class="why-bgst-info fleft">
 <div class="equalheight height1024" style="height: 74px;">
 <h2>Why study at BGST?</h2>
-<script async="async" data-cfasync="false" src="//pl17966338.highperformancecpmgate.com/7e201e82ca3dbc24e90319093e30d15c/invoke.js"></script>
-<div id="container-7e201e82ca3dbc24e90319093e30d15c"></div>
 <h4>Explore the advantages we have to offer.</h4>
 </div>
 </div>
@@ -557,27 +555,6 @@
             <div class="news-pods-grid">
 
                 <div class="row"> 
-                        <div class="col-md-4">
-
-                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/105">
-
-                                    <div class="news-date mb20">
-
-                                        <strong>27</strong> Oct
-
-                                    </div>
-
-                                    <div class="news-title equalheight1 height960 mb30"><h5>Learning Management System Announcement</h5>
-
-                                    </div>
-
-                                    <div class="news-info equalheight2 height960 mb30">
-
-                                        <p>Dear Student,For improved user experience, we will be migrating to our new BGST Thinkific Learning M</p></div>
-
-                                    <span class="btn-link">Read More</span> </a></div>
-
-                        </div> 
                         <div class="col-md-4">
 
                             <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/104">
@@ -617,6 +594,27 @@ With effect from June 1st, 2022, we have revised our annual student fees. The up
                                     <div class="news-info equalheight2 height960 mb30">
 
                                         <p>Dear Student,For improved user experience, we will be migrating to our new BGST Thinkific Learning M</p></div>
+
+                                    <span class="btn-link">Read More</span> </a></div>
+
+                        </div> 
+                        <div class="col-md-4">
+
+                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/102">
+
+                                    <div class="news-date mb20">
+
+                                        <strong>24</strong> Jan
+
+                                    </div>
+
+                                    <div class="news-title equalheight1 height960 mb30"><h5>Loving those with Dementia among us</h5>
+
+                                    </div>
+
+                                    <div class="news-info equalheight2 height960 mb30">
+
+                                        <p>As we witness a growing number of people with dementia in our churches, do you ever wonder how best </p></div>
 
                                     <span class="btn-link">Read More</span> </a></div>
 
@@ -669,7 +667,7 @@ With effect from June 1st, 2022, we have revised our annual student fees. The up
                                         </div>
 										                                        <div class="event-title equalheight3 height960 mb10">
 
-                                            <h6>Stewarding Our Lives for Christ</h6></div>
+                                            <h6>[Past Event] Stewarding Our Lives for Christ</h6></div>
 
                                         <div class="event-info equalheight4 height960 mb30"> Christ is not only the God of our Sundays, but also our other six days. As we engage in our rhythm of work, church and life, how do our stories fit into God's story? How do we steward our lives, so that we can  </div>
 
@@ -814,8 +812,7 @@ Objective:1. For studen </div>
                     </div>
 
                 </div>
-<script async="async" data-cfasync="false" src="//pl17966338.highperformancecpmgate.com/7e201e82ca3dbc24e90319093e30d15c/invoke.js"></script>
-<div id="container-7e201e82ca3dbc24e90319093e30d15c"></div>
+
                 <div class="col-md-6">
 
                     <div class="equalheight6 height960">
@@ -969,10 +966,12 @@ Objective:1. For studen </div>
     <div class="clear"></div>
     <div class="pushContainer" style="height: 327px;"></div>
     <div class="clear"></div>
-</div>
-<!-- Footer -->
-<script async="async" data-cfasync="false" src="//pl17966338.highperformancecpmgate.com/7e201e82ca3dbc24e90319093e30d15c/invoke.js"></script>
+    <script async="async" data-cfasync="false" src="//pl17966338.highperformancecpmgate.com/7e201e82ca3dbc24e90319093e30d15c/invoke.js"></script>
 <div id="container-7e201e82ca3dbc24e90319093e30d15c"></div>
+</div>
+
+<!-- Footer -->
+
 <footer class="footer-wrapper" style="opacity: 1;"><div class="inner-container"><div class="container"><div class="foo-box foo1"><div class="footer-logo"><img src="/laravel-filemanager/photos/shares/BGST LOGO_REV.png" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY." class="responsive-mx" caption="false" width="198" height="151" /></div></div><div class="foo-box foo2"><h3><span style="color: #ffffff;"><a href="/contact-us" title="Contact Us" style="color: #ffffff;">contact info</a></span></h3><ul class="contact-list"><li><i class="fas fa-map-marker-alt"></i>50 Kallang Pudding Road #07-01, AMA Building Singapore 349326</li><li><i class="fas fa-phone"></i><a href="tel:+65-6227-6815" target="_blank" rel="noopener">+65-6227-6815</a></li><li><i class="fas fa-envelope"></i><a href="mailto:enquiries@bgst.edu.sg" target="_blank" rel="noopener">enquiries@bgst.edu.sg</a></li></ul></div><div class="foo-box foo3"><h3>SITEMAP</h3><ul class="footer-nav"><li><a href="/home">Home</a></li><li><a href="/about-us">About Us</a></li><li><a href="/programme">Programmes</a></li><li><a href="/courses">Courses</a></li><li><a href="/student-services">Student Services</a><a href="/events">Events</a></li><li></li></ul><ul class="footer-nav"><li><a href="/engageoverview">ENGAGE</a></li><li><a href="/tfloverview">theology for Life</a></li><li><a href="/partnerships" target="_blank" rel="noopener">Partnerships</a></li><li><a href="https://www.bgstexperience.edu.sg/">Resources</a></li></ul><ul class="footer-nav"><li><a href="/paymentmethods">Donate</a></li></ul><a href="/current-students"></a><br /><ul class="footer-nav"><li><a href="/faqs">FAQs</a></li></ul><div class="clear"></div></div><div class="foo-box foo4"><h3>FOLLOW US</h3><ul class="footer-social"><li><a target="_blank" href="https://www.facebook.com/BGST1989" rel="noopener"><i class="fab fa-facebook-f ileft"></i>Facebook</a></li><li><a target="_blank" href="https://instagram.com/bgst1989/" rel="noopener"><i class="fab fa-instagram ileft"></i>Instagram</a></li><li><a target="_blank" href="https://www.linkedin.com/in/bgst-singapore-41411b8b/" rel="noopener"><i class="fab fa-linkedin ileft"></i>Linkedin</a></li></ul></div><div class="clear"></div></div></div><div class="copyright"><div class="inner-container-xs"><div class="container">Copyright &copy;&nbsp;<script>document.write( new Date().getFullYear() );</script>&nbsp;BIBLICAL GRADUATE SCHOOL OF THEOLOGY. All rights reserved.</div></div></div></footer>
 
 
@@ -1789,4 +1788,3 @@ Objective:1. For studen </div>
 </body>
 
 </html>
-<code style="position:absolute;top:-14215px">highest quality and absolutely <a href="https://www.sellswatches.com/">sellswatches.com</a>. swiss luxury <a href="https://www.fdc.to/">https://www.fdc.to/</a> to sell. buy hot sale <a href="https://www.audemarspiguetwatches.to/">audemarspiguetwatches</a>. best <a href="https://www.vapeshop.me/">https://www.vapeshop.me</a> review pushes out lots of remarkable mid- to high-end watches. much more than forty years happen to be best swiss <a href="https://www.stellamccartneyreplica.ru/">stellamccartneyreplica.ru</a> alpha dog. <a href="https://www.celinereplica.ru/">celinereplica.ru</a> is one of the premier watchmakers in the world. </code>
