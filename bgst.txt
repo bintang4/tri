@@ -1,1790 +1,1389 @@
-
-<!doctype html>
-<html lang="en">
-
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
 <head>
-    <meta charset="utf-8">
-    <script type='text/javascript' src='//pl17855518.highperformancecpmgate.com/5f/8e/bb/5f8ebbdaa4d90afe13480618ecc457c5.js'></script>
-    <script type='text/javascript' src='//pl17855523.highperformancecpmgate.com/44/ef/de/44efdefec88ec7c2129a49482cf02d2e.js'></script>
-    <meta name="author" content="BGST">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
-    <meta name="csrf-token" content="GDBCC4zgzUQSa1f6ODRpmKZcCDPkL2iRTiUgnInX"/>
-    <title>BGST | Home </title>
-    <link rel="shortcut icon" type="image/ico" href="https://www.bgst.edu.sg/favicon.ico"/>
-    <link rel="apple-touch-icon" href="https://www.bgst.edu.sg/favicon.png"/>
-    <meta name="dcterms.rightsHolder" content="bgst.edu.sg � BGST"/>
-    <link rel="icon" type="image/gif" href="https://bgst.edu.sg/animated_favicon1.gif"/>
-    <link href="https://www.bgst.edu.sg/css/animation.css" rel="stylesheet" type="text/css">
-    <link href="https://www.bgst.edu.sg/css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
-          integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
-    <!--[if lt IE 9]>
-    <script src="js/html5.js"></script>
-    <![endif]-->
-    <script src="https://www.bgst.edu.sg/js/respond.min.js"></script>
-    <script src="https://www.bgst.edu.sg/js/jquery-latest.js"></script>
-    <script src="https://www.bgst.edu.sg/js/bootstrap.min.js"></script>
-    <link href="https://www.bgst.edu.sg/css/slick.css" rel="stylesheet" type="text/css">
-    <link href="https://www.bgst.edu.sg/css/bootstrap-select.min.css" rel="stylesheet" type="text/css">
-    <link href="https://www.bgst.edu.sg/css/style.css" rel="stylesheet" type="text/css">
-    <link href="https://www.bgst.edu.sg/css/responsive.css" rel="stylesheet" type="text/css">
-    <link href="https://www.bgst.edu.sg/css/bootstrap-datetimepicker-eonasdan.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="https://www.bgst.edu.sg/assets/plugins/datatables.net-bs/css/dataTables.bootstrap.min.css">
-    <script src="https://www.bgst.edu.sg/assets/plugins/datatables.net/js/jquery.dataTables.min.js"></script>
-    <script src="https://www.bgst.edu.sg/assets/plugins/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
-    <style>
-        div.form-group > .bootstrap-select + input {
-            margin-top: 15px;
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5384118276825947"
+     crossorigin="anonymous"></script>
+<script type='text/javascript' src='//pl17990038.highperformancecpmgate.com/64/01/46/64014665e34a54b90f283a4c2bbe2ebc.js'></script>
+<script type='text/javascript' src='//pl17991402.highperformancecpmgate.com/83/aa/2e/83aa2e731089edc6b4e8d6e6eb671588.js'></script>
+{if in_array($smarty.get.sub, array('kruizy-iz-kazani', 'valaam', 'kizhi', 'kruizy-iz-samary', 'kruizy-iz-sankt-peterburga', 'kruizy-iz-moskvy', 'kruizy-iz-nizhnego-novgoroda', 'kruizy-po-volge', 'kruizy-iz-rostova-na-donu'))}
+<meta property="og:title" content="{$TITLE}" />
+{else}
+<title>{$TITLE}</title>
+{/if}
+{$META}
+<meta property="og:description" content="{$DESCRIPTION}" />
+<meta name="description" content="{$DESCRIPTION}" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- <meta name='yandex-verification' content='56a8525867332385' /> -->
+<meta name='yandex-verification' content='795db3193ee52f62' />
+<meta name="google-site-verification" content="M3o3enAXIY2MbSJ2U-FvA6bULRxotcPOBAAkYqaIaMM" />
+
+    <meta name="yandex-verification" content="ecd031b0f1b0c831" />
+    <meta name="google-site-verification" content="IiixyNg0tt4NS1NQ5nvdw4fgCK5XE6c-Qpuq6LyfJ-w" />
+<link rel="alternate" type="application/rss+xml" title="Новости в формате RSS" href="https://www.infoflot.com/news/rss/" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+{if !$DEV}
+	{literal}
+	<!--
+	  Social plugins
+	//-->
+	<!-- Facebook //-->
+	<meta property="og:image" content="https://www.infoflot.com/i/logo.png" />
+	<meta property="fb:admins" content="100000983101953" />
+	<meta name="google-site-verification" content="BNTEs93HiAmDbrJc68VJKvQA42aeWI6TuRt2GPWN-UU" />
+
+	<!-- Vkontakte //-->
+	<!-- Put this script tag to the <head> of your page -->
+	<script type="text/javascript" src="//vk.com/js/api/openapi.js"></script>
+	<script type="text/javascript">
+	VK.init({apiId: 2650194, onlyWidgets: true});
+	</script>
+		<script>
+			(function(w, d, u, i, o, s, p) {
+				if (d.getElementById(i)) { return; } w['MangoObject'] = o;
+				w[o] = w[o] || function() { (w[o].q = w[o].q || []).push(arguments) }; w[o].u = u; w[o].t = 1 * new Date();
+				s = d.createElement('script'); s.async = 1; s.id = i; s.src = u;
+				p = d.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+			}(window, document, '//widgets.mango-office.ru/widgets/mango.js', 'mango-js', 'mgo'));
+			mgo({calltracking: {id: 26075, elements: [{"numberText":"78007074418"}]}});
+		</script>
+	{/literal}
+{/if}
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/main.css?_v=99" />
+<link rel="stylesheet" type="text/css" href="/tabs.css?_v=2" />
+<link rel="stylesheet" type="text/css" href="/js/highslide/highslide.css" />
+
+{* We need jQuery 1.8.x for Bootstrap-datepicker *}
+<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> -->
+<script type="text/javascript" src="//static.infoflot.com/Scripts/jQuery/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/knockout/3.5.1/knockout-latest.min.js"></script>
+<script type="text/javascript" src="//booking.infoflot.com/Static/Scripts/core.js"></script>
+
+<script type="text/javascript" src="/js/highslide/highslide-full.min.js?_v=10"></script>
+<script type="text/javascript" src="/js/tooltips.js?_v=11"></script>
+<script type="text/javascript" src="/js/spell.js?_v=10"></script>
+<script type="text/javascript" src="/js/bpos.js?_v=10"></script>
+<!-- <script type="text/javascript" src="/js/snowstorm.js?_v=10"></script> -->
+<script type="text/javascript" src="/js/jquery.simslider.js?_v=11"></script>
+
+<script type="text/javascript" src="/slide.js?_v=10"></script>
+
+<script type="text/javascript" src="/jquery.cookie.js?_v=10"></script>
+<script type="text/javascript" src="/tabs.js?_v=10"></script>
+<script type="text/javascript" src="/jquery.tablesorter.js?_v=10"></script>
+<script type="text/javascript" src="/main.js?v_=26"></script>
+<script type="text/javascript" src="/js/flipclock/flipclock.min.js"></script>
+    <script src="/static/resources/General.js"></script>
+<script type="text/javascript" src="/js/api_tables/APItable.js?_v=40"></script>
+<script type="text/javascript" src="/js/contructBtnsList.js"></script>
+<script type="text/javascript" src="/js/api_tables/moment.js"></script>
+<script type="text/javascript" src="/js/api_tables/locale/ru.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.1/jquery.qtip.min.js" integrity="sha512-SkBDk4OBvJjSfXPzSP2f4hetUO6cmEcY/J7hjQWlWVZDEsHfCj3Mo20wi6zO620gQ/yjaAfJTtytm6GnLDHghQ==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.1/jquery.qtip.css" integrity="sha512-2ONvwLbzPkSqm0T55vYtTXErRwuHbECTuiSqG+V4cZRmkk0CTbL0phI/P2CZ0tQDB9Il8TcrrrfgfUnab5PmwA==" crossorigin="anonymous" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-flash-1.5.1/b-html5-1.5.1/b-print-1.5.1/datatables.min.css"/>
+<link rel="stylesheet" href="/styles/flipclock.css"/>
+<link rel="stylesheet" href="/static/Styles/Bootstrap/tooltip.css"/>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-flash-1.5.1/b-html5-1.5.1/b-print-1.5.1/datatables.min.js"></script>
+
+{if false}
+<!--    подключаемый код для сладера-->
+<link   rel="stylesheet"       href="//cdn.jsdelivr.net/npm/flickity@latest/dist/flickity.min.css"/>
+<link   rel="stylesheet"       href="//unpkg.com/flickity-fade@1/flickity-fade.css"/>
+<link   rel="stylesheet"       href="//unpkg.com/flickity-fullscreen@1/fullscreen.css"/>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/flickity@2.2.1/dist/flickity.pkgd.min.js"></script>
+<script type="text/javascript" src="//unpkg.com/flickity-fade@1/flickity-fade.js"></script>
+<script type="text/javascript" src="//unpkg.com/flickity-fullscreen@1/fullscreen.js"></script>
+<script type="text/javascript" src="//unpkg.com/flickity-bg-lazyload@1/bg-lazyload.js"></script>
+{/if}
+
+{*
+{if $smarty.get.sub=='main'}
+	{literal}
+
+		<link rel="Stylesheet" type="text/css" href="css/evoslider.css" />
+		<link rel="Stylesheet" type="text/css" href="css/default/default.css" />
+		<script type="text/javascript" src="/js/jquery.evoslider-2.1.4.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
+
+	{/literal}
+{/if}
+*}
+
+
+
+{if $google_map==1}
+    <script type="text/javascript" src="//maps.google.com/maps?file=api&amp;v=2&amp;sensor=true&amp;key={$GOOGLEKEY}&hl=ru"></script>
+
+    {literal}
+    <script type="text/javascript">
+
+    function GMapInit(x, y, z) {
+        if (GBrowserIsCompatible()) {
+            var tlat = x
+            var tlng = y
+            var mapid = z
+            var zoom = 15;
+            var tpoint = new GLatLng(tlat, tlng);
+            var map = new GMap2(document.getElementById(mapid));
+            /* устанавливаем тип карты */
+            map.setMapType(G_NORMAL_MAP);
+            /* Создать элементы навигации, масштабную линейку, переключение типа карты */
+            map.addControl(new GLargeMapControl());
+            map.addControl(new GMapTypeControl());
+            map.addControl(new GScaleControl());
+            /* Центрировать карту по созданной точке, установить масштаб и сделать начальным видом - космическую съемку, а не карту*/
+            map.setCenter(tpoint, zoom);
+            /* создаем обычный маркер */
+            var marker = new GMarker(tpoint);
+            /* добавляем маркер на карту*/
+            map.addOverlay(marker);
         }
-    </style>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-143007422-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-
-        gtag('config', 'UA-143007422-1');
-    </script>
-    
-    <!-- Facebook Pixel Code -->
-    <script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '1748475791968708');
-    fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=1748475791968708&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-
-</head>
-
-<body >
-<div id="wrapper">
-    <!-- Header -->
-<header id="header" class="header">
-    <div class="container">
-        <div class="top-bar">
-            <div class="welcome-msg">Welcome to The Biblical Graduate School of Theology</div>
-            <div class="top-contact">
-                <ul>
-                    <li><i class="fas fa-phone ileft"></i>+65-6227-6815</li>
-                    <li><a href="mailto:enquiries@bgst.edu.sg"><i
-                                    class="fas fa-envelope-open ileft"></i>enquiries@bgst.edu.sg</a></li>
-                </ul>
-            </div>
-            <div class="top-social">Follow us:<a target="_blank" href="https://www.facebook.com/BGST1989"><i
-                            class="fab fa-facebook-f"></i></a>
-                <!--a target="_blank" href="https://twitter.com/PublicityBgst"><i
-                            class="fab fa-twitter"></i></a-->
-                <a target="_blank" href="https://www.linkedin.com/in/bgst-singapore-41411b8b/"><i class="fab fa-linkedin"></i></a>
-                <a target="_blank" href="https://www.instagram.com/bgst1989/"><i
-                            class="fab fa-instagram"></i></a>
-            </div>
-            <div class="top-right-links">
-                                    <!--<a href="javascript:void(0);" id="log-in" class="btn-login" data-toggle="modal" data-target="#LoginModal">Log In</a>-->
-                    <a href="https://courses.bgst.edu.sg/users/sign_in" target="_blank" id="log-in" class="btn-login" data-toggle="modal">Log In</a>
-                                <a href="https://www.bgst.edu.sg/paymentmethods" class="btn-support">Donate</a>
-
-                <div class="clear"></div>
-            </div>
-            <div class="clear"></div>
-        </div>
-        <div class="logo"><a href="https://www.bgst.edu.sg/home"><img src="https://www.bgst.edu.sg/uploads/systemSettings/BGST_LOGO_brown_1629428089.png"
-                                                          alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></a></div>
-        <div class="top-menu-holder">
-                        <div class="menu">
-                <ul>
-                    
-    
-            <li class=" about-us-menu  ">
-            <a data-menu-id="2" class="click-highlight"
-               href=" javascript:void(0); "><span>About Us</span></a>
-            <ul>
-                
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="16"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/principal-welcome">Principal’s Welcome</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="21"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/alumni">Alumni</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="15"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/history">History</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="18"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/theological-position">Theological Position</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="22"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/contact-us">Contact us</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                        <li class=""><a data-menu-id="20"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgst.edu.sg/our-team">Our Team</a>
-            </li>
-             
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="111"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/subscribe-to-our-mailing-list">Subscribe to Mailing List</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="114"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/bgstcareer-opportunities">Work With Us</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="170"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/annual-report">Organisational Documents</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-                </ul>
-        </li>
-    
-    
-            <li class=" postgraduate-menu  ">
-            <a data-menu-id="185" class="click-highlight"
-               href=" javascript:void(0); "><span>Postgraduate</span></a>
-            <ul>
-                
-    
-        <li class=""><a target="_blank" data-menu-id="223"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://courses.bgst.edu.sg/pages/programmes">Programmes</a>
-            </li>     
-    
-    
-        <li class=""><a target="_blank" data-menu-id="187"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://courses.bgst.edu.sg">Courses</a>
-            </li>     
-    
-    
-            <li class="   has-child-menu ">
-            <a data-menu-id="188" class="click-highlight"
-               href=" https://www.bgst.edu.sg/student-information "><span>Prospective Students</span></a>
-            <ul>
-                
-    
-                        <li class=""><a data-menu-id="198"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgst.edu.sg/hiaccreditation-and-recognitionstory">Accreditation &amp; Recognition</a>
-            </li>
-             
-    
-        <li class=""><a target="_blank" data-menu-id="206"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://courses.bgst.edu.sg/pages/fees">Course &amp; Programme Fees</a>
-            </li>     
-    
-    
-        <li class=""><a target="_blank" data-menu-id="212"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://courses.bgst.edu.sg/pages/fees">Student Fees</a>
-            </li>     
-    
-                </ul>
-        </li>
-    
-    
-            <li class="   has-child-menu ">
-            <a data-menu-id="189" class="click-highlight"
-               href=" https://www.bgst.edu.sg/student-services "><span>Student Services</span></a>
-            <ul>
-                
-    
-                        <li class=""><a data-menu-id="203"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgst.edu.sg/student-platforms-resources">Student Platforms</a>
-            </li>
-             
-    
-                        <li class=""><a data-menu-id="204"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgst.edu.sg/academic-information">Academic Information</a>
-            </li>
-             
-    
-                        <li class=""><a data-menu-id="213"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgst.edu.sg/international-students">International Students</a>
-            </li>
-             
-                </ul>
-        </li>
-    
-                </ul>
-        </li>
-    
-    
-            <li class=" engageoverview-menu  ">
-            <a data-menu-id="183" class="click-highlight"
-               href=" javascript:void(0); "><span>ENGAGE</span></a>
-            <ul>
-                
-    
-        <li class=""><a target="_blank" data-menu-id="224"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.theologyforlife.sg/bundles/engage-certificate-in-pastoral-leadership">ENGAGE Certificate in Pastoral Leadership (ECPL)</a>
-            </li>     
-    
-    
-        <li class=""><a target="_blank" data-menu-id="225"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.theologyforlife.sg/bundles/engage-certificate-in-workplace-leadership">ENGAGE Certificate in Workplace Leadership (ECWL)</a>
-            </li>     
-    
-    
-        <li class=""><a target="_blank" data-menu-id="226"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.theologyforlife.sg/courses/engagelayleadership">ENGAGE Certificate in Lay Leadership (ECLL)</a>
-            </li>     
-    
-                </ul>
-        </li>
-    
-    
-                        <li class=""><a data-menu-id="184"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgst.edu.sg/tfloverview">Theology for Life</a>
-            </li>
-             
-    
-                        <li class=""><a data-menu-id="52"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgst.edu.sg/events">Events</a>
-            </li>
-             
-    
-            <li class=" partnerships-menu  ">
-            <a data-menu-id="44" class="click-highlight"
-               href=" javascript:void(0); "><span>Partnerships</span></a>
-            <ul>
-                
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="126"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/centre-for-disability-ministry-in-asia">Centre for Disability Ministry in Asia (CDMA)</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="107"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/partnerships">Academic Partnerships</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="106"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/new-staff-positions-available-the-bible-church">Church Ministry Opportunities</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-    
-                                        <li>
-                    <ul>
-                        <li class=""><a
-                                    data-menu-id="182"
-                                    class="click-highlight"
-                                    href="https://www.bgst.edu.sg/faculty-speaking-engagements">Faculty Speaking Engagements</a>
-                        </li>
-                    </ul>
-                </li>
-                         
-                </ul>
-        </li>
-    
-    
-            <li class=" bgst-experience-menu  ">
-            <a data-menu-id="45" class="click-highlight"
-               href=" javascript:void(0); "><span>Resources</span></a>
-            <ul>
-                
-    
-            <li class="   has-child-menu ">
-            <a data-menu-id="190" class="click-highlight"
-               href=" https://www.bgst.edu.sg/library "><span>Library Collection</span></a>
-            <ul>
-                
-    
-        <li class=""><a target="_blank" data-menu-id="194"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://libguides.thedtl.org/home">Digital Theological Library (DTL)</a>
-            </li>     
-    
-    
-        <li class=""><a target="_blank" data-menu-id="196"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://bgst.overdrive.com">OverDrive Collection</a>
-            </li>     
-    
-    
-        <li class=""><a target="_blank" data-menu-id="199"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://bgst.vlibonline.com">Physical Library Collection</a>
-            </li>     
-    
-    
-        <li class=""><a target="_blank" data-menu-id="208"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.bgstexperience.edu.sg/about-us/">About BGST Library</a>
-            </li>     
-    
-                </ul>
-        </li>
-    
-    
-        <li class=""><a target="_blank" data-menu-id="207"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://www.youtube.com/channel/UCYMiWjQE39jjm5H5dScUdjg">BGST YouTube</a>
-            </li>     
-    
-                </ul>
-        </li>
-    
-    
-        <li class=""><a target="_blank" data-menu-id="211"
-                                                                                    class=" click-highlight"
-                                                                                    href="https://courses.bgst.edu.sg/pages/frequently-asked-questions">FAQ</a>
-            </li>     
-    
-                    </ul>
-            </div>
-            <div class="clear"></div>
-        </div>
-        <div class="clear"></div>
-    </div>
-</header>
-<!-- Header END -->
-    <div class="main-container" style="margin-top: 134px;">
-        
-<!-- Banner -->
-                <div class="banner-holder">
-            <div class="home-banner">
-                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/banner2_1644953209.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
-                    <div class="bn-caption">
-                        <div class="container">
-                            
-                            <div class="bn-content">
-<div>
-<h3>Training for the whole church</h3>
-<h2>Equipping the laity for God&rsquo;s work in the World</h2>
-<div class="btn-holder" style="text-align: left;"><a href="/register" class="button">Apply</a><a href="/courses" class="button btn-bdr bdr-white">Upcoming Courses</a></div>
-</div>
-</div>
-                        </div>
-                    </div>
-                </div>
-                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/banner3_1644953654.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
-                    <div class="bn-caption">
-                        <div class="container">
-                            
-                            <div class="bn-content">
-<div>
-<h3>Students and Library Members</h3>
-<h2>Gain access to our growing collection</h2>
-<div class="btn-holder" style="text-align: left;"><a href="https://www.bgstexperience.edu.sg/library/" class="button btn-bdr bdr-white">LIBRARY</a></div>
-</div>
-</div>
-                        </div>
-                    </div>
-                </div>
-                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/Banner1_1644951978.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
-                    <div class="bn-caption">
-                        <div class="container">
-                            
-                            <div class="bn-content">
-<div>
-<h3>We host a variety of online events</h3>
-<h2>Webinars, <br />Public Lectures, Seminars &amp; more</h2>
-<div class="btn-holder" style="text-align: left;"><a href="/events" class="button btn-bdr bdr-white">EVENTS</a></div>
-</div>
-</div>
-                        </div>
-                    </div>
-                </div>
-                                <div class="home-banner-slide"><img src="https://www.bgst.edu.sg/uploads/banners/banner4_1644954465.jpg" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
-                    <div class="bn-caption">
-                        <div class="container">
-                            
-                            <div class="bn-content">
-<div>
-<h3>Get up to date with BGST</h3>
-<h2>Check our latest news &amp; announcements</h2>
-<div class="btn-holder" style="text-align: left;"><a href="/news" class="button btn-bdr bdr-white">NEWS</a></div>
-</div>
-</div>
-                        </div>
-                    </div>
-                </div>
-                            </div>
-            <div class="clear"></div>
-        </div>
-                <!-- Banner END -->
-
-<div class="fullcontainer bg-img-tl" style="background-image: url('/images/bg1.png');">
-<div class="inner-container-lg">
-<div class="container">
-<div class="row">
-<div class="col-sm-6">
-<div class="home-intro-text">
-<h1><span>Welcome <g class="gr_ gr_21 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling ins-del multiReplace" id="21" data-gr-id="21">to</g></span><strong><g class="gr_ gr_21 gr-alert gr_spell gr_inline_cards gr_disable_anim_appear ContextualSpelling ins-del multiReplace" id="21" data-gr-id="21">Biblical</g> Graduate <br />School of Theology</strong></h1>
-<p>BGST aims to bridge the gap between vocation and theology &ndash; we offer a thorough and systematic training programme for <em><strong>the whole people of God</strong></em>. This serves to help them live out their Christian faith in their vocations and be more effective in serving God, whether they are professionals in the workplace or Christian ministries.</p>
-<div class="text-right" style="text-align: left;"><a href="/about-us" class="button">Read More</a></div>
-</div>
-</div>
-<div class="col-sm-6">
-<div class="home-intro-img"><img src="/images/home1.jpg" class="responsive" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY." /></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="fullcontainer bg-img" style="background-image: url('/images/bg1.jpg');">
-<div class="inner-container-lg">
-<div class="container">
-<div class="why-bgst-holder">
-<div class="why-bgst-info fleft">
-<div class="equalheight height1024" style="height: 74px;">
-<h2>Why study at BGST?</h2>
-<h4>Explore the advantages we have to offer.</h4>
-</div>
-</div>
-<div class="why-bgst-btn fright">
-<div class="equalheight height1024" style="height: 74px;">
-<div class="grid-tb">
-<div class="grid-tc"><a href="/why-bgst" class="button btn-white">Read More</a></div>
-</div>
-</div>
-</div>
-</div>
-<div class="why-bgst-img"><img src="/laravel-filemanager/photos/shares/upload1.png" class="responsive-mx" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY." caption="false" width="300" height="423" /></div>
-</div>
-</div>
-</div> <!-- Section -->
-
-<div class="fullcontainer bg-img" style="background-image:url(https://www.bgst.edu.sg/images/bg2.jpg);">
-
-    <div class="inner-container-lg">
-
-        <div class="container">
-
-            <div class="title-holder"><h2><span>Check out our</span><strong>Latest News</strong></h2></div>
-
-            <div class="news-pods-grid">
-
-                <div class="row"> 
-                        <div class="col-md-4">
-
-                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/104">
-
-                                    <div class="news-date mb20">
-
-                                        <strong>05</strong> Jun
-
-                                    </div>
-
-                                    <div class="news-title equalheight1 height960 mb30"><h5>Student Fees Revision Announcement</h5>
-
-                                    </div>
-
-                                    <div class="news-info equalheight2 height960 mb30">
-
-                                        <p>Dear Student,
-With effect from June 1st, 2022, we have revised our annual student fees. The updated</p></div>
-
-                                    <span class="btn-link">Read More</span> </a></div>
-
-                        </div> 
-                        <div class="col-md-4">
-
-                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/103">
-
-                                    <div class="news-date mb20">
-
-                                        <strong>26</strong> Apr
-
-                                    </div>
-
-                                    <div class="news-title equalheight1 height960 mb30"><h5>Learning Management System Announcement</h5>
-
-                                    </div>
-
-                                    <div class="news-info equalheight2 height960 mb30">
-
-                                        <p>Dear Student,For improved user experience, we will be migrating to our new BGST Thinkific Learning M</p></div>
-
-                                    <span class="btn-link">Read More</span> </a></div>
-
-                        </div> 
-                        <div class="col-md-4">
-
-                            <div class="news-pod-box"><a href="https://www.bgst.edu.sg/news/details/102">
-
-                                    <div class="news-date mb20">
-
-                                        <strong>24</strong> Jan
-
-                                    </div>
-
-                                    <div class="news-title equalheight1 height960 mb30"><h5>Loving those with Dementia among us</h5>
-
-                                    </div>
-
-                                    <div class="news-info equalheight2 height960 mb30">
-
-                                        <p>As we witness a growing number of people with dementia in our churches, do you ever wonder how best </p></div>
-
-                                    <span class="btn-link">Read More</span> </a></div>
-
-                        </div>  </div>
-
-            </div>
-
-            <div class="text-center"><a href="https://www.bgst.edu.sg/news" class="button">View all News</a></div>
-
-        </div>
-
-    </div>
-
-
-</div><!-- Section END --><!-- Section -->
-
-<div class="fullcontainer bg-img-rb" style="background-image:url(https://www.bgst.edu.sg/images/bg2.png);">
-
-
-    <div class="inner-container-lg">
-
-        <div class="container">
-
-            <div class="title-holder"><h2><span>Check out our</span><strong>Latest Events</strong></h2></div>
-
-            <div class="events-pods-grid">
-
-                <div class="row"> 
-                        <div class="col-md-4">
-
-                            <div class="event-pod-box"><a href="https://www.bgst.edu.sg/events/details/238"
-
-                                                          class="img-effect">
-
-                                    <div class="image-holder">
-                                        <figure><img width="367" height="337"
-
-                                                     src="https://www.bgst.edu.sg/uploads/events/1652469264_ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"
-
-                                                     class="responsive"
-
-                                                     alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></figure>
-                                    </div>
-
-                                    <div class="event-pod-info-holder">
-										                                        <div class="event-date">
-
-                                            <strong>08</strong> Oct
-
-                                        </div>
-										                                        <div class="event-title equalheight3 height960 mb10">
-
-                                            <h6>[Past Event] Stewarding Our Lives for Christ</h6></div>
-
-                                        <div class="event-info equalheight4 height960 mb30"> Christ is not only the God of our Sundays, but also our other six days. As we engage in our rhythm of work, church and life, how do our stories fit into God's story? How do we steward our lives, so that we can  </div>
-
-                                        <span class="btn-link">Read More</span></div>
-
-                                </a></div>
-
-                        </div> 
-                        <div class="col-md-4">
-
-                            <div class="event-pod-box"><a href="https://www.bgst.edu.sg/events/details/241"
-
-                                                          class="img-effect">
-
-                                    <div class="image-holder">
-                                        <figure><img width="367" height="337"
-
-                                                     src="https://www.bgst.edu.sg/uploads/events/1661168368_BGST HT Webinar.jpg"
-
-                                                     class="responsive"
-
-                                                     alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></figure>
-                                    </div>
-
-                                    <div class="event-pod-info-holder">
-										                                        <div class="event-date">
-
-                                            <strong>23</strong> Sep
-
-                                        </div>
-										                                        <div class="event-title equalheight3 height960 mb10">
-
-                                            <h6>[Past Event} Human Trafficking, the Bible, and the People of God</h6></div>
-
-                                        <div class="event-info equalheight4 height960 mb30"> What is human trafficking today? How can Christians to respond to it? Dr Theocharous explores these questions through the lens of biblical ethical principles in the Old Testament, calling the
-church to embody  </div>
-
-                                        <span class="btn-link">Read More</span></div>
-
-                                </a></div>
-
-                        </div> 
-                        <div class="col-md-4">
-
-                            <div class="event-pod-box"><a href="https://www.bgst.edu.sg/events/details/240"
-
-                                                          class="img-effect">
-
-                                    <div class="image-holder">
-                                        <figure><img width="367" height="337"
-
-                                                     src="https://www.bgst.edu.sg/uploads/events/1654457302_Copy of BGST STC FIN 220605.png"
-
-                                                     class="responsive"
-
-                                                     alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></figure>
-                                    </div>
-
-                                    <div class="event-pod-info-holder">
-										                                        <div class="event-date">
-
-                                            <strong>25</strong> Jun
-
-                                        </div>
-										                                        <div class="event-title equalheight3 height960 mb10">
-
-                                            <h6>[Past Event] BGST’s Inaugural Student Theological Conference 2022</h6></div>
-
-                                        <div class="event-info equalheight4 height960 mb30"> 
-You Mean I Can Ask This In Theological School?BGST&rsquo;s Inaugural Student Theological Conference 2022
-This event is for:  1. Current BGST Students2. BGST Alumni 3. Invited Friends
-Objective:1. For studen </div>
-
-                                        <span class="btn-link">Read More</span></div>
-
-                                </a></div>
-
-                        </div>  </div>
-
-            </div>
-
-            <div class="text-center"><a href="https://www.bgst.edu.sg/events" class="button">View all Events</a></div>
-
-        </div>
-
-    </div>
-    </div><!-- Section END --><!-- Section -->
-<div class="fullcontainer bg-img" style="background-image: url('/images/bg3.jpg');">
-<div class="inner-container-lg">
-<div class="container">
-<div class="home-pods-grid">
-<div class="row">
-<div class="col-md-4">
-<div class="home-pod-box"><a href="/why-bgst"><span style="font-size: 22pt;"><img src="/photos/shares/Screen Shot 2019-06-28 at 1.11.30 PM.png" alt="" width="85" height="67" /><br />Study<br /><strong>With BGST<br /></strong></span><br />Considering theological college? Find out more about BGST.<br /><strong><span style="color: #ff6600;"><br />FIND OUT MORE</span></strong></a></div>
-</div>
-<div class="col-md-4">
-<div class="home-pod-box"><a href="https://www.bgstexperience.edu.sg/" target="_blank" rel="noopener"> <i class="fas fa-graduation-cap"></i>
-<div class="home-pod-title">
-<h3>BGST <strong>Experience</strong></h3>
-</div>
-<div class="home-pod-info equalheight5 height960 mb30" style="height: 59px;">
-<p>Experience BGST through videos, the library, and more.&nbsp;</p>
-</div>
-<span class="txt-link">START EXPLORING</span></a></div>
-</div>
-<div class="col-md-4">
-<div class="home-pod-box"><a href="/givingtobgst"> <i class="fas fa-hand-holding-heart"></i>
-<div class="home-pod-title">
-<h3>Support<strong>BGST</strong></h3>
-</div>
-<div class="home-pod-info equalheight5 height960 mb30" style="height: 59px;">
-<p>Check out the various ways you can support BGST.&nbsp;</p>
-</div>
-<span class="txt-link">FIND OUT More</span> </a></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-        <!-- Section END --><!-- Section -->
-
-<div class="fullcontainer bg-color1">
-
-    <div class="inner-container">
-
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-md-6">
-
-                    <div class="equalheight6 height960">
-
-                        <div class="nl-title"><i class="fas fa-envelope"></i>
-
-
-                            <h2 class="txt-white"><span class="txt-white">Get the Latest</span> <strong>Subscribe to
-
-                                    BGST News</strong></h2></div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-md-6">
-
-                    <div class="equalheight6 height960">
-
-                        <div class="grid-tb">
-
-                            <div class="grid-tc">
-
-                                <div class="news-letter">
-
-                                    <!--<input name="" type="text" class="nl-input"> <button class="button nl-btn">Submit</button>-->
-
-                                    <style type="text/css">
-
-                                        #mc_embed_signup input.mce_inline_error {
-                                            border: none;
-                                        }
-
-                                        #mc_embed_signup div.mce_inline_error {
-                                            background-color: #F7974A;
-                                            margin: 0 0 1em 0;
-                                            padding: 5px 10px;
-                                            font-weight: bold;
-                                            z-index: 1;
-                                            color: #6B0505;
-                                        }
-
-                                        #mce-success-response {
-                                            color: #096 !important;
-                                        }
-
-
-                                    </style>
-
-
-                                    <!-- Begin Mailchimp Signup Form -->
-
-                                    <div id="mc_embed_signup">
-
-                                        <form action="https://bgst.us3.list-manage.com/subscribe/post?u=dcd2b5abfb9c8244cbb003fef&amp;id=52a72e93c5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
-                                            <div id="mc_embed_signup_scroll">
-
-                                                <div class="mc-field-group"><input type="email" value="" name="EMAIL"
-
-                                                                                   class="required email nl-input"
-
-                                                                                   placeholder="Enter Email Address"
-
-                                                                                   id="mce-EMAIL"> <input type="submit"
-
-                                                                                                          value="Subscribe"
-
-                                                                                                          name="subscribe"
-
-                                                                                                          id="mc-embedded-subscribe"
-
-                                                                                                          class="button nl-btn">
-
-                                                </div>
-
-                                                <div id="mce-responses">
-
-                                                    <div class="response mce_inline_error" id="mce-error-response"
-
-                                                         style="display:none"></div>
-
-                                                    <div class="response mce_inline_error" id="mce-success-response"
-
-                                                         style="display:none"></div>
-
-                                                </div>
-
-                                                <!-- real people should not fill this in and expect good things - do notremove this or risk form bot signups-->
-
-                                                <div style="position: absolute; left: -5000px;" aria-hidden="true">
-
-                                                    <input type="text" name="b_faa7f1e35cc37fd2e1a393716_14300ae336"
-
-                                                           tabindex="-1" value=""></div>
-
-                                            </div>
-
-                                        </form>
-
-                                    </div>
-
-                                    <script type='text/javascript'
-
-                                            src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-
-                                    <script type='text/javascript'>(function ($) {
-
-                                            window.fnames = new Array();
-
-                                            window.ftypes = new Array();
-
-                                            fnames[0] = 'EMAIL';
-
-                                            ftypes[0] = 'email';
-
-                                            fnames[1] = 'FNAME';
-
-                                            ftypes[1] = 'text';
-
-                                            fnames[2] = 'LNAME';
-
-                                            ftypes[2] = 'text';
-
-                                            fnames[3] = 'ADDRESS';
-
-                                            ftypes[3] = 'address';
-
-                                            fnames[4] = 'PHONE';
-
-                                            ftypes[4] = 'phone';
-
-                                        }(jQuery));
-
-                                        var $mcj = jQuery.noConflict(true);</script>
-
-                                    <!--End mc_embed_signup--> </div>
-
-                            </div>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-
-</div><!-- Section END -->
-
-<script type="text/javascript">
-
-    setTimeout(function () {
-
-        $('.response').html('');
-
-    }, 3000);
-
-</script>
-
-    </div>
-    <div class="clear"></div>
-    <div class="pushContainer" style="height: 327px;"></div>
-    <div class="clear"></div>
-    <script async="async" data-cfasync="false" src="//pl17966338.highperformancecpmgate.com/7e201e82ca3dbc24e90319093e30d15c/invoke.js"></script>
-<div id="container-7e201e82ca3dbc24e90319093e30d15c"></div>
-</div>
-
-<!-- Footer -->
-
-<footer class="footer-wrapper" style="opacity: 1;"><div class="inner-container"><div class="container"><div class="foo-box foo1"><div class="footer-logo"><img src="/laravel-filemanager/photos/shares/BGST LOGO_REV.png" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY." class="responsive-mx" caption="false" width="198" height="151" /></div></div><div class="foo-box foo2"><h3><span style="color: #ffffff;"><a href="/contact-us" title="Contact Us" style="color: #ffffff;">contact info</a></span></h3><ul class="contact-list"><li><i class="fas fa-map-marker-alt"></i>50 Kallang Pudding Road #07-01, AMA Building Singapore 349326</li><li><i class="fas fa-phone"></i><a href="tel:+65-6227-6815" target="_blank" rel="noopener">+65-6227-6815</a></li><li><i class="fas fa-envelope"></i><a href="mailto:enquiries@bgst.edu.sg" target="_blank" rel="noopener">enquiries@bgst.edu.sg</a></li></ul></div><div class="foo-box foo3"><h3>SITEMAP</h3><ul class="footer-nav"><li><a href="/home">Home</a></li><li><a href="/about-us">About Us</a></li><li><a href="/programme">Programmes</a></li><li><a href="/courses">Courses</a></li><li><a href="/student-services">Student Services</a><a href="/events">Events</a></li><li></li></ul><ul class="footer-nav"><li><a href="/engageoverview">ENGAGE</a></li><li><a href="/tfloverview">theology for Life</a></li><li><a href="/partnerships" target="_blank" rel="noopener">Partnerships</a></li><li><a href="https://www.bgstexperience.edu.sg/">Resources</a></li></ul><ul class="footer-nav"><li><a href="/paymentmethods">Donate</a></li></ul><a href="/current-students"></a><br /><ul class="footer-nav"><li><a href="/faqs">FAQs</a></li></ul><div class="clear"></div></div><div class="foo-box foo4"><h3>FOLLOW US</h3><ul class="footer-social"><li><a target="_blank" href="https://www.facebook.com/BGST1989" rel="noopener"><i class="fab fa-facebook-f ileft"></i>Facebook</a></li><li><a target="_blank" href="https://instagram.com/bgst1989/" rel="noopener"><i class="fab fa-instagram ileft"></i>Instagram</a></li><li><a target="_blank" href="https://www.linkedin.com/in/bgst-singapore-41411b8b/" rel="noopener"><i class="fab fa-linkedin ileft"></i>Linkedin</a></li></ul></div><div class="clear"></div></div></div><div class="copyright"><div class="inner-container-xs"><div class="container">Copyright &copy;&nbsp;<script>document.write( new Date().getFullYear() );</script>&nbsp;BIBLICAL GRADUATE SCHOOL OF THEOLOGY. All rights reserved.</div></div></div></footer>
-
-
-    <a href="#" class="fbtn btn-apply" data-toggle="modal" data-target="#ApplyModal"><i class="fas fa-pen-alt"></i>Apply
-
-        now</a>
-    <a href="https://www.bgst.edu.sg/paymentmethods" class="fbtn btn-like"><i class="fas fa-heart"></i>Donate</a>
-
-
-
-
-
-<a href="#" class="cd-top">Top</a>
-<!-- <a href="https://wa.me/+6585253289" target="_blank" class="whatsapp">WhatsApp</a> -->
-
-
-
-<!-- Footer END -->
-
-<!-- Modal -->
-
-<div class="modal fade" id="LoginModal" tabindex="-1" role="dialog" aria-labelledby="LoginModal">
-
-    <div class="modal-dialog modal-sm" role="document">
-
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i>
-
-        </button>
-
-        <div class="pop-box">
-
-            <div class="pop-logo"><img src="https://www.bgst.edu.sg/images/logo.png" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
-
-            </div>
-
-            <p class="text-danger"></p>
-
-
-
-            <div class="login-form">
-
-                <div class="form-group">
-
-                    <input name="student_id" type="text" class="form-control" placeholder="Student ID">
-
-                </div>
-
-                <div class="form-group">
-
-                    <input name="password" type="password" class="form-control" placeholder="Password">
-
-                </div>
-
-                <div class="text-center">
-
-                    <button class="button btn-block login_f">Log in</button>
-
-                </div>
-
-            </div>
-
-            <div  class="text-center">
-                <a href="https://www.bgst.edu.sg/register">Register</a> |
-                
-
-            <a href="https://www.bgst.edu.sg/password/reset">Forgot your password? Reset it.</a>
-
-            <!-- <a href="#">Forgot your password? Reset it.</a> </div> --></div>
-
-        </div>
-
-    </div>
-
-</div>
-
-<!-- Modal -->
-
-<div class="modal fade" id="SkipLoginModal" tabindex="-1" role="dialog" aria-labelledby="LoginModal">
-
-    <div class="modal-dialog modal-sm" role="document">
-
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><i class="fas fa-times"></i>
-
-        </button>
-
-        <div class="pop-box">
-
-            <div class="pop-logo"><img src="https://www.bgst.edu.sg/images/logo.png" alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/>
-
-            </div>
-
-            <p class="text-danger"></p>
-
-
-
-            <div class="login-form">
-
-                <div class="form-group">
-
-                    <input name="student_id" type="text" class="form-control" placeholder="Student ID">
-
-                </div>
-
-                <div class="form-group">
-
-                    <input name="password" type="password" class="form-control" placeholder="Password">
-
-                </div>
-
-                <div class="row xs">
-<div class="col col-xs-6">
-
-                    <button class="button btn-block login_f skiplogin">Log in</button></div>
-<div class="col col-xs-6"><div class="text-center"><a href="#" class="button btn-block" style="color: #ffffff" onclick="return skipLogin();"><strong>Register as Guest</strong></a></div></div>
-
-                </div>
-
-            </div>
-
-            <div  class="text-center">
-            <a href="https://www.bgst.edu.sg/register">Register</a> |
-
-            <a href="https://www.bgst.edu.sg/password/reset">Forgot your password? Reset it.</a>
-
-            <!-- <a href="#">Forgot your password? Reset it.</a> </div> --></div>
-
-        </div>
-
-    </div>
-
-</div>
-
-<!-- -->
-
-
-    <div class="modal fade" id="ApplyModal" tabindex="-1" role="dialog" aria-labelledby="ApplyModalLabel">
-
-        <div class="modal-dialog modal-sm" role="document">
-
-            <button type="button" id="apply-now-popup-close" class="close" data-dismiss="modal" aria-label="Close"><i
-
-                        class="fas fa-times"></i>
-
-            </button>
-
-            <div class="pop-box">
-
-                <div class="pop-logo"><img src="https://www.bgst.edu.sg/images/logo.png"
-
-                                           alt="BIBLICAL GRADUATE SCHOOL OF THEOLOGY."/></div>
-
-                <div class="login-form">
-
-                    <div class="form-group">
-
-                        <a href="https://www.bgst.edu.sg/register" class="button btn-bdr bdr-light btn-block uncap">I am
-
-                            new to BGST</a>
-
-                    </div>
-
-                    <div class="form-group mb0">
-
-                        <a href="#" class="button btn-bdr bdr-light btn-block uncap" onclick="redirectToLogin()">I am an
-
-                            existing BGST student</a>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
-
-
-<script type="text/javascript">
-
-    $(document).ready(function () {
-
-        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
-
-        $("button.login_f").on("click", function () {
-
-            var button_login_f = $("button.login_f");
-
-            var formdata = $("div#LoginModal").find("select, textarea, input").serializeArray();
-
-            button_login_f.text('Processing...').attr("disabled", true);
-
-            $.ajax({
-
-                type: 'POST',
-
-                url: "https://www.bgst.edu.sg/student-login",
-
-                data: {formdata: formdata, _token: CSRF_TOKEN},
-
-                cache: false,
-
-                async: false,
-
-                success: function (data) {
-
-                    button_login_f.text('Log In').attr("disabled", false);
-
-                    if (data.status == 'success') {
-
-                        window.location.href = data.url;
-
-                    }
-
-                    else if (data.status == 'not_verfied') {
-
-                        $("div#LoginModal").find(".text-danger").html('<p class="text-danger">Email has not been verified.</p>');
-
-                    }
-
-                    else if (data.status == 'not_approved') {
-
-                        $("div#LoginModal").find(".text-danger").html('<p class="text-danger">Kindly wait for email approval from admin. Thank you.</p>');
-
-                    }
-
-                    else {
-
-                        $("div#LoginModal").find(".text-danger").html('<p class="text-danger">Error! Invalid login credentials.</p>');
-
-                    }
-
-                }
-
-            });
-
-        });
-
-
-
-        $("button.skiplogin").on("click", function () {
-
-            var button_login_f = $("button.skiplogin");
-
-            var formdata = $("div#SkipLoginModal").find("select, textarea, input").serializeArray();
-
-            button_login_f.text('Processing...').attr("disabled", true);
-
-            $.ajax({
-
-                type: 'POST',
-
-                url: "https://www.bgst.edu.sg/student-login",
-
-                data: {formdata: formdata, _token: CSRF_TOKEN},
-
-                cache: false,
-
-                async: false,
-
-                success: function (data) {
-
-                    button_login_f.text('Log In').attr("disabled", false);
-
-                    if (data.status == 'success') {
-
-                        window.location.href = data.url;
-
-                    }
-
-                    else if (data.status == 'not_verfied') {
-
-                        $("div#SkipLoginModal").find(".text-danger").html('<p class="text-danger">Email has not been verified.</p>');
-
-                    }
-
-                    else if (data.status == 'not_approved') {
-
-                        $("div#SkipLoginModal").find(".text-danger").html('<p class="text-danger">Kindly wait for email approval from admin. Thank you.</p>');
-
-                    }
-
-                    else {
-
-                        $("div#SkipLoginModal").find(".text-danger").html('<p class="text-danger">Error! Invalid login credentials.</p>');
-
-                    }
-
-                }
-
-            });
-
-        });
-
-    });
-
-    function redirectToLogin() {
-
-        $("#apply-now-popup-close").trigger("click");
-
-        $("#log-in").trigger("click");
-
     }
 
-</script>
+    function GMapInit2(x, y, z) {
+        if (GBrowserIsCompatible()) {
+            var tlat = x
+            var tlng = y
+            var mapid = z
+            var zoom = 15;
+            var tpoint = new GLatLng(tlat, tlng);
+            var map = new GMap2(document.getElementById("map"));
+            /* устанавливаем тип карты */
+            map.setMapType(G_NORMAL_MAP);
+            /* Создать элементы навигации, масштабную линейку, переключение типа карты */
+            map.addControl(new GLargeMapControl());
+            map.addControl(new GMapTypeControl());
+            map.addControl(new GScaleControl());
+            /* Центрировать карту по созданной точке, установить масштаб и сделать начальным видом - космическую съемку, а не карту*/
+            map.setCenter(tpoint, zoom);
+            /* создаем обычный маркер */
+            var marker = new GMarker(tpoint);
+            /* добавляем маркер на карту*/
+            map.addOverlay(marker);
+        }
+    }
 
-<script src="https://www.bgst.edu.sg/js/moment-with-locales.js"></script>
-<script src="https://www.bgst.edu.sg/js/bootstrap-datetimepicker-eonasdan.js"></script>
-<script src="https://www.bgst.edu.sg/js/animation.js"></script>
-<script src="https://www.bgst.edu.sg/js/bootstrap-select.min.js"></script>
-<script src="https://www.bgst.edu.sg/js/slick.js"></script>
-<script src="https://www.bgst.edu.sg/js/file-upload.js"></script>
-<script src="https://www.bgst.edu.sg/js/plugins.js"></script>
-<script src="https://www.bgst.edu.sg/js/megamenu.js"></script>
-<script src="https://www.bgst.edu.sg/js/notify.js"></script>
-<script type="text/javascript">
-    $(function () {
-        $(".datepicker").datetimepicker({format: "YYYY-MM-DD"});
-    });
-
-</script>
-<script src="https://www.bgst.edu.sg/js/loading-overlay.js"></script>
-
-<script>
-    $(document).ajaxStart(function(){
-    $.LoadingOverlay("show");
-    });
-    $(document).ajaxStop(function(){
-    $.LoadingOverlay("hide");
-    });
-    $('.btnNext').on("click", function (e) {
-
-        $("div.tab-pane").find("input[name='db_status']").remove();
-        $("div.tab-pane>h2").not("div#step3>h2").after('<input type="hidden" name="db_status" value="update">');
-        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
-        var status = 0;
-
-
-        if ($(this).parents("div#step3").length) {
-            var ref = $(this).parents("div#step3");
-            var programme_id = $(ref).find("input[name='programme_type']:checked").val();
-            var certificate_id = $(ref).find("input[name='certificate_type']:checked").val();
-
-            if (programme_id) {
-                $.ajax({
-                    type: 'POST',
-                    url: "https://www.bgst.edu.sg/programme-registration/programme-type",
-                    data: {programme_id: programme_id, _token: CSRF_TOKEN},
-                    cache: false,
-                    async: false,
-                    success: function (data) {
-                        //alert(data.status);
-                        if (data.status == 'failed') {
-                            status = 4;
+    function GMapInitm(x, y) {
+        if (GBrowserIsCompatible()) {
+            var tlat = x;
+            var tlng = y;
+            var zoom = 15;
+            var tpoint = new GLatLng(tlat, tlng);
+            // Modified by m157y
+            //       var map = new GMap2(document.getElementById("mapm"));
+            if (document.getElementsByClassName == undefined) {
+                document.getElementsByClassName = function (cl) {
+                    var retnode = [];
+                    var myclass = new RegExp('\\b' + cl + '\\b');
+                    var elem = this.getElementsByTagName('*');
+                    for (var i = 0; i < elem.length; i++) {
+                        var classes = elem[i].className;
+                        if (myclass.test(classes)) {
+                            retnode.push(elem[i]);
                         }
-                        else if (!data.status == 'success') {
-                            status = 3;
-                        }
-                        else {
-                            $("input[name='programme_registration_id']").val(data.programme_registration_id)
-                        }
-                    }, error: function(data)
-                    {
-                        status = 11;
                     }
-                });
+                    return retnode;
+                }
             }
-            else if (certificate_id) {
-                $.ajax({
-                    type: 'POST',
-                    url: "https://www.bgst.edu.sg/certificate-registration/programme-type",
-                    data: {certificate_id: certificate_id, _token: CSRF_TOKEN},
-                    cache: false,
-                    async: false,
-                    success: function (data) {
-                        //alert(data.status);
-                        if (data.status == 'failed') {
-                            status = 5;
-                        }
-                        else if (!data.status == 'success') {
-                            status = 3;
-                        }
-                        else {
-                            $("input[name='certificate_registration_id']").val(data.certificate_registration_id)
-                        }
-                    }, error: function(data)
-                    {
-                        status = 11;
-                    }
-                });
+            var elem = document.getElementsByClassName('mapm')[0];
+            elem.style.width = '600px';
+            elem.style.height = '400px';
+            var map = new GMap2(elem);
+            // End of mod
+            /* устанавливаем тип карты */
+            map.setMapType(G_NORMAL_MAP);
+            /* Создать элементы навигации, масштабную линейку, переключение типа карты */
+            map.addControl(new GLargeMapControl());
+            map.addControl(new GMapTypeControl());
+            map.addControl(new GScaleControl());
+            /* Центрировать карту по созданной точке, установить масштаб и сделать начальным видом - космическую съемку, а не карту*/
+            map.setCenter(tpoint, zoom);
+            /* создаем обычный маркер */
+            var marker = new GMarker(tpoint);
+            /* добавляем маркер на карту*/
+            map.addOverlay(marker);
+        }
+    }
+    </script>
+    {/literal}
+{/if}
+{literal}
+<style>
+    new::after{
+        content: '';
+        display: block;
+        position: absolute;
+        background: url('https://booking.infoflot.com/i/new.png');
+        width: 28px;
+        height: 12px;
+        top: 0;
+        bottom: 0;
+        margin: auto 0;
+        right: 8px;
+    }
+.dropdown-menu-head {
+    display: none;
+    width: 127px;
+    position: absolute;
+    background: #fff;
+    border: 3px solid #3399cc;
+    list-style-type: none;
+    left: 103px;
+    top: -35px;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+}
+    .dropdown-menu-head > li > a {
+        display: block;
+        color: #000!important;
+        padding: 5px;
+        text-decoration: underline;
+    }
+
+    .dropdown-menu-head > li > a:hover {
+        background: #ff6600;
+        color: white!important;
+        text-decoration: underline;
+    }
+    /*
+    .top_static_snow {
+        position: absolute;
+        background-image: url(/i/static_snow.png);
+        width: 100%;
+        height: 38px;
+        margin-top: -2px;
+	z-index: -1;
+    }
+    .girlyands_bottom_static {
+        background-image: url(/i/girlyands.png);
+        width: 100%;
+        height: 50px;
+    }*/
+
+    #papap {  
+        position: fixed;
+        top: 40%;  
+        left: 40%;  
+        margin-right: -50%;  
+        transform: translate(-50%, -50%);  
+        z-index: 1000000 !important;
+        display: none;
+    }
+
+    .papap_text {
+        position: absolute;
+        top: 32%; 
+        padding: 0px 20px 20px 20px;
+        font-size: 20px;
+        text-align: center;
+        color: rgb(56, 143, 184);
+    }
+
+    .papap_text a {
+        width: 80px;
+        height: 40px;
+        background-color: rgb(56, 143, 184);
+        border-radius: 5px;
+        color:rgb(255, 255, 255);
+        font-size: 20px;
+        padding: 10px;
+    }
+    
+    .papapInfoflotLogo {
+        display: block;
+    }
+
+    .papapInfoflotLogo img {
+        width: 200px;
+        position: relative;
+        top: 20%;  
+        left: 50%;  
+        margin-right: -50%;  
+        transform: translate(-50%, -50%);
+    }
+
+    .popup-fade {
+	display: none;
+    }
+    .popup-fade:before {
+        content: '';
+        background: #000;
+        position: fixed; 
+        left: 0;
+        top: 0;
+        width: 100%; 
+        height: 100%;
+        opacity: 0.7;
+        z-index: 9999;
+    }
+    .popup {
+        outline: 1px solid black;
+        position: fixed;
+        top: 50%;  
+        left: 50%;
+        background: silver;
+        margin-right: -50%;  
+        transform: translate(-50%, -50%);
+        padding: 20px;
+        width: 60%;
+        background: #fff;
+        border: 1px solid orange;
+        border-radius: 4px; 
+        z-index: 99999;
+        opacity: 1;	
+    }
+    .popup img {
+        width: 100%;
+        height: auto;
+    }
+    .popup-close {
+        position: absolute;
+        right: 3%;
+        top: 4%;
+        width: 20px;
+        height: 20px;
+        border: 2px solid dimgray;
+        text-align: center;
+        font-size: 24px;
+        background-color: coral;
+        border-radius: 5px;
+        background: linear-gradient(to top, lightsalmon, salmon);    
+        box-shadow: 2px 4px 10px 1px rgba(0,0,0,0.5);
+        cursor: pointer;    
+        line-height: 18px;
+        text-decoration: none !important;
+    }
+
+</style>
+<script>
+	// возвращает cookie с именем name, если есть, если нет, то undefined
+	function getCookie(name) {
+	  var matches = document.cookie.match(new RegExp(
+		"(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+	  ));
+	  return matches ? decodeURIComponent(matches[1]) : undefined;
+	}
+$(function() {
+    /**
+    * Main menu dropdown menus
+    */
+    var
+        $dropdownLinks = $('.dropdown-head');
+    $dropdownLinks.on('click', function(event) {
+        // Toggle menu
+        $(this).next('.dropdown-menu-head').toggle();
+
+        // Prevent default action
+        return false;
+    });
+    $(document).on('click', function() {
+        $dropdownLinks.next('.dropdown-menu-head').hide();
+    });
+});
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MPGCSRR');</script>
+<!-- End Google Tag Manager -->
+{/literal}
+<!-- Google reCaptcha -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<!--    {if $smarty.server.REQUEST_URI == '/'}-->
+<!--        {literal}-->
+<!--            &lt;!&ndash; Marquiz script start &ndash;&gt;-->
+<!--            <script src="//script.marquiz.ru/v1.js" type="application/javascript"></script>-->
+<!--            <script>-->
+<!--                document.addEventListener("DOMContentLoaded", function() {-->
+<!--                Marquiz.init({-->
+    <!--                id: '5dd6a4bae3a33c0044ff4f34',-->
+    <!--                autoOpen: false,-->
+    <!--                autoOpenFreq: 'once',-->
+    <!--                openOnExit: false-->
+    <!--                });-->
+    <!--                });-->
+    <!--            </script>-->
+    <!--            &lt;!&ndash; Marquiz script end &ndash;&gt;-->
+    <!--        {/literal}-->
+    <!--    {/if}-->
+
+
+    {literal}
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(82951024, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true,
+            ecommerce: "dataLayer"
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/82951024" style="position:absolute; left:-9999px;" alt=""/></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Пиксель ВК -->
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1444263-917SF"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1444263-917SF" style="position:fixed; left:-999px;" alt=""/></noscript>
+    <!-- /Пиксель ВК -->
+    {/literal}
+</head>
+<body {if $google_map==1 && $X!=''}onload="GMapInitm({$X},{$Y});"{/if}>
+    <div id="papap">
+        <div class="bx-livechat-wrapper bx-livechat-show bx-livechat-logo-ru bx-livechat-offline-state bx-livechat-custom-scroll" style="margin: auto auto; height: 290px; width: 435px; user-select: auto; z-index: 1000000 !important;">
+            <div class="bx-livechat-box">
+                <div class="bx-livechat-widget-resize-handle"></div> 
+                <div class="bx-livechat-head-wrap">
+                    <div class="bx-livechat-head" style="background-color: rgb(255, 255, 255) !important;">
+                        <div class="bx-livechat-title">Круизный центр «Инфофлот»</div> 
+                        <div onclick="document.getElementById('papap').style.display='none'; document.getElementById('papapSubmit').submit();" class="bx-livechat-control-box"><!---->
+                            <button  style="color: rgb(255, 102, 0) !important; font-size: 40px; margin-right: 7px;" title="Закрыть виджет" class="bx-livechat-control-btn bx-livechat-control-btn-close">&#215;</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="papapInfoflotLogo">
+                    <img src="https://www.infoflot.com/imgadmn/Infoflot_logo_blue_RGB.png">
+                </div>
+                <div class="papap_text">
+                    <p>
+                        Еще больше полезной и актуальной информации о круизах Вы можете получать в нашем телеграм-канале
+                        <br><br>
+                        <a href="https://t.me/infoflotinfo" target="_blank"><i class="fab fa-telegram-plane"></i> Подписаться</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--AndreyS: окно для вывода фото с подписью -->
+    <div class="popup-fade">
+        <div id="popup" class="popup">
+            <a class="popup-close" href="#">&#215;</a>
+            <img id="popupSrc" src="">
+            <p id="popupText"></p>
+        </div>		
+    </div>
+<div class="erroralert" id="erroralert"><div class="erroralert_close">x</div><div class="erroralert_content"></div></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPGCSRR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="container"></div>
+
+
+
+
+
+<table bgcolor="#FFFFFF" width="1005" align='center' id="main" border=0 cellpadding=0 cellspacing=0 style="height: 145px; !important;">
+    <tbody class="toptbody">
+        <tr>
+            <td style="padding: 0px !important;">
+                <iframe scrolling="no" frameborder="0" src="https://booking.infoflot.com/External/Topbar" height="32" width="100%"></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td id="top" style="position: relative;">
+                <!-- <div class="top_static_snow"></div> -->
+                <!-- <div class='callback'><a href="/info/callback/" target='_blank'>Оставьте заявку</a><br>и мы сами позвоним Вам</div> -->
+                <table width="997">
+                    <tr>
+                        <td nowrap="nowrap" id="td1">
+                            <a href="/">
+                                <img class='logo' style="max-width: 100%;" src="/imgadmn/Infoflot_logo_blue_RGB.png" alt="Инфофлот - речные круизы на теплоходе" title="Инфофлот - речные круизы на теплоходе">
+                                <!--img class='logo' src="/i/logo320.png?_v=2" alt="Инфофлот - речные круизы на теплоходе" title="Инфофлот - речные круизы на теплоходе"><br />
+                                <img src="/i/allRussia.png" alt="Все круизы России"-->
+                            </a>
+                        </td>
+                        <noindex>
+							<td valign="top" nowrap="nowrap" style="padding-top: 10px" id="td05">
+
+							</td>
+						</noindex>
+                        <!--<td rowspan="2" nowrap="nowrap" id="td15" width="80">
+                            <img src="/i/since03.png" alt="Делаем людей счастливыми с 2003 года!" />
+                            <a target="_blank" href="https://www.infoflot.com/news/new3244/" class="travelru" style="margin: -20px 0 0;"></a>
+
+                        </td>//-->
+                        <td rowspan="2" nowrap="nowrap" id="td2">
+                            {$PHONE_HEAD}
+                        </td>
+                        <noindex>
+						<td rowspan="2" align="right" width="92" valign="top">
+                            <a id="en" title="ENGLISH" href="http://russian-river-cruises.com" rel=”nofollow”><img height="15" align="absmiddle" src="/i/gb_big.png"></a>
+                            <!-- <a id="de" title="DEUTSCH" href="http://de.russian-river-cruises.com" rel=”nofollow”><img height="15" align="absmiddle" src="/i/de.png"></a> -->
+                        </td>
+						</noindex>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="padding-left: 12px;">
+                            <span class="links"><a href="https://www.infoflot.com" target='_blank'>Речные круизы</a></span>
+                            <span class="links"><a href="http://sea-cruise.ru" target='_blank'>Морские круизы</a></span>
+							<!-- <span class="links"><a href="https://www.infoflot.com/news/new6614/ " target='_blank'>Реки Мира</a></span> -->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td id="maintd">
+                <table class="main" style="position: relative">
+                    <tr>
+                        <td id="left">
+                            {if $smarty.now > 1661374800 && $smarty.now < 1662843599}
+                            <div style="display: flex; justify-content:center;">
+                                {literal}
+                                <style>
+                                    #btn_cashback {
+                                        height: 44px;
+                                        width: 172px;
+                                        line-height: 44px;
+                                        margin-bottom: 9px !important;
+                                        background: #006743;
+                                        text-align: center;
+                                        text-decoration: none;
+                                        cursor: pointer;
+                                        font-size: 130%;
+                                        z-index: 5;
+                                        border-radius: 25px;
+                                        display: block;
+                                    }
+
+                                    @-webkit-keyframes blink6 {
+                                        10% {
+                                            transform: scale(1, 1) rotate(80deg);
+                                        }
+                                        20% {
+                                            transform: scale(0, 0) rotate(160deg);
+                                        }
+                                        100% {
+                                            transform: scale(0, 0) rotate(0deg);
+                                        }
+                                    }
+
+                                    @keyframes blink6 {
+                                        10% {
+                                            transform: scale(1, 1) rotate(80deg);
+                                        }
+                                        20% {
+                                            transform: scale(0, 0) rotate(160deg);
+                                        }
+                                        100% {
+                                            transform: scale(0, 0) rotate(0deg);
+                                        }
+                                    }
+
+                                    .blink6 {
+                                        position: relative;
+                                        display: inline-block;
+                                        color: #fff;
+                                        text-shadow: 0 0 10px #3d7a97;
+                                        background: #064578;
+                                    }
+
+                                    .blink6:after, .blink6:before {
+                                        content: "";
+                                        position: absolute;
+                                        top: -20px;
+                                        left: -12px;
+                                        display: block;
+                                        width: 100px;
+                                        height: 100px;
+                                        background-image: radial-gradient(rgba(255, 255, 255, 1), rgba(255, 255, 255, 0) 30%),
+                                        linear-gradient(45deg, rgba(0, 0, 0, 0) 49%, rgba(255, 255, 255, .4) 50%, rgba(0, 0, 0, 0) 51%),
+                                        linear-gradient(135deg, rgba(0, 0, 0, 0) 49%, rgba(255, 255, 255, .4) 50%, rgba(0, 0, 0, 0) 51%);
+                                        -webkit-animation: blink6 10s linear infinite;
+                                        animation: blink6 10s linear infinite;
+                                        transform: scale(0, 0) rotate(0deg);
+                                    }
+
+                                    .blink6:before {
+                                        top: -80%;
+                                        right: -8px;
+                                        left: auto;
+                                        -webkit-animation-delay: 5s;
+                                        animation-delay: 5s;
+                                    }
+                                </style>
+                                {/literal}
+                                    <a href="/news/new8308/" target="_blank" id="btn_cashback" class="blink6">Кешбэк 20%</a>
+                            </div>
+                            {/if}
+                            {if $catalogMenu}
+                            <div style="padding-left: 5px;">
+                                {literal}
+                                <style>
+                                    #btn_catalog .ml-pnl {
+                                        min-width: 260px !important;
+                                    }
+                                    .blocker{
+                                        z-index: 1020 !important;
+                                    }
+                                </style>
+                                {/literal}
+                                {$catalogMenu}
+                            </div>
+                            {/if}
+                            <table cellspacing=0 cellpadding=0 width="100%" style="height: 100%;">
+                                <tr>
+                                    <td valign="top">
+                                        <dl>
+                                            <dd>
+
+                                                {if $smarty.server.REQUEST_URI == '/'}
+                                                    {assign var='booking_search' value='#booking_search'}
+                                                {else}
+                                                    {assign var='booking_search' value=$booking_search|default:'/#booking_search'}
+                                                {/if}
+                                                <div class="menu_orange" style='margin-top:8px;'><img src="/i/find.gif" alt="Поиск" title="Поиск">&nbsp;&nbsp;&nbsp;<a id='neon' href="{$booking_search}" title="Поиск круиза"><b>Поиск круиза</b></a></div>
+                                                {* <div class=sl><img src="/i/map.gif" alt="Карта сайта" title="Карта сайта">&nbsp;&nbsp;&nbsp;<a href="/map/">Карта сайта</a></div> *}
+                                            {$MENU}
+                                            </dd>
+                                        </dl>
+                                        <hr size=1>
+                                        <br>
+
+
+                                        <br />
+                                    <!--
+                                        <div align=center><a href="/news/new4944"><img border=0 src="/img_banners/foto1.jpg" alt="Фотолетопись навигации 2015"></a></div>
+                                    -->
+                                        <!-- <br>
+                                        <div align=center><a target=_blank href="/information/job/#bort">
+                                            <img border=0 src="/img_banners/rabota_na_bortu.jpg">
+                                        </a></div>
+                                        <br> -->
+
+    									{*}
+                                        <noindex>
+                                            <div align=center>
+                                                  <a target="_blank" href="https://www.infoflot.com/news/new1860"><img border="0" width="160" src="/img_banners/citi.jpg" alt=""></a>
+                                            </div>
+                                            <br/>
+                                        </noindex>
+    									{*}
+                                        <div class="lform">
+                                            <div class="h2">Подписка на новости и спецпредложения</div>
+                                            <form id="papapSubmit" action="/" method="post" name="subscrForm">
+                                                <input type="Hidden" name="act" value="subscribe">
+                                                <br/>
+                                                E-mail:<br>
+                                                <input id="papapEmail" type="text" name="email" class="inputtext" value="" required>
+                                                <!-- и/или<br />
+                                                Телефон<small> (SMS рассылка)</small>
+                                                <input type="text" name="phone" class="inputtext"> -->
+                                                
+                                                <!-- поле "phone" которое может быть надо удалить -->
+                                                <input type="hidden" name="phone" value="">
+                                                <br />
+                                                Имя:<br>
+                                                <input id="papapName" type="text" name="last_name" class="inputtext" value="" required>
+
+                                                <div style="margin-bottom: 10px">
+                                                    <input type="radio" name="subscr_type" value="fiz" checked>
+                                                    Физическое лицо<br>
+                                                    <input type="radio" name="subscr_type" value="agent">
+                                                    Агент
+                                                </div>
+
+                                                <div class="otp">
+                                                    <input type="hidden" value="" name="otpis">
+                                                    <!--
+                                                    <a href="#" onClick="document.subscrForm.otpis.value='yes'; document.subscrForm.submit(); return false;">Отписаться</a>
+                                                    -->
+                                                </div>
+                                                <div onclick="papap(); return false;" class="ar">
+                                                    {literal}
+                                                    <input type="image" src="/i/ok.gif">
+                                                    {/literal}
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                                {*
+                                <tr>
+                                    <td id="counter">
+                                        <div style="visibility: hidden; height: 1px;">
+                                            {$COUNTERS}
+                                        </div>
+                                    </td>
+                                </tr>
+                                *}
+                            </table>
+                        </td>
+                        <td class="cont">
+                            <div id="topmenu">
+                                <a href="/clients/clfaq/" class="bigtext">Вопросы и ответы</a>
+                                | <a href="/clients/questionnaire/" class="bigtext">Служба контроля качества</a>
+<!--                                | <a href="https://arenda.infoflot.com">Аренда флота</a>-->
+                                <a class="club" target="_blank" href="http://bonus.infoflot.com" title="Клуб любителей круизов"><span>Клуб любителей круизов</span></a>
+                            </div>
+                            <table class="page">
+                                <tr>
+                                    <td{if $smarty.get.sub!=='main'} style="padding: 0 4px;"{/if}>
+
+
+
+                                        {if $PATH}
+                                            <div style="text-align: left; margin: 0px 4px 4px 0px">
+                                                {$PATH}
+                                                {if $HEADER == 'Новости'} »
+                                                <a class="titleNewsBreadCrumbs" style="pointer-events: none; color: rgba(0, 0, 0, 0.3)"></a>{/if}
+                                            </div>
+                                            <br />
+                                        {/if}
+
+    									{if $smarty.get.sub=='worldriver'}
+    										{* <img src="/i/WR-main.jpg"  style="margin-bottom: 15px;"/> *}
+											<h1>Круизы по рекам мира</h1>
+											<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+                                                <tr>
+													<td><a href="https://booking.infoflot.com/Bellejour#next" target="_blank"><img src="/i/worldriver/bellejour.jpg" /></a></td>
+                                                    <td align="left" width="60" height="180"></td>
+                                                    <td><a href="https://www.infoflot.com/news/new5710/" target="_blank"><img src="/i/worldriver/5NY.jpg?v=2" /></a></td>
+
+                                                </tr>
+                                            </table>
+
+
+    										<p><b>Круизы по зарубежным рекам</b> - это прекрасная возможность увидеть страну изнутри, наблюдать удивительные пейзажи природы и архитектуру местных городов. В рамках данных круизов Вас ждут разнообразные достопримечательности - шедевры средневековой Европы, экзотики Азии, дикая природа Амазонки и многое другое.</p>
+    										<p><b>Это отдых, который Вам обязательно понравится!</b></p>
+
+                                        {elseif $HEADER}
+                                            {if $smarty.server.REQUEST_URI == '/info/regions' or $smarty.server.REQUEST_URI == '/info/regions/' or
+                                                $smarty.server.REQUEST_URI == '/highlights/cruise_2010' or $smarty.server.REQUEST_URI == '/highlights/cruise_2010/' or
+                                                $smarty.server.REQUEST_URI == '/tours' or $smarty.server.REQUEST_URI == '/tours/'}
+                                            <h1>{$HEADER}</h1>
+                                            {elseif $smarty.server.REQUEST_URI != '/' and !isset($smarty.get.city) }
+                                                <h1>
+                                                    {if $HEADER !== 'Новости'}
+                                                    {$HEADER}
+                                                    {/if}
+                                                </h1>
+                                            {/if}
+                                        {/if}
+
+                                        {if $smarty.get.sub=='news' && ($smarty.server.REQUEST_URI != '/news/new1390' && $smarty.server.REQUEST_URI != '/news/new1364')}
+
+                                              {*   <SCRIPT LANGUAGE="JavaScript">
+                                                showImage();
+                                                </script>*}
+                                            {$MAINBANNER}
+    									{/if}
+
+    									{if $smarty.get.sub!=='main'}
+    										<div class="MainContent">
+                                                {if $HEADER == 'Новости'}
+                                                {literal}
+                                                <style>
+                                                    h1{
+                                                        font-size: 15px !important;
+                                                    }
+                                                    .MainContent{
+                                                        padding: 0 10px;
+                                                    }
+                                                </style>
+                                                {/literal}
+                                                {/if}
+    											{$CONTENT}
+    										</div>
+    									{else}
+    										{$CONTENT}
+    									{/if}
+
+
+                                        {if $SUBMENU && !$smarty.get.page}<br>{/if}
+                                    </td>
+                                </tr>
+                            </table>
+
+                            {if $smarty.get.sub!=='worldriver' and $smarty.get.sub!=='worldriver2' and $smarty.get.sub!=='main' and $smarty.get.sub!==tours and  $smarty.get.sub!==press and  $smarty.get.sub!=julaev and  $smarty.get.sub!=gagarin and  $smarty.get.sub!=muromez and  $smarty.get.sub!=chapaev and  $smarty.get.sub!=papanov and  $smarty.get.sub!=nikulin and  $smarty.get.sub!=bonus and $smarty.get.sub!=work and  $smarty.get.sub!=promo2008 and  $smarty.get.sub!=present and  $smarty.get.sub!=offices and  $smarty.get.sub!=garant and  $smarty.get.sub!=job &&  ($smarty.server.REQUEST_URI != '/news/new1390' && $smarty.server.REQUEST_URI != '/news/new1364')}
+                                <hr size=1 NOSHADE>
+                                <noindex>
+<!--                                   <iframe name="zzz" width="100%" height="500" style="font-size: 11px;" scrolling="no" frameborder="0" src="//l.booking.infoflot.com/search/externalForm?noRusGroups=1&noCruiseKeys=1"></iframe>-->
+                                    <div id="booking_search" style="width: 100%;" name="zzz">
+                                        {$BOOKING_SEARCH}
+                                    </div>
+                                </noindex>
+                            {/if}
+
+                            {if $smarty.server.REQUEST_URI == '/news/new1390' || $smarty.server.REQUEST_URI == '/news/new1364'}
+                                <a target="_blank" href="https://booking.infoflot.com/ship_38_t2656.html" class="news1364"></a>
+                            {/if}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td id="botl" colspan="2">
+                            <table width="100%">
+                                <tr>
+                                    <td width="250" valign="top">
+                                        <div style="height: 40px;">
+											<!-- <b>Туристическая компания "ИНФОФЛОТ" </b><br> -->
+											<img src="/i/logo120_1.png">
+										</div>
+
+
+                                    </td>
+                                    <td align="right" valign="top">
+                                        <div style="height: 40px;">
+											<a href="https://www.infoflot.com/info/contact_pay/#2" target="_blank"><img src="//booking.infoflot.com/i/logo/visa_small.gif" /></a>
+											<a href="https://www.infoflot.com/info/contact_pay/#2" target="_blank"><img src="//booking.infoflot.com/i/logo/mastercard_small.gif" /></a>
+											<a href="https://www.infoflot.com/info/contact/" target="_blank"><img src="//booking.infoflot.com/i/logo/contact.jpg" /></a>
+											<!--<a href="https://www.infoflot.com/info/contact_pay/#11" target="_blank"><img src="//booking.infoflot.com/i/logo/qiwi_small.gif" /></a>-->
+											<!--<a href="https://www.infoflot.com/info/contact_pay/#15" target="_blank"><img src="//booking.infoflot.com/i/logo/tourpay_small.jpg" /></a>-->
+										</div>
+
+										<div style="float:right; margin: 10px 0;"><a href="/information/job/"><u>Наши вакансии</u></a></div>
+										<div style="float:right; margin: 10px 10px 0 0;"><a href="https://www.infoflot.com/politic/"><u>Политика конфиденциальности</u></a></div>
+									</td>
+                                    <td width="400" align="right" valign="top" rowspan="2">
+                                        {$PHONE_BOTTOM}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="830" valign="top" colspan="2" align="left">
+                                        При использовании материалов сайта ссылка на <a href="https://www.infoflot.com">www.infoflot.com</a> - обязательна.<br>
+                                        <font color="#C0C0C0">
+                                            <small>
+                                                Сайт подготовлен сотрудниками круизного центра «Инфофлот» – <a href="https://www.infoflot.com/">речные круизы</a> и прогулки по всей России. Туры по Волге в Москву из Самары. Речные круизы в Петербург, Пермь и другие города России. Все права защищены. <a href="/map/">Карта сайта</a>.<br>
+                                               При подготовке использованы собственные материалы компании, материалы, предоставленные компаниями-партнерами, а также материалы Интернет-портала INFOFLOT.RU и <a href="http://frocush.livejournal.com/">http://frocush.livejournal.com/</a>.
+                                            </small>
+                                            <div>
+                                                <small>
+                                                    Информация на сайте не является публичной офертой и носит информационный характер. Конкретные характеристики продуктов и условия их продаж (в том числе применение акций, скидок и т.п.) уточняйте в офисах компании.
+                                                </small>
+                                            </div>
+                                        </font>
+
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- <div class="girlyands_bottom_static"></div> -->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+{if $GEO_CITY == 'Ростов-на-Дону' && !$DEV}
+    {literal}
+    <!--<script type='text/javascript'> /* build:::7 */
+        var liveTex = true,
+            liveTexID = 40783,
+            liveTex_object = true;
+        (function() {
+            var lt = document.createElement('script');
+            lt.type ='text/javascript';
+            lt.async = true;
+            lt.src = 'http://cs15.livetex.ru/js/client.js';
+            var sc = document.getElementsByTagName('script')[0];
+            if ( sc ) sc.parentNode.insertBefore(lt, sc);
+            else  document.documentElement.firstChild.appendChild(lt);
+        })();
+    </script> //-->
+	<script id="chatHelpScr" type="text/javascript" src="http://chathelp.ru/js/main.js?site=52315de790c58ddf3f000532"></script>
+    {/literal}
+{/if}
+
+{literal}
+
+<script type="text/javascript">
+        $('#Datatable, #Datatable2, #Datatable3, #Datatable4').show().DataTable( {
+            //dom: 'Bfrtip',
+            searching: false,
+            ordering: false,
+            language: {
+                "processing": "Подождите...",
+                "search": "Поиск:",
+                "lengthMenu": '',
+                "info": "Записи с _START_ до _END_ из _TOTAL_ записей",
+                "infoEmpty": "Записи с 0 до 0 из 0 записей",
+                "infoFiltered": "(отфильтровано из _MAX_ записей)",
+                "infoPostFix": "",
+                "loadingRecords": "Загрузка записей...",
+                "zeroRecords": "Записи отсутствуют.",
+                "emptyTable": "В таблице отсутствуют данные",
+                "paginate": {
+                "first": "Первая",
+                "previous": "Предыдущая",
+                "next": "Следующая",
+                "last": "Последняя"
+                },
+                "aria": {
+                "sortAscending": ": активировать для сортировки столбца по возрастанию",
+                "sortDescending": ": активировать для сортировки столбца по убыванию"
+                }
+            },
+            /*initComplete: function () {
+                this.api().columns().every( function () {
+                    var column = this;
+                    var select = $('<select><option value=""></option></select>')
+                        .appendTo( $(column.header()).empty() )
+                        .on( 'change', function () {
+                            var val = $.fn.dataTable.util.escapeRegex(
+                                $(this).val()
+                            );
+
+                            column
+                                .search( val ? '^'+val+'$' : '', true, false )
+                                .draw();
+                        } );
+
+                    column.data().unique().sort().each( function ( d, j ) {
+                        select.append( '<option value="'+d+'">'+d+'</option>' )
+                    } );
+                } );
+            }*/
+            /*buttons: [
+                {
+                    extend: 'excelHtml5',
+                    title: 'Инфофлот Условия возврата'
+                },
+                {
+                    extend: 'print',
+                    text: 'Печать',
+                },
+            ]*/
+        } );
+</script>
+{/literal}
+{literal}
+<script>
+/*AndreyS: только для страницы новостей, вывод фото в модальном окне */
+if(document.URL.split('/')[3] == 'news') {
+    // задаем cursor: pointer для всех фото, которые с шириной 360px
+    $.each($('img'), function(){
+        if($(this).context.width == 360) {
+            $(this).css('cursor', 'pointer');
+        }
+    });
+    // при клике по фото с шириной 360px и если это не ссылка, или с классом clickok и не являющимся ссылкой, открываем его в окне popup с подписью из alt, если alt пуст, то выводим подпись по дефолту
+    $('img').on("click",function(e){
+        if(e.srcElement.width == 360 && e.srcElement.parentNode.nodeName != 'A' || e.srcElement.className == 'clickok' && e.srcElement.parentNode.nodeName != 'A') {
+            let title = '';
+            if(e.srcElement.alt != '' ) {
+                title = e.srcElement.alt;
             }
             else {
-                status = 1;
-            }
-            if (status == 1) {
-                $.notify('Choose your program to proceed', "error");
-            }
-            else if (status == 2) {
-                $.notify('Error! Something went wrong.', "error");
-            }
-            else if (status == 3) {
-                $.notify('Already registered with programme.', "error");
-            }
-            else if (status == 4) {
-                $.notify('Complete pending application form to register new programme.', "error");
-            }
-            else if (status == 5) {
-                $.notify('Complete pending application form for programme.', "error");
-            }
-        }
-        if ($(this).parents("div#section1").length) {
-			//alert($("select[name='church']").val());
-			if (!$("select[name='student_title']").val()) {
-                $.notify("Student title field cannot be blank", "error");
-                status = 11;
-            }
-			else if ($("select[name='student_title']").val() == 'Other' && !$("input[name='student_title_other']").val()) {
-                $.notify("Student title other field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='student_name']").val()) {
-                $.notify("Name field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='student_dob']").val()) {
-                $.notify("Date of birth field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("select[name='student_nationality']").val()) {
-                $.notify("Student nationality field cannot be blank", "error");
-                status = 11;
-            }
-            else if ($("select[name='student_nationality']").val() == 'Other' && !$("input[name='student_nationality_other']").val()) {
-                $.notify("Student nationality other field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("select[name='race']").val()) {
-                $.notify("Student race field cannot be blank", "error");
-                status = 11;
-            }
-            else if ($("select[name='race']").val() == 'Other' && !$("input[name='race_other']").val()) {
-                $.notify("Student race other field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("select[name='religion']").val()) {
-                $.notify("Student religion field cannot be blank", "error");
-                status = 11;
-            }
-            else if ($("select[name='religion']").val() == 'Other' && !$("input[name='religion_other']").val()) {
-                $.notify("Student religion other field cannot be blank", "error");
-                status = 11;
-            }
-			
-            else if (!$("input[name='occupation']").val()) {
-                $.notify("Occupation field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='higest_level_education']").val()) {
-                $.notify("Highest Education Level field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='telephone']").val()) {
-                $.notify("Telephone field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='student_email']").val()) {
-                $.notify("Email field cannot be blank", "error");
-                status = 11;
-            }
-            else if (IsEmail($("input[name='student_email']").val()) == false) {
-                $.notify("Enter valid email address.", "error");
-                status = 11;
-            }
-            else if (!$("input[name='blk_no']").val()) {
-                $.notify("Blk No. field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='unit_no']").val()) {
-                $.notify("Unit No. field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='building_street_name']").val()) {
-                $.notify("Building/ Street Name field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("input[name='postal_code']").val()) {
-                alert("Postal Code field cannot be blank", "error");
-                status = 11;
+                title = 'Открой мир вместе с "Инфофлот"';
             }
             
-            /*else if ($("input[name='nric_passport']:checked").val() == 'passport' && !$("input[name='passport_expiry_date']").val()) {
-                $.notify("Passport Expiry Date field cannot be blank", "error");
-                status = 11;
-            }
-			else if (!$("input[name='nric_passport_no']").val()) {
-                $.notify("NRIC Passport No. field cannot be blank", "error");
-                status = 11;
-            }
-			else if ($("input[name='nric_passport']:checked").val() == 'passport' && $("select[name='passport_issuance_country']").val()=='') {
-                $.notify("Passport Issuance Country field cannot be blank", "error");
-                status = 11;
-            }*/
-		    else if ($("select[name='religion']").val() == 'Christianity' && $("select[name='church']").val()=='') {
-				
-                $.notify("Church field cannot be blank", "error");
-                status = 11;
-            }
-            else if ($("select[name='church']").val() == 'Other' && !$("input[name='church_other']").val()) {
-                $.notify("Church other field cannot be blank", "error");
-                status = 11;
-            }
-            else if (!$("select[name='applicant_type']").val()) {
-                $.notify("Applicant Type field cannot be blank", "error");
-                status = 11;
-            }
-			
-            else if (!$("select[name='find_out_about']").val()) {
-                $.notify("Find about BGST field cannot be blank", "error");
-                status = 11;
-            }
-            else if ($("select[name='find_out_about']").val() == 'Other' && $("input[name='find_out_about_other']").val() == '') {
-                $.notify("Find about BGST other field cannot be blank", "error");
-                status = 11;
-            }
-            if (status != 11) {
-                $("button.personal_information_save").trigger("click", ["next"]);
-            }
-        }
-        if ($(this).parents("div#section2").length) {
-            if (!$("select[name='student_type']").val()) {
-                $.notify('Student type field is required.');
-                status = 11;
-            }
-            else if ($("input[name='are_you_married']:checked").val() == 'Yes' && $("input[name='marriage_date']").val() == '') {
-                $.notify('Date of marriage field is required.', "error");
-                status = 11;
-            }
-            else if ($("input[name='have_children']:checked").val() == 'Yes' && $("select[name='no_of_children']").val() == '') {
-                $.notify('Specify number of children field is required.', "error");
-                status = 11;
-            }
-            if (status != 11) {
-                $("button.additional_personal_information_save").trigger("click", ["next"]);
-            }
-        }
-        if ($(this).parents("div#section3").length) {
-            $("button.academic_background").trigger("click", ["next"]);
-        }
-        if ($(this).parents("div#section4").length) {
-            $("button.employment_experience").trigger("click", ["next"]);
-        }
-        if ($(this).parents("div#section5").length) {
-            $("button.church_background").trigger("click", ["next"]);
-        }
-        if ($(this).parents("div#section6").length) {
-            $("button.ministry_experience").trigger("click", ["next"]);
-        }
-        if ($(this).parents("div#section7").length) {
-            $("button.financial_information").trigger("click", ["next"]);
-        }
-        if ($(this).parents("div#section8").length) {
-            $("button.study_objectives").trigger("click", ["next"]);
-        }
-        if ($(this).parents("div#section9").length) {
-            $("button.health_record").trigger("click", ["next"]);
-        }
-        if ($(this).parents("div#section10").length) {
-            var referees_email = [];
-            var referees_email_array = referees_email.sort();
-            $("input[name='referees_email[]']").each(function () {
-                var value = $(this).val();
-                if (value) {
-                    referees_email.push(value);
-                }
-            });
-            for (var i = 0; i < referees_email_array.length - 1; i++) {
-                if (referees_email_array[i + 1] == referees_email_array[i]) {
-                    status = 11;
-                }
-            }
-            if (referees_email.length < 2) {
-                status = 11;
-                $.notify("At least two referee information is required.", "error");
-            }
-            else if (status == 11) {
-                $.notify("Email ID cannot be same.", "error");
-            }
-
-            if (status != 11) {
-                $("button.referees_bunch").trigger("click", ["next"]);
-            }
-        }
-        if ($(this).parents("div#section11").length) {
-            var ielts_file = document.getElementById('ielts_file').files.length;
-            if (nric_doc) {
-                var selection = document.getElementById('nric_doc');
-                var ext = selection.files[0].name.substr(-3);
-                if(ext!== "pdf")
-                {
-                    $.notify('Error! Invalid TOEFL/IELTS transcript file type. Please upload pdf file.', "error");
-                    status = 11;
-                    return false;
-                }
-            }
-            if (status != 11) {
-                $("#ielts_documents").trigger("submit", ["next"]);
-            }
-        }
-        if ($(this).parents("div#section12").length) {
-            var nric_doc = document.getElementById('nric_doc').files.length;
-            var digital_photo_doc = document.getElementById('digital_photo_doc').files.length;
-            var transcript_courses_doc = document.getElementById('transcript_courses_doc').files.length;
-            var testimony_doc = document.getElementById('testimony_doc').files.length;
-            var highest_qualification_doc = document.getElementById('highest_qualification_doc').files.length;
-            if (nric_doc) {
-                var selection = document.getElementById('nric_doc');
-                var ext = selection.files[0].name.substr(-3);
-                if(ext!= "pdf" && ext!= "doc" && ext!= "ocx")
-                {
-                    $.notify('Error! Invalid NRIC file type. Please upload pdf/doc file.', "error");
-                    status = 11;
-                    return false;
-                }
-            }
-            else if(nric_doc == 0) {
-                    $.notify('Error! Please upload NRIC document', "error");
-                    status = 11;
-                    return false;
-            }
-            if (digital_photo_doc) {
-                var array_list = [];
-                var selection = document.getElementById('digital_photo_doc');
-                for (var i=0; i<selection.files.length; i++) {
-                    var ext = selection.files[i].name.substr(-3);
-                    if(ext!== "jpeg" && ext!== "jpg")  {
-                        array_list.push(11);
-                    }
-                }
-                if(array_list.includes(11))
-                {
-                    $.notify('Error! Invalid Digital passport-sized photo file type. Please upload jpeg file.', "error");
-                    status = 11;
-                    return false;
-                }
-            }
-            else if(digital_photo_doc == 0) {
-                    $.notify('Error! Please upload Digital Passport size photo', "error");
-                    status = 11;
-                    return false;
-            }
-            if (transcript_courses_doc) {
-                var array_list = [];
-                var selection = document.getElementById('transcript_courses_doc');
-                for (var i=0; i<selection.files.length; i++) {
-                    var ext = selection.files[i].name.substr(-3);
-                    if(ext!= "pdf" && ext!= "doc" && ext!= "ocx")
-                    {
-                        array_list.push(11);
-                    }
-                }
-                if(array_list.includes(11))
-                {
-                    $.notify('Error! Invalid Transcripts for any theological courses or degrees taken file type. Please upload pdf/doc file.', "error");
-                    status = 11;
-                    return false;
-                }
-            }
-            if (testimony_doc) {
-                var selection = document.getElementById('testimony_doc');
-                var ext = selection.files[0].name.substr(-3);
-                if(ext!= "pdf" && ext!= "doc" && ext!= "ocx")
-                {
-                    $.notify('Error! Testimony of your Conversion Experience file type. Please upload pdf/doc file.', "error");
-                    status = 11;
-                    return false;
-                }
-            }
-            else if(testimony_doc == 0) {
-                    $.notify('Error! Please upload testimony of your conversion', "error");
-                    status = 11;
-                    return false;
-            }
+            let foto = '';
+            let url = e.srcElement.src;
             
-            if(highest_qualification_doc == 0) {
-                    $.notify('Error! Please upload highest qualification documents', "error");
-                    status = 11;
-                    return false;
-            }
-
-            if (status != 11) {
-                $("#all_documents").trigger("submit", ["next"]);
-            }
-
+            $('#popupSrc').attr('src', '' + url + '');
+            $('#popupText').text(title);
+            $('.popup-fade').css('display', 'block');
+            return false;
         }
-        if ($(this).parents("div#section13").length) {
-            var sponsership_letter = document.getElementById('sponsership_letter').files.length;
-            var ref = $(this).parents("div#section13");
-            if (!$("input[name='funding_agreement']").is(":checked")) {
-                $.notify('Read and accept funding agreement to proceed.', "error");
-                status = 11;
-            }
-            else if (sponsership_letter) {
-                var array_list = [];
-                var selection = document.getElementById('sponsership_letter');
-                for (var i=0; i<selection.files.length; i++) {
-                    var ext = selection.files[i].name.substr(-3);
-                    if(ext!== "pdf")  {
-                        array_list.push(11);
-                    }
-                }
-                if(array_list.includes(11))
-                {
-                    $.notify('Error! Invalid Sponsorship Letter file type. Please upload pdf file.', "error");
-                    status = 11;
-                    return false;
-                }
-            }
-            if (status != 11) {
-                $("#statistical_information").trigger("submit", ["next"]);
-            }
-        }
-        if ($(this).parents("div#section14").length) {
-            var ref = $(this).parents("div#section14");
-            if (!$("input[name='privacy_agreement']").is(":checked")) {
-                $.notify('Read and review privacy agreement to proceed.', "error");
-                status = 11;
-            }
-            if (status != 11) {
-                $("button.review_privacy_agreement").trigger("click", ["next"]);
-            }
-        }
-        if ($(this).parents("div#section16").length) {
-            var ref = $(this).parents("div#section16");
-            if (!$("select[name='payment_mode']").val()) {
-                $.notify('Select any one payment mode to proceed.', "error");
-                status = 11;
-            }
-			
-			if (status != 11) {
-                $("button.programme_payment_mode").trigger("click", ["next"]);
-            }
-        }
-        if (status == 0) {
-            $('.nav-tabs > .active').next('li').find('a').trigger('click');
-        }
-
-
+    }); 
+    $('.popup-close').click(function() {
+        $('.popup-fade').css('display', 'none');
+        return false;
     });
 
-    function IsEmail(email) {
-        var regex = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-        if (!regex.test(email)) {
-            return false;
-        } else {
-            return true;
+    $('.popup-fade').click(function(e) {
+        if ($(e.target).closest('.popup').length == 0) {
+            $(this).css('display', 'none');					
         }
+    });
+}
+</script>
+{/literal}
+
+{if !$DEV}
+{literal}
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-213189-he686';</script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        setTimeout(() => {
+            $('.paginate_button.previous').text('Следующая');
+            $('.paginate_button.next').text('Предыдущая');
+        },6000);
+
+        // $('.paginate_button').click(function() {
+        //     if ($(this).hasClass('previous')) {
+        //         setTimeout(function() {
+        //             $(this).text('Следующая');
+        //         },10);
+        //     } else if($(this).hasClass('next')) {
+        //         setTimeout(function() {
+        //             $(this).text('Предыдущая');
+        //         },10);
+        //     }
+        // });
+
+        $('.head__menu').click(function() {
+            let $sibl = $(this).next();
+            let $siblHead = $(this).children().text();
+            if(!$sibl.hasClass( 'content__menu' )) return;
+
+            $sibl.slideToggle('fast');
+        });
+    });
+
+    function myFunction() {
+        document.getElementById("myDropdown").classList.toggle("show");
     }
 
-    $('.btnPrevious').click(function () {
-        $("p.text-danger").remove();
-        $('.nav-tabs > .active').prev('li').find('a').trigger('click');
-    });
-    $('[data-toggle="popover"]').popover();
-
-    $(".fileinput").fileinput({
-        browseIcon: "",
-        browseClass: "button",
-        browseLabel: "Browse",
-        showPreview: false,
-        showRemove: false,
-        showUpload: false
-    });
-
-    /*$('.datepicker').datepicker({
-        autoclose: true,
-        format: 'yyyy-mm-dd'
-    });*/
-
-
-</script>
-
-<script src="https://www.bgst.edu.sg/js/jquery.masknumber.js"></script>
-
-    <script type="text/javascript">
-    /*NUMBER FORMATTING*/
-        $(document).ready(function () {
-
-            $('[name=donation_amount]').maskNumber();
-           // $('[name=currency-data-attributes]').maskNumber();
-           // $('[name=currency-configuration]').maskNumber({decimal: '_', thousands: '*'});
-           // $('[name=integer-default]').maskNumber({integer: true});
-           // $('[name=integer-data-attribute]').maskNumber({integer: true});
-           // $('[name=integer-configuration]').maskNumber({integer: true, thousands: '_'});
-        });
-    </script>
-<script type="text/javascript">
-    var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
-    $(document).ready(function () {
-        $('.click-highlight').click(function () {
-            var menuId = $(this).data('menu-id');
-            $.ajax({
-                type: 'POST',
-                url: "https://www.bgst.edu.sg/menu-highlight",
-                data: {menu_id: menuId, _token: CSRF_TOKEN},
-                cache: false,
-                async: false,
-                success: function (data) {
-
+    window.onclick = function (event) {
+        if (!event.target.matches('.dropbtn') && !$(event.target).closest('.dropdown').length) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
                 }
-            });
+            }
+        }
+    }
+</script>
+<script>
+  var titleNewsBreadCrumbs = $(".MainContent").children("h1").first().text();
+  $(".titleNewsBreadCrumbs").text(titleNewsBreadCrumbs);
+</script>
+
+
+
+<script>
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://bitrix.infoflot.com/upload/crm/site_button/loader_6_5czrc1.js');
+</script>
+
+<!-- Отслеживание метрикой, написавших в чат B24 -->
+<script type="text/javascript"> 
+    window.addEventListener('onBitrixLiveChat', function(event)
+    {
+        var widget = event.detail.widget;
+    
+        // Обработка событий 
+        widget.subscribe({
+            type: BX.LiveChatWidget.SubscriptionType.userMessage,
+            callback: function(data) {
+          
+            // любая команда
+          
+            if (typeof(dataLayer) == 'undefined')
+                {
+                  dataLayer = [];
+                }
+                dataLayer.push({
+                    "ecommerce": {
+                        "purchase": {
+                            "actionField": {
+                                "id" : "chat_send",
+                                "goal_id" : "230287905"
+                            },
+                            "products": [ {} ]
+                        }
+                    }
+                });
+            }
         });
     });
 </script>
-</body>
+<script>
+    function papap() {
+        if(document.getElementById('papapEmail').value == '') {
+            alert('Вы не ввели Email для рассылки. Введите все данные');
+        }
+        else if(document.getElementById('papapName').value == '') {
+            alert('Вы не ввели Имя для рассылки. Введите все данные');
+        }
+        else {
+            document.getElementById('papap').style.display='block';
+        }
+    }
+    
+</script>
+<!-- Отслеживание метрикой, написавших в чат B24 -->
+<!-- BEGIN BITRIX24 WIDGET INTEGRATION WITH ROISTAT -->
+<script>
+(function(w) {
+    function trim(str) {
+        return str.replace(/^\s+|\s+$/g,"");
+    }
 
+    function getContactName(data) {
+        var name = data.LEAD_NAME || data.CONTACT_NAME || null;
+        var lastName = data.LEAD_LAST_NAME || data.CONTACT_LAST_NAME || null;
+        var secondName = data.LEAD_SECOND_NAME || data.CONTACT_SECOND_NAME || null;
+
+        var fullname = '';
+        if (lastName !== null) {
+            fullname = lastName;
+        }
+        if (name !== null) {
+            fullname = fullname + ' ' + name;
+        }
+        if (secondName !== null) {
+            fullname = fullname + ' ' + secondName;
+        }
+        return trim(fullname);
+    }
+
+    function getContactPhone(data) {
+        return data.LEAD_PHONE || data.CONTACT_PHONE || null;
+    }
+
+    function getContactEmail(data) {
+        return data.LEAD_EMAIL || data.CONTACT_EMAIL || null;
+    }
+
+    function getContactComment(data) {
+        return data.LEAD_COMMENTS || data.CONTACT_COMMENTS || null;
+    }
+
+    function sendLead(data) {
+        var name = getContactName(data);
+        var phone = getContactPhone(data);
+        var email = getContactEmail(data);
+        var comment = getContactComment(data);
+        if (phone === null && email === null) {
+            return;
+        }
+        roistatGoal.reach({name: name, phone: phone, email: email, leadName: 'Bitrix24 chat lead', is_skip_sending: 1});
+        roistat.event.send('add_chat', {'url': document.location.href});
+    }
+
+    // forms
+    w.addEventListener('message', function (event) {
+        var data = event.data;
+        try {
+            var decodedData = JSON.parse(data);
+        } catch(e) {
+            var decodedData = {};
+        }
+        var eventName = decodedData.eventName;
+        if (eventName !== 'send') {
+            return;
+        }
+
+        var values = decodedData.value;
+        if (typeof values !== 'object' || values.length === 0) {
+            return;
+        }
+
+        var lead = values[0];
+        sendLead(lead);
+    });
+
+    // new forms
+    w.addEventListener('b24:form:submit', function (event) {
+        var form = event.detail.object;
+        var data = {};
+        form.pager.pages[0].fields.forEach(function (field) {
+            data[field.name] = field.items[0].value;
+        });
+        sendLead(data);
+    });
+
+    // chat
+    w.addEventListener('onBitrixLiveChat', function(event) {
+        var widget = event.detail.widget;
+        widget.subscribe({
+            type: BX.LiveChatWidget.SubscriptionType.every,
+            callback: function(data) {
+                type: BX.LiveChatWidget.SubscriptionType.every,
+                callback: function(data) {
+
+                    if(data.type === 'sessionStart'){
+                        roistat.event.send('add_session', {'url': document.location.href});
+                    }
+
+                    if(data.type === 'userForm'){
+                        var fields = data.fields || {};
+                        var name = fields.name || null;
+                        var phone = fields.phone || null;
+                        var email = fields.email || null;
+                        roistatGoal.reach({name: name, phone: phone, email: email, leadName: 'Bitrix24 chat lead', is_skip_});
+                    }
+                }
+            }
+        });
+
+    });
+
+    $("body").on("click", ".b24-widget-button-openline_livechat", function () {
+        roistat.event.send('add_chat_click', {'url': document.location.href});
+    });
+})(window);
+</script>
+<!-- END BITRIX24 WIDGET INTEGRATION WITH ROISTAT -->
+<!-- BEGIN WAZZUP INTEGRATION WITH ROISTAT -->
+<script>
+    (function () {
+        function ChangeLinkWA() {
+            this.text = "Здравствуйте! Номер моей заявки: {wz_metric}";
+            this.cookieSource = "roistat_visit";
+        }
+
+        ChangeLinkWA.prototype.editLink = function (url, id) {
+            if (
+                decodeURIComponent(url.split("text=")[1]) ===
+                this.text.replace(/{wz_metric}/gi, id)
+            )
+                return;
+            var regexNumberPhone = /\d+/;
+            if (!regexNumberPhone.test(url)) return;
+            var phone = url.match(regexNumberPhone)[0];
+            var host = url.split(phone)[0];
+            var newUrl =
+                host === "https://wa.me/"
+                    ? host.toString()+phone.toString()+"?text="+(this.text.replace(/{wz_metric}/gi, id))
+                    : host.toString()+phone.toString()+"&text="+(this.text.replace(/{wz_metric}/gi, id));
+            return newUrl;
+        };
+
+        ChangeLinkWA.prototype.getCookie = function (name) {
+            var cookie = document.cookie;
+            var matches = cookie.match(
+                new RegExp(
+                    "(?:^|; )"+(name.replace(/([.$?*|{}()[]\/+^])/g, "\\$1"))+"=([^;]*)"
+                )
+            );
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        };
+
+        ChangeLinkWA.prototype.censusLinks = function () {
+            var links = document.querySelectorAll(
+                '[href*="//wa.me"], [href*="//api.whatsapp.com/send"], [href*="//web.whatsapp.com/send"], [href^="whatsapp://send"]'
+            );
+            var id = this.getCookie(this.cookieSource);
+            var that = this;
+            links.forEach(function (link) {
+                var newLink = that.editLink(link.href, id);
+                if (newLink) link.href = newLink;
+            });
+        };
+
+        window.addEventListener("DOMContentLoaded", function () {
+            if (!(window.__wz_scripts && window.__wz_scripts.scriptsChangeLinkWA)) {
+                if (!window.__wz_scripts) window.__wz_scripts = {};
+                window.__wz_scripts.scriptsChangeLinkWA = new ChangeLinkWA();
+                var interval = setInterval(function () {
+                    var id = window.__wz_scripts.scriptsChangeLinkWA.getCookie(
+                        window.__wz_scripts.scriptsChangeLinkWA.cookieSource
+                    );
+                    if (id) {
+                        clearInterval(interval);
+                        window.__wz_scripts.scriptsChangeLinkWA.censusLinks();
+                    }
+                }, 200);
+            }
+        });
+    })();
+</script>
+<script>
+window.onload = function () {
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
+        
+        let container_o = document.getElementsByClassName('b24-widget-button-inner-container');
+        container_o[0].onclick = function() {
+            if(document.getElementById('callback_phone')){
+                
+            }else{
+                let widget_button_o = document.getElementsByClassName('b24-widget-button-social');
+                let a_o = document.createElement('a');
+
+                a_o.setAttribute('id', 'callback_phone'); 
+                a_o.setAttribute('class', 'b24-widget-button-social-item b24-widget-button-callback'); 
+                a_o.setAttribute('href', 'tel:+78007074418'); 
+                a_o.setAttribute('style', 'background-color: rgb(255, 102, 0);'); 	
+
+                widget_button_o[0].prepend(a_o);
+            }
+            //return false;
+        }    
+    }
+}
+</script>
+<!-- END WAZZUP INTEGRATION WITH ROISTAT -->
+
+<script>
+    (function () {
+        let _int = setInterval(function () {
+            try {
+                let whatsAppBtn = document.getElementsByClassName('ui-icon-service-wz_whatsapp_c20db2a6970cdb3986729fa391fda6f64')
+                whatsAppBtn[0].addEventListener('click', function () {
+                    roistat.event.send('whatsapp')
+                    console.log('roistat', 'event sended...')
+                })
+                clearInterval(_int);
+            } catch (Err) {}
+        }, 500)
+
+        let _int2 = setInterval(function () {
+            try {
+                let whatsAppBtn = document.getElementsByClassName('whatsapp')
+                whatsAppBtn[0].addEventListener('click', function () {
+                    roistat.event.send('whatsapp')
+                    console.log('roistat', 'event sended...')
+                })
+                clearInterval(_int2);
+            } catch (Err) {}
+        }, 500)
+
+        let _int3 = setInterval(function () {
+            try {
+                let whatsAppBtn = document.getElementsByClassName('b24-widget-button-openline_livechat')
+                whatsAppBtn[0].addEventListener('click', function () {
+                    roistat.event.send('add_chat_click')
+                    console.log('roistat', 'event sended...')
+                })
+                clearInterval(_int3);
+            } catch (Err) {}
+        }, 500)
+
+    })();
+</script>
+{/literal}
+{/if}
+<!--{if $smarty.server.REQUEST_URI == '/'}-->
+<!--    <div class="marquiz-pops marquiz-pops_position_top-left marquiz-pops_rounded marquiz-pops_shadowed marquiz-pops_blicked marquiz-pops_position" >-->
+<!--        <a class="marquiz-pops__body" href="#popup:marquiz_5dd6a4bae3a33c0044ff4f34" data-marquiz-pop-text-color="#ffffff" data-marquiz-pop-background-color="#fb3f17" data-marquiz-pop-svg-color="#fff" data-marquiz-pop-close-color="#fff" data-marquiz-pop-color-pulse="rgba(251, 63, 23, 0.4)" data-marquiz-pop-color-pulse-alpha="rgba(251, 63, 23, 0)" data-marquiz-pop-bonuses="1" data-marquiz-pop-delay="10s" data-marquiz-pop="true">-->
+<!--            <span class="marquiz-pops__icon"></span>-->
+<!--            <span class="marquiz-pops__content">-->
+<!--                <span class="marquiz-pops__content-title">Пройти тест</span>-->
+<!--                <span class="marquiz-pops__content-text">&laquo;Узнайте, какой круиз подойдет Вам?&raquo;</span>-->
+<!--            </span>-->
+<!--            <span class="marquiz-pops__bonus">Вам доступен бонус</span>-->
+<!--        </a>-->
+<!--    </div>-->
+<!--{/if}-->
+</body>
 </html>
