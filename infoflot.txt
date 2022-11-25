@@ -11,9 +11,7 @@
 <meta name="google-site-verification" content="M3o3enAXIY2MbSJ2U-FvA6bULRxotcPOBAAkYqaIaMM" />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5384118276825947"
      crossorigin="anonymous"></script>
-<script type='text/javascript' src='//pl17990038.highperformancecpmgate.com/64/01/46/64014665e34a54b90f283a4c2bbe2ebc.js'></script>
-<script type='text/javascript' src='//pl17991402.highperformancecpmgate.com/83/aa/2e/83aa2e731089edc6b4e8d6e6eb671588.js'></script>
-    <meta name="yandex-verification" content="ecd031b0f1b0c831" />
+<meta name="yandex-verification" content="ecd031b0f1b0c831" />
     <meta name="google-site-verification" content="IiixyNg0tt4NS1NQ5nvdw4fgCK5XE6c-Qpuq6LyfJ-w" />
 <link rel="alternate" type="application/rss+xml" title="Новости в формате RSS" href="https://www.infoflot.com/news/rss/" />
 <link rel="preconnect" href="https://fonts.gstatic.com">
