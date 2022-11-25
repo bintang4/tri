@@ -1,0 +1,3213 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+<title>Круизы по России и миру I «‎Инфофлот»</title>
+
+<meta property="og:description" content="Водные круизы по России и миру с компанией «‎Инфофлот». Большая база речных и морских круизов. Смотрите расписание, цены, фото теплоходов на нашем сайте. Купите путешествие мечты онлайн или звоните 8 (800) 707-44-18." />
+<meta name="description" content="Водные круизы по России и миру с компанией «‎Инфофлот». Большая база речных и морских круизов. Смотрите расписание, цены, фото теплоходов на нашем сайте. Купите путешествие мечты онлайн или звоните 8 (800) 707-44-18." />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- <meta name='yandex-verification' content='56a8525867332385' /> -->
+<meta name='yandex-verification' content='795db3193ee52f62' />
+<meta name="google-site-verification" content="M3o3enAXIY2MbSJ2U-FvA6bULRxotcPOBAAkYqaIaMM" />
+
+    <meta name="yandex-verification" content="ecd031b0f1b0c831" />
+    <meta name="google-site-verification" content="IiixyNg0tt4NS1NQ5nvdw4fgCK5XE6c-Qpuq6LyfJ-w" />
+<link rel="alternate" type="application/rss+xml" title="Новости в формате RSS" href="https://www.infoflot.com/news/rss/" />
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+	
+	<!--
+	  Social plugins
+	//-->
+	<!-- Facebook //-->
+	<meta property="og:image" content="https://www.infoflot.com/i/logo.png" />
+	<meta property="fb:admins" content="100000983101953" />
+	<meta name="google-site-verification" content="BNTEs93HiAmDbrJc68VJKvQA42aeWI6TuRt2GPWN-UU" />
+
+	<!-- Vkontakte //-->
+	<!-- Put this script tag to the <head> of your page -->
+	<script type="text/javascript" src="//vk.com/js/api/openapi.js"></script>
+	<script type="text/javascript">
+	VK.init({apiId: 2650194, onlyWidgets: true});
+	</script>
+		<script>
+			(function(w, d, u, i, o, s, p) {
+				if (d.getElementById(i)) { return; } w['MangoObject'] = o;
+				w[o] = w[o] || function() { (w[o].q = w[o].q || []).push(arguments) }; w[o].u = u; w[o].t = 1 * new Date();
+				s = d.createElement('script'); s.async = 1; s.id = i; s.src = u;
+				p = d.getElementsByTagName('script')[0]; p.parentNode.insertBefore(s, p);
+			}(window, document, '//widgets.mango-office.ru/widgets/mango.js', 'mango-js', 'mgo'));
+			mgo({calltracking: {id: 26075, elements: [{"numberText":"78007074418"}]}});
+		</script>
+	
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="/main.css?_v=99" />
+<link rel="stylesheet" type="text/css" href="/tabs.css?_v=2" />
+<link rel="stylesheet" type="text/css" href="/js/highslide/highslide.css" />
+
+<!-- <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> -->
+<script type="text/javascript" src="//static.infoflot.com/Scripts/jQuery/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/knockout/3.5.1/knockout-latest.min.js"></script>
+<script type="text/javascript" src="//booking.infoflot.com/Static/Scripts/core.js"></script>
+
+<script type="text/javascript" src="/js/highslide/highslide-full.min.js?_v=10"></script>
+<script type="text/javascript" src="/js/tooltips.js?_v=11"></script>
+<script type="text/javascript" src="/js/spell.js?_v=10"></script>
+<script type="text/javascript" src="/js/bpos.js?_v=10"></script>
+<!-- <script type="text/javascript" src="/js/snowstorm.js?_v=10"></script> -->
+<script type="text/javascript" src="/js/jquery.simslider.js?_v=11"></script>
+
+<script type="text/javascript" src="/slide.js?_v=10"></script>
+
+<script type="text/javascript" src="/jquery.cookie.js?_v=10"></script>
+<script type="text/javascript" src="/tabs.js?_v=10"></script>
+<script type="text/javascript" src="/jquery.tablesorter.js?_v=10"></script>
+<script type="text/javascript" src="/main.js?v_=26"></script>
+<script type="text/javascript" src="/js/flipclock/flipclock.min.js"></script>
+    <script src="/static/resources/General.js"></script>
+<script type="text/javascript" src="/js/api_tables/APItable.js?_v=40"></script>
+<script type="text/javascript" src="/js/contructBtnsList.js"></script>
+<script type="text/javascript" src="/js/api_tables/moment.js"></script>
+<script type="text/javascript" src="/js/api_tables/locale/ru.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.1/jquery.qtip.min.js" integrity="sha512-SkBDk4OBvJjSfXPzSP2f4hetUO6cmEcY/J7hjQWlWVZDEsHfCj3Mo20wi6zO620gQ/yjaAfJTtytm6GnLDHghQ==" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/qtip2/2.0.1/jquery.qtip.css" integrity="sha512-2ONvwLbzPkSqm0T55vYtTXErRwuHbECTuiSqG+V4cZRmkk0CTbL0phI/P2CZ0tQDB9Il8TcrrrfgfUnab5PmwA==" crossorigin="anonymous" />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-flash-1.5.1/b-html5-1.5.1/b-print-1.5.1/datatables.min.css"/>
+<link rel="stylesheet" href="/styles/flipclock.css"/>
+<link rel="stylesheet" href="/static/Styles/Bootstrap/tooltip.css"/>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-flash-1.5.1/b-html5-1.5.1/b-print-1.5.1/datatables.min.js"></script>
+
+
+
+
+
+
+<style>
+    new::after{
+        content: '';
+        display: block;
+        position: absolute;
+        background: url('https://booking.infoflot.com/i/new.png');
+        width: 28px;
+        height: 12px;
+        top: 0;
+        bottom: 0;
+        margin: auto 0;
+        right: 8px;
+    }
+.dropdown-menu-head {
+    display: none;
+    width: 127px;
+    position: absolute;
+    background: #fff;
+    border: 3px solid #3399cc;
+    list-style-type: none;
+    left: 103px;
+    top: -35px;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+}
+    .dropdown-menu-head > li > a {
+        display: block;
+        color: #000!important;
+        padding: 5px;
+        text-decoration: underline;
+    }
+
+    .dropdown-menu-head > li > a:hover {
+        background: #ff6600;
+        color: white!important;
+        text-decoration: underline;
+    }
+    /*
+    .top_static_snow {
+        position: absolute;
+        background-image: url(/i/static_snow.png);
+        width: 100%;
+        height: 38px;
+        margin-top: -2px;
+	z-index: -1;
+    }
+    .girlyands_bottom_static {
+        background-image: url(/i/girlyands.png);
+        width: 100%;
+        height: 50px;
+    }*/
+
+    #papap {  
+        position: fixed;
+        top: 40%;  
+        left: 40%;  
+        margin-right: -50%;  
+        transform: translate(-50%, -50%);  
+        z-index: 1000000 !important;
+        display: none;
+    }
+
+    .papap_text {
+        position: absolute;
+        top: 32%; 
+        padding: 0px 20px 20px 20px;
+        font-size: 20px;
+        text-align: center;
+        color: rgb(56, 143, 184);
+    }
+
+    .papap_text a {
+        width: 80px;
+        height: 40px;
+        background-color: rgb(56, 143, 184);
+        border-radius: 5px;
+        color:rgb(255, 255, 255);
+        font-size: 20px;
+        padding: 10px;
+    }
+    
+    .papapInfoflotLogo {
+        display: block;
+    }
+
+    .papapInfoflotLogo img {
+        width: 200px;
+        position: relative;
+        top: 20%;  
+        left: 50%;  
+        margin-right: -50%;  
+        transform: translate(-50%, -50%);
+    }
+
+    .popup-fade {
+	display: none;
+    }
+    .popup-fade:before {
+        content: '';
+        background: #000;
+        position: fixed; 
+        left: 0;
+        top: 0;
+        width: 100%; 
+        height: 100%;
+        opacity: 0.7;
+        z-index: 9999;
+    }
+    .popup {
+        outline: 1px solid black;
+        position: fixed;
+        top: 50%;  
+        left: 50%;
+        background: silver;
+        margin-right: -50%;  
+        transform: translate(-50%, -50%);
+        padding: 20px;
+        width: 60%;
+        background: #fff;
+        border: 1px solid orange;
+        border-radius: 4px; 
+        z-index: 99999;
+        opacity: 1;	
+    }
+    .popup img {
+        width: 100%;
+        height: auto;
+    }
+    .popup-close {
+        position: absolute;
+        right: 3%;
+        top: 4%;
+        width: 20px;
+        height: 20px;
+        border: 2px solid dimgray;
+        text-align: center;
+        font-size: 24px;
+        background-color: coral;
+        border-radius: 5px;
+        background: linear-gradient(to top, lightsalmon, salmon);    
+        box-shadow: 2px 4px 10px 1px rgba(0,0,0,0.5);
+        cursor: pointer;    
+        line-height: 18px;
+        text-decoration: none !important;
+    }
+
+</style>
+<script>
+	// возвращает cookie с именем name, если есть, если нет, то undefined
+	function getCookie(name) {
+	  var matches = document.cookie.match(new RegExp(
+		"(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+	  ));
+	  return matches ? decodeURIComponent(matches[1]) : undefined;
+	}
+$(function() {
+    /**
+    * Main menu dropdown menus
+    */
+    var
+        $dropdownLinks = $('.dropdown-head');
+    $dropdownLinks.on('click', function(event) {
+        // Toggle menu
+        $(this).next('.dropdown-menu-head').toggle();
+
+        // Prevent default action
+        return false;
+    });
+    $(document).on('click', function() {
+        $dropdownLinks.next('.dropdown-menu-head').hide();
+    });
+});
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MPGCSRR');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google reCaptcha -->
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<!--    -->
+<!--        -->
+<!--            &lt;!&ndash; Marquiz script start &ndash;&gt;-->
+<!--            <script src="//script.marquiz.ru/v1.js" type="application/javascript"></script>-->
+<!--            <script>-->
+<!--                document.addEventListener("DOMContentLoaded", function() {-->
+<!--                Marquiz.init({-->
+    <!--                id: '5dd6a4bae3a33c0044ff4f34',-->
+    <!--                autoOpen: false,-->
+    <!--                autoOpenFreq: 'once',-->
+    <!--                openOnExit: false-->
+    <!--                });-->
+    <!--                });-->
+    <!--            </script>-->
+    <!--            &lt;!&ndash; Marquiz script end &ndash;&gt;-->
+    <!--        -->
+    <!--    -->
+
+
+    
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function (m, e, t, r, i, k, a) {
+            m[i] = m[i] || function () {
+                (m[i].a = m[i].a || []).push(arguments)
+            };
+            m[i].l = 1 * new Date();
+            k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+        })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(82951024, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true,
+            ecommerce: "dataLayer"
+        });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/82951024" style="position:absolute; left:-9999px;" alt=""/></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+    <!-- Пиксель ВК -->
+    <script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function(){VK.Retargeting.Init("VK-RTRG-1444263-917SF"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1444263-917SF" style="position:fixed; left:-999px;" alt=""/></noscript>
+    <!-- /Пиксель ВК -->
+    
+</head>
+<body >
+    <div id="papap">
+        <div class="bx-livechat-wrapper bx-livechat-show bx-livechat-logo-ru bx-livechat-offline-state bx-livechat-custom-scroll" style="margin: auto auto; height: 290px; width: 435px; user-select: auto; z-index: 1000000 !important;">
+            <div class="bx-livechat-box">
+                <div class="bx-livechat-widget-resize-handle"></div> 
+                <div class="bx-livechat-head-wrap">
+                    <div class="bx-livechat-head" style="background-color: rgb(255, 255, 255) !important;">
+                        <div class="bx-livechat-title">Круизный центр «Инфофлот»</div> 
+                        <div onclick="document.getElementById('papap').style.display='none'; document.getElementById('papapSubmit').submit();" class="bx-livechat-control-box"><!---->
+                            <button  style="color: rgb(255, 102, 0) !important; font-size: 40px; margin-right: 7px;" title="Закрыть виджет" class="bx-livechat-control-btn bx-livechat-control-btn-close">&#215;</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="papapInfoflotLogo">
+                    <img src="https://www.infoflot.com/imgadmn/Infoflot_logo_blue_RGB.png">
+                </div>
+                <div class="papap_text">
+                    <p>
+                        Еще больше полезной и актуальной информации о круизах Вы можете получать в нашем телеграм-канале
+                        <br><br>
+                        <a href="https://t.me/infoflotinfo" target="_blank"><i class="fab fa-telegram-plane"></i> Подписаться</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--AndreyS: окно для вывода фото с подписью -->
+    <div class="popup-fade">
+        <div id="popup" class="popup">
+            <a class="popup-close" href="#">&#215;</a>
+            <img id="popupSrc" src="">
+            <p id="popupText"></p>
+        </div>		
+    </div>
+<div class="erroralert" id="erroralert"><div class="erroralert_close">x</div><div class="erroralert_content"></div></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPGCSRR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<div id="container"></div>
+
+
+
+
+
+<table bgcolor="#FFFFFF" width="1005" align='center' id="main" border=0 cellpadding=0 cellspacing=0 style="height: 145px; !important;">
+    <tbody class="toptbody">
+        <tr>
+            <td style="padding: 0px !important;">
+                <iframe scrolling="no" frameborder="0" src="https://booking.infoflot.com/External/Topbar" height="32" width="100%"></iframe>
+            </td>
+        </tr>
+        <tr>
+            <td id="top" style="position: relative;">
+                <!-- <div class="top_static_snow"></div> -->
+                <!-- <div class='callback'><a href="/info/callback/" target='_blank'>Оставьте заявку</a><br>и мы сами позвоним Вам</div> -->
+                <table width="997">
+                    <tr>
+                        <td nowrap="nowrap" id="td1">
+                            <a href="/">
+                                <img class='logo' style="max-width: 100%;" src="/imgadmn/Infoflot_logo_blue_RGB.png" alt="Инфофлот - речные круизы на теплоходе" title="Инфофлот - речные круизы на теплоходе">
+                                <!--img class='logo' src="/i/logo320.png?_v=2" alt="Инфофлот - речные круизы на теплоходе" title="Инфофлот - речные круизы на теплоходе"><br />
+                                <img src="/i/allRussia.png" alt="Все круизы России"-->
+                            </a>
+                        </td>
+                        <noindex>
+							<td valign="top" nowrap="nowrap" style="padding-top: 10px" id="td05">
+
+							</td>
+						</noindex>
+                        <!--<td rowspan="2" nowrap="nowrap" id="td15" width="80">
+                            <img src="/i/since03.png" alt="Делаем людей счастливыми с 2003 года!" />
+                            <a target="_blank" href="https://www.infoflot.com/news/new3244/" class="travelru" style="margin: -20px 0 0;"></a>
+
+                        </td>//-->
+                        <td rowspan="2" nowrap="nowrap" id="td2">
+                            <div class="row-fluid">
+        <div class="span6" style="display:inline-block;">
+        <ul>
+        
+        <li style="color:#f60">ДЛЯ ТУРИСТОВ: <a rel="nofollow" onclick="ym(82951024,'reachGoal','phone_was_touched'); return true;" class="bigtextHeader" href="tel:88007074418" rel="nofollow">8 (800) 707-44-18</a></li>
+        </ul>
+        </div>
+        <div class="span6" style="display:inline-block;">
+        <ul>
+        <li style="color:#f60">ДЛЯ ТУРАГЕНТСТВ: <a rel="nofollow" onclick="ym(82951024,'reachGoal','phone_was_touched'); return true;" class="bigtextHeader" href="tel:88007075035" rel="nofollow">8 (800) 707-50-35</a></li>
+        </ul>
+        </div>
+        </div>
+        <div class="border">&nbsp;</div>
+        <div class="row-fluid header-buttons">
+        <div class="span12 agancy">
+        <!--<div  style="color:#f60; display:inline-block; text-transform: uppercase;font-weight: bold;">Для турагентств:</div>-->
+        <!--<div class="comm"  style="display:inline-block; text-transform: uppercase;font-weight: bold;"> <a rel="nofollow" href="tel:+8 (800) 777-47-83" rel="nofollow">8 (800) 777-47-83</a></div>-->
+           <div style="position: relative;left: -50px;">
+                <a style="font-size:13px; color:#003366; text-decoration:underline; cursor: pointer; font-weight:bold;text-transform: uppercase;" href="https://www.infoflot.com/information/offices/"> Адреса офисов
+                </a>
+           </div>
+            <div style="position: relative;left: 63px;">
+                <a style="font-size:13px; color:#003366; text-decoration:underline; cursor: pointer; font-weight:bold;text-transform: uppercase;" href="https://booking.infoflot.com/workingWithAgencies"> Туристическим агентствам
+                </a>
+            </div>
+            <div class="dropdown" style="position: relative;left: -23px;float: left;top: 6px;">
+                <button class="dropbtn" onclick="myFunction()" style="font-size:13px; color:#003366; text-decoration:underline; cursor: pointer; font-weight:bold;text-transform: uppercase;">Получать спецпредложения</button>
+                <div id="myDropdown" class="lform dropdown-content">
+                                            <div class="h2">Подписка на новости и спецпредложения</div>
+                                            <form action="/" method="post" name="subscrForm">
+                                                <input type="Hidden" name="act" value="subscribe">
+                                                <br/>
+                                                E-mail:
+                                                <br/>
+                                                <input type="email" name="email" class="inputtext" required>
+                                                <br/>
+                                                и/или<br/>
+                                                Телефон<small> (SMS рассылка)</small>
+                                                <br/>
+                                                <input type="tel" name="phone" class="inputtext">
+                                                 <br/>
+                                                <div style="margin-bottom: 10px; text-align: left;float: left;width: 100%;">
+                                                    <input type="radio" name="subscr_type" value="fiz" checked>
+                                                    Физическое лицо<br>
+                                                    <input type="radio" name="subscr_type" value="agent">
+                                                    Агент
+                                                </div>
+                                                <br/>
+                                                <div style="width: 100%; float: left">
+                                                    <div class="otp" style="width: 50%">
+                                                        <input type="hidden" value="" name="otpis">
+                                                        <a rel="nofollow" href="#"  style="color:#fff;" onClick="document.subscrForm.otpis.value='yes'; document.subscrForm.submit(); return false;">Отписаться</a>
+                                                    </div>
+                                                    <div class="ar" style="width: 50%">
+                                                        <input type="image" src="/i/ok.gif">
+                                                    </div>
+                                                </div>
+                                            </form>
+                                        </div>
+            </div>
+        </div>
+        <!--<a target="_blank" style="display: inline-block;" href="https://www.infoflot.com/info/callback/">
+            <div style="display:inline-block;" class="callback-head-btn">Обратный звонок</div>
+        </a>-->
+        </div>
+                        </td>
+                        <noindex>
+						<td rowspan="2" align="right" width="92" valign="top">
+                            <a id="en" title="ENGLISH" href="http://russian-river-cruises.com" rel=”nofollow”><img height="15" align="absmiddle" src="/i/gb_big.png"></a>
+                            <!-- <a id="de" title="DEUTSCH" href="http://de.russian-river-cruises.com" rel=”nofollow”><img height="15" align="absmiddle" src="/i/de.png"></a> -->
+                        </td>
+						</noindex>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="padding-left: 12px;">
+                            <span class="links"><a href="https://www.infoflot.com" target='_blank'>Речные круизы</a></span>
+                            <span class="links"><a href="http://sea-cruise.ru" target='_blank'>Морские круизы</a></span>
+							<!-- <span class="links"><a href="https://www.infoflot.com/news/new6614/ " target='_blank'>Реки Мира</a></span> -->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td id="maintd">
+                <table class="main" style="position: relative">
+                    <tr>
+                        <td id="left">
+                                                                                    <table cellspacing=0 cellpadding=0 width="100%" style="height: 100%;">
+                                <tr>
+                                    <td valign="top">
+                                        <dl>
+                                            <dd>
+
+                                                                                                                                                                                                    <div class="menu_orange" style='margin-top:8px;'><img src="/i/find.gif" alt="Поиск" title="Поиск">&nbsp;&nbsp;&nbsp;<a id='neon' href="#booking_search" title="Поиск круиза"><b>Поиск круиза</b></a></div>
+                                                                                            										
+		
+																
+								
+									<div class="menu_orange2">
+						<a target="_blank" class="" href="https://www.infoflot.com/news/new4052/"> 
+						Теплоходы круизной<br>компании «Созвездие»
+						</a> 
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Огни большого города" target="_blank" class="" href="https://booking.infoflot.com/ogni_bolshogo_goroda">Огни большого города <new></a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Маленький принц" target="_blank" class="" href="https://booking.infoflot.com/little_prince">Маленький принц</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Лунная соната" target="_blank" class="" href="https://booking.infoflot.com/lunnaya_sonata">Лунная соната</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Лебединое озеро" target="_blank" class="" href="https://booking.infoflot.com/lebedinoye_ozero">Лебединое озеро</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Симфония севера (Дмитрий Фурманов)" target="_blank" class="" href="https://booking.infoflot.com/simfonija_severa">Симфония севера (Дмитрий Фурманов)</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Н.А. Некрасов" target="_blank" class="" href="https://booking.infoflot.com/nekrasov">Н.А. Некрасов</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Александр Бенуа" target="_blank" class="" href="https://booking.infoflot.com/benua">Александр Бенуа</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Северная сказка" target="_blank" class="" href="https://booking.infoflot.com/severnaya_skazka">Северная сказка</a>
+					</div>
+							
+												
+								
+									<div class="menu_blue">«Созвездие» – экспедиции</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Байкал" target="_blank" class="xxx" href="https://www.infoflot.com/news/new8610/">Байкал</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Обь и Иртыш" target="_blank" class="xxx" href="https://www.infoflot.com/news/new5434/">Обь и Иртыш</a>
+					</div>
+							
+												
+								
+									<div class="menu_blue">«Инфофлот» - рекомендует</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Золотая коллекция круизов" target="_blank" class="xxx" href="//www.infoflot.com/news/new8626/">Золотая коллекция круизов</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Соловецкие острова" target="_blank" class="xxx" href="//www.infoflot.com/news/new7338/">Соловецкие острова</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Между Москвой и Санкт-Петербургом" target="_blank" class="xxx" href="https://www.infoflot.com/news/new8680/">Между Москвой и Санкт-Петербургом</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Александра <br>(Т.Г. Шевченко) <new>" target="_blank" class="xxx newShipLabel" href="//www.infoflot.com/news/new8548/">Александра <br>(Т.Г. Шевченко) <new></a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Генерал Лавриненков <new>" target="_blank" class="xxx newShipLabel" href="//www.infoflot.com/news/new8530/">Генерал Лавриненков <new></a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Игорь Стравинский <new>" target="_blank" class="xxx newShipLabel" href="//www.infoflot.com/news/new8530/">Игорь Стравинский <new></a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Мустай Карим" target="_blank" class="xxx" href="//www.infoflot.com/news/new8660/">Мустай Карим</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Сергей Дягилев <new>" target="_blank" class="xxx newShipLabel" href="//www.infoflot.com/news/new8568/">Сергей Дягилев <new></a>
+					</div>
+							
+												
+								
+								<div class="menu_orange">
+					<a target="_blank" class="" href="https://www.infoflot.com/news/new8364/">Круизы из Сочи</a>
+				</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Astoria Grande <new>" target="_blank" class="" href="https://booking.infoflot.com/astoriagrande/">Astoria Grande <new></a>
+					</div>
+							
+												
+								
+									<div class="menu_orange2">
+						 
+						Другие речные круизы<br>по России
+						 
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Александр Невский" target="_blank" class="" href="https://booking.infoflot.com/nevsky">Александр Невский</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Две столицы" target="_blank" class="" href="https://booking.infoflot.com/DveStolitsy">Две столицы</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Капитан Пушкарев" target="_blank" class="" href="https://booking.infoflot.com/pushkarev">Капитан Пушкарев</a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Космонавт Гагарин" target="_blank" class="" href="https://booking.infoflot.com/gagarin">Космонавт Гагарин</a>
+					</div>
+							
+																	
+								
+					<div class="menu_lightblue"><div class="arrowDown"></div><span>Все теплоходы: 74</span></div>
+					<div class="hiddenShips">
+													<div class="sl" style="position: relative;">
+								<a title="А. Матросов" target="_blank" class="" href="https://booking.infoflot.com/matrosov">А. Матросов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="А.И. Герцен" target="_blank" class="" href="https://booking.infoflot.com/gercen">А.И. Герцен</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александр Бенуа" target="_blank" class="" href="https://booking.infoflot.com/benua">Александр Бенуа</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александр Великий" target="_blank" class="" href="https://booking.infoflot.com/velikij">Александр Великий</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александр Невский" target="_blank" class="" href="https://booking.infoflot.com/nevsky">Александр Невский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александр Пушкин" target="_blank" class="" href="https://booking.infoflot.com/Pushkin">Александр Пушкин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александр Радищев" target="_blank" class="" href="https://booking.infoflot.com/radischev">Александр Радищев</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александр Суворов" target="_blank" class="" href="https://booking.infoflot.com/Suvorov">Александр Суворов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александр Фадеев" target="_blank" class="" href="https://booking.infoflot.com/fadeev">Александр Фадеев</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Александра (Т.Г. Шевченко)" target="_blank" class="" href="https://booking.infoflot.com/shevchenko">Александра (Т.Г. Шевченко)</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Алексей Толстой" target="_blank" class="" href="https://booking.infoflot.com/tolstoy">Алексей Толстой</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Антон Чехов" target="_blank" class="" href="https://booking.infoflot.com/chehov">Антон Чехов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Бирюса (СВП)" target="_blank" class="" href="https://booking.infoflot.com/birusa">Бирюса (СВП)</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Борис Полевой" target="_blank" class="newShipLabel" href="https://booking.infoflot.com/Boris_Polevoy">Борис Полевой</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Бородино" target="_blank" class="" href="https://booking.infoflot.com/borodino">Бородино</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="В.Чкалов" target="_blank" class="" href="https://booking.infoflot.com/vchkalov">В.Чкалов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Валерий Чкалов" target="_blank" class="" href="https://booking.infoflot.com/chkalov">Валерий Чкалов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Василий Чапаев" target="_blank" class="" href="https://booking.infoflot.com/VasilyChapaev">Василий Чапаев</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Виссарион Белинский" target="_blank" class="" href="https://booking.infoflot.com/belinsky">Виссарион Белинский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Владимир Маяковский" target="_blank" class="" href="https://booking.infoflot.com/mayakovsky">Владимир Маяковский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Волга Дрим" target="_blank" class="" href="https://booking.infoflot.com/VolgaDream">Волга Дрим</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Волга Стар" target="_blank" class="" href="https://booking.infoflot.com/volga_star">Волга Стар</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Генерал Лавриненков" target="_blank" class="" href="https://booking.infoflot.com/lavrinenkov">Генерал Лавриненков</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Георгий Жуков" target="_blank" class="" href="https://booking.infoflot.com/Zhukov">Георгий Жуков</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Георгий Чичерин" target="_blank" class="" href="https://booking.infoflot.com/Chicherin">Георгий Чичерин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Григорий Пирогов" target="_blank" class="" href="https://booking.infoflot.com/pirogov">Григорий Пирогов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Две столицы" target="_blank" class="" href="https://booking.infoflot.com/DveStolitsy">Две столицы</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Демьян Бедный" target="_blank" class="" href="https://booking.infoflot.com/Bedniy">Демьян Бедный</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Дмитрий Пожарский" target="_blank" class="" href="https://booking.infoflot.com/Pozharsky">Дмитрий Пожарский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Иван Бунин" target="_blank" class="" href="https://booking.infoflot.com/bunin">Иван Бунин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Игорь Стравинский" target="_blank" class="" href="https://booking.infoflot.com/igor_stravinskiy">Игорь Стравинский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Илья Муромец" target="_blank" class="" href="https://booking.infoflot.com/muromec">Илья Муромец</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Империя" target="_blank" class="" href="https://booking.infoflot.com/imperia">Империя</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Капитан Пушкарев" target="_blank" class="" href="https://booking.infoflot.com/pushkarev">Капитан Пушкарев</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Козьма Минин" target="_blank" class="" href="https://booking.infoflot.com/Minin">Козьма Минин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Константин Коротков" target="_blank" class="" href="https://booking.infoflot.com/Korotkov">Константин Коротков</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Константин Симонов" target="_blank" class="" href="https://booking.infoflot.com/Simonov">Константин Симонов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Константин Федин" target="_blank" class="" href="https://booking.infoflot.com/fedin">Константин Федин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Космонавт Гагарин" target="_blank" class="" href="https://booking.infoflot.com/gagarin">Космонавт Гагарин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Кронштадт" target="_blank" class="" href="https://booking.infoflot.com/Kronshtadt">Кронштадт</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Лебединое озеро" target="_blank" class="" href="https://booking.infoflot.com/lebedinoye_ozero">Лебединое озеро</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Лев Толстой" target="_blank" class="" href="https://booking.infoflot.com/LevTolstoy">Лев Толстой</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Ленин" target="_blank" class="" href="https://booking.infoflot.com/Lenin">Ленин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Леонид Соболев" target="_blank" class="" href="https://booking.infoflot.com/Sobolev">Леонид Соболев</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Лунная соната" target="_blank" class="" href="https://booking.infoflot.com/lunnaya_sonata">Лунная соната</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Максим Горький" target="_blank" class="" href="https://booking.infoflot.com/Gorky">Максим Горький</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Максим Литвинов" target="_blank" class="" href="https://booking.infoflot.com/litvinov">Максим Литвинов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Маленький принц" target="_blank" class="" href="https://booking.infoflot.com/little_prince">Маленький принц</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Михаил Кутузов" target="_blank" class="" href="https://booking.infoflot.com/kutuzov">Михаил Кутузов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Михаил Светлов" target="_blank" class="" href="https://booking.infoflot.com/svetlov">Михаил Светлов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Михаил Танич" target="_blank" class="" href="https://booking.infoflot.com/tanich">Михаил Танич</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Михаил Фрунзе" target="_blank" class="" href="https://booking.infoflot.com/Frunze">Михаил Фрунзе</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Мстислав Ростропович" target="_blank" class="" href="https://booking.infoflot.com/Rostropovich">Мстислав Ростропович</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Мустай Карим" target="_blank" class="" href="https://booking.infoflot.com/Karim">Мустай Карим</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Н.А. Некрасов" target="_blank" class="" href="https://booking.infoflot.com/nekrasov">Н.А. Некрасов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Н.В. Гоголь" target="_blank" class="" href="https://booking.infoflot.com/gogol">Н.В. Гоголь</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Огни большого города" target="_blank" class="" href="https://booking.infoflot.com/ogni_bolshogo_goroda">Огни большого города <new></a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Павел Бажов" target="_blank" class="" href="https://booking.infoflot.com/bajov">Павел Бажов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Президент" target="_blank" class="" href="https://booking.infoflot.com/prezident">Президент</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Принцесса Анабелла" target="_blank" class="" href="https://booking.infoflot.com/Anabella">Принцесса Анабелла</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Родная Русь" target="_blank" class="" href="https://booking.infoflot.com/RRus">Родная Русь</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Русь Великая" target="_blank" class="" href="https://booking.infoflot.com/Velikaya">Русь Великая</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Санкт-Петербург" target="_blank" class="" href="https://booking.infoflot.com/peterburg">Санкт-Петербург</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Северная сказка" target="_blank" class="" href="https://booking.infoflot.com/severnaya_skazka">Северная сказка</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Семен Буденный" target="_blank" class="" href="https://booking.infoflot.com/Budenny">Семен Буденный</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Сергей Дягилев" target="_blank" class="" href="https://booking.infoflot.com/dyagilev">Сергей Дягилев</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Сергей Кучкин" target="_blank" class="" href="https://booking.infoflot.com/kuchkin">Сергей Кучкин</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Симфония севера (Дмитрий Фурманов)" target="_blank" class="" href="https://booking.infoflot.com/simfonija_severa">Симфония севера (Дмитрий Фурманов)</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Ф.И. Панферов" target="_blank" class="" href="https://booking.infoflot.com/panferov">Ф.И. Панферов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Федор Достоевский" target="_blank" class="" href="https://booking.infoflot.com/dostoevsky">Федор Достоевский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Феликс Дзержинский" target="_blank" class="" href="https://booking.infoflot.com/Feliks">Феликс Дзержинский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Хирург Разумовский" target="_blank" class="" href="https://booking.infoflot.com/Razumovsky">Хирург Разумовский</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Юрий Андропов" target="_blank" class="" href="https://booking.infoflot.com/andropov">Юрий Андропов</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Юрий Никулин" target="_blank" class="" href="https://booking.infoflot.com/Nikulin">Юрий Никулин</a>
+							</div>
+											</div>
+								
+									<div class="sl" style="position: relative;">
+						<a title="" target="_blank" class="" href="https://booking.infoflot.com"></a>
+					</div>
+							
+												
+								
+									<div class="menu_orange2">
+						 
+						Морские и речные круизы<br>по миру
+						 
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Круизы из Сочи 2023 <new>" target="_blank" class="" href="https://www.infoflot.com/news/new8642/">Круизы из Сочи 2023 <new></a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Круизы без визы" target="_blank" class="xxx" href="https://www.infoflot.com/news/new8492/">Круизы без визы</a>
+					</div>
+							
+												
+								
+								<!-- 'child_list' значит здесь блок с выпадающим списком -->
+					<div class="menu_lightblue"><div class="arrowDown"></div><span class="child_list New_Year" >Новогодние круизы</span></div>
+					<div class="hiddenShips">
+													<div class="sl" style="position: relative;">
+								<a title="Персидский залив и Красное море" target="_blank" class="" href="https://www.infoflot.com/news/new8352/">Персидский залив и Красное море</a>
+							</div>
+													<div class="sl" style="position: relative;">
+								<a title="Круизы из Сочи в Турцию" target="_blank" class="" href="https://www.infoflot.com/news/new7464/">Круизы из Сочи в Турцию</a>
+							</div>
+												<br>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Красное море <new>" target="_blank" class="" href="https://www.infoflot.com/news/new7052/">Красное море <new></a>
+					</div>
+							
+												
+								
+									<div class="sl" style="position: relative;">
+						<a title="Восточное Средиземноморье" target="_blank" class="xxx" href="https://www.infoflot.com/news/new8140/">Восточное Средиземноморье</a>
+					</div>
+							
+							
+		
+			
+		
+			
+			<dt class="head__menu"><b><div class="togable">Больше зарубежных круизов</div></b></dt>
+		
+			
+		
+										<div class="menu_lightblue subShips">
+					<div class="arrowRight"></div>
+					<span>Astoria</span>
+				</div>
+				<div class="hiddenShips subShips seaShips" style="display: none;">
+														<div class="sl newShipLabel" style="position: relative;">
+											<a href="https://booking.infoflot.com/astoriagrande" title="Astoria Grande" target="_blank">Astoria Grande</a>
+											</div>
+								</div>
+												<div class="menu_lightblue subShips">
+					<div class="arrowRight"></div>
+					<span>Celestyal Cruises</span>
+				</div>
+				<div class="hiddenShips subShips seaShips" style="display: none;">
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/celestyalcrystal" title="Celestyal Crystal" target="_blank">Celestyal Crystal</a>
+													<a title="На рейсах сформированная русская группа с сопровождающим, экскурсиями, меню и бортовой газетой на русском языке  и другим дополнительным сервисом." class="tooltip" target="_blank"><i class="tricolorShipLabel"></i></a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/celestyalolympia" title="Celestyal Olympia" target="_blank">Celestyal Olympia</a>
+													<a title="На рейсах сформированная русская группа с сопровождающим, экскурсиями, меню и бортовой газетой на русском языке  и другим дополнительным сервисом." class="tooltip" target="_blank"><i class="tricolorShipLabel"></i></a>
+											</div>
+								</div>
+												<div class="menu_lightblue subShips">
+					<div class="arrowRight"></div>
+					<span>MSC</span>
+				</div>
+				<div class="hiddenShips subShips seaShips" style="display: none;">
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/Armonia" title="MSC Armonia" target="_blank">MSC Armonia</a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/MSCBellissima" title="MSC Bellissima" target="_blank">MSC Bellissima</a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/Grandiosa" title="MSC Grandiosa" target="_blank">MSC Grandiosa</a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/Lirica" title="MSC Lirica" target="_blank">MSC Lirica</a>
+													<a title=" На рейсах сформированная русская группа с сопровождающим, экскурсиями, меню и бортовой газетой на русском языке и другим дополнительным сервисом. " class="tooltip" target="_blank"><i class="tricolorShipLabel"></i></a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/Musica" title="MSC Musica" target="_blank">MSC Musica</a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/Opera" title="MSC Opera" target="_blank">MSC Opera</a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/MSCSeaview" title="MSC Seaview" target="_blank">MSC Seaview</a>
+											</div>
+														<div class="sl" style="position: relative;">
+											<a href="https://booking.infoflot.com/Splendida" title="MSC Splendida" target="_blank">MSC Splendida</a>
+													<a title=" На рейсах сформированная русская группа с сопровождающим, экскурсиями, меню и бортовой газетой на русском языке и другим дополнительным сервисом. " class="tooltip" target="_blank"><i class="tricolorShipLabel"></i></a>
+											</div>
+														<div class="sl newShipLabel" style="position: relative;">
+											<a href="https://booking.infoflot.com/World_europa" title="MSC World Europa" target="_blank">MSC World Europa</a>
+											</div>
+								</div>
+											
+	<dt class="head__menu"><b><div style="cursor:pointer;" class="togable">Круизы по регионам</div></b></dt>
+	<dd class="content__menu" style="display: none">
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7314/" title="" target="_blank">из Москвы</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new8680/" title="" target="_blank">Между Москвой и Санкт-Петербургом</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new8522/" title="" target="_blank"> по городам Золотого кольца</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7320/" title="" target="_blank">из Нижнего Новгорода</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7316/" title="" target="_blank">из Санкт-Петербурга</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7318/" title="" target="_blank">из Самары</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7322/" title="" target="_blank">из Казани</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7328/" title="" target="_blank">из Ростова-на-Дону</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new8546/" title="" target="_blank">из Волгограда</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7326/" title="" target="_blank">из Перми</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7324/" title="" target="_blank">из Ярославля</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7330/" title="" target="_blank">в Астрахань</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7340/" title="" target="_blank">в Казань</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7342/" title="" target="_blank">в Санкт-Петербург</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7364/" title="" target="_blank">в Москву</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7366/" title="" target="_blank">в Пермь или Уфу</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new8402/" title="" target="_blank">на Валаам</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7338/" title="" target="_blank">на Соловки</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7354/" title="" target="_blank">по Оке</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7358/" title="" target="_blank">по Карелии</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7206/" title="" target="_blank">в Татарстан</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7382/" title="" target="_blank">в Ростов-на-Дону</a>
+		</div>
+		</dd>
+		<dt class="head__menu"><b><div style="cursor:pointer;" class="togable">Справочник туриста</div></b></dt>
+	<dd class="content__menu" style="display: none">
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/info/contact_pay" title="" target="_blank">Бронирование и способы оплаты круизов</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/info/present" title="" target="_blank">Подарочные сертификаты</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/info/towns" title="" target="_blank">Города и стоянки</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/info/rivers" title="" target="_blank">Водные пути: реки и озера</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/info/rules" title="" target="_blank">Памятка туристу</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/info/eticket" title="" target="_blank">Электронная путёвка</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/info/adres_rv" title="" target="_blank">Адреса речных и морских вокзалов</a>
+		</div>
+		</dd>
+			<dt class="head__menu"><b><a rel="nofollow" href="https://booking.infoflot.com/workingWithAgencies"" style="display: block; cursor: pointer;" title="Агентствам" target="_blank">Агентствам</a></b></dt>
+		<dt class="head__menu"><b><a rel="nofollow" rel="nofollow" href="https://arenda.infoflot.com/" style="display: block; cursor: pointer;" title="Аренда для мероприятий" target="_blank">Аренда для мероприятий</a></b></dt>
+		<dt class="head__menu"><b><div style="cursor:pointer;" class="togable">ИНФОФЛОТ в Интернете</div></b></dt>
+	<dd class="content__menu" style="display: none">
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" rel="nofollow" href="https://t.me/infoflotinfo" title="" target="_blank">Телеграм</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" rel="nofollow" href="http://vkontakte.ru/club987661" rel="nofollow" title="" target="_blank">В Контакте</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" rel="nofollow" href="https://ok.ru/infoflot" title="" target="_blank">Одноклассники</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.youtube.com/channel/UCFp_p-7nqnL1jSAoWJlnnQA/" title="" target="_blank">Видеоархив </a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" rel="nofollow" href="http://www.infoflotforum.ru" rel=”nofollow" title="" target="_blank">Форум INFOFLOT.RU</a>
+		</div>
+		</dd>
+		<dt class="head__menu"><b><div style="cursor:pointer;" class="togable">О компании</div></b></dt>
+	<dd class="content__menu" style="display: none">
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7522/" title="" target="_blank">Круизный центр «Инфофлот»</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/information/offices" title="" target="_blank"><b>Контакты офисов</b></a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/information/garant" title="" target="_blank">Юридическая информация</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/information/job" title="" target="_blank">Вакансии</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="/information/partners" title="" target="_blank">Наши партнеры</a>
+		</div>
+		
+								
+		<div class="sl" style="position: relative;">
+			<a rel="nofollow" href="https://www.infoflot.com/news/new7710/" title="" target="_blank">Пресс-служба</a>
+		</div>
+		</dd>
+	
+                                            </dd>
+                                        </dl>
+                                        <hr size=1>
+                                        <br>
+
+
+                                        <br />
+                                    <!--
+                                        <div align=center><a href="/news/new4944"><img border=0 src="/img_banners/foto1.jpg" alt="Фотолетопись навигации 2015"></a></div>
+                                    -->
+                                        <!-- <br>
+                                        <div align=center><a target=_blank href="/information/job/#bort">
+                                            <img border=0 src="/img_banners/rabota_na_bortu.jpg">
+                                        </a></div>
+                                        <br> -->
+
+    									                                        <div class="lform">
+                                            <div class="h2">Подписка на новости и спецпредложения</div>
+                                            <form id="papapSubmit" action="/" method="post" name="subscrForm">
+                                                <input type="Hidden" name="act" value="subscribe">
+                                                <br/>
+                                                E-mail:<br>
+                                                <input id="papapEmail" type="text" name="email" class="inputtext" value="" required>
+                                                <!-- и/или<br />
+                                                Телефон<small> (SMS рассылка)</small>
+                                                <input type="text" name="phone" class="inputtext"> -->
+                                                
+                                                <!-- поле "phone" которое может быть надо удалить -->
+                                                <input type="hidden" name="phone" value="">
+                                                <br />
+                                                Имя:<br>
+                                                <input id="papapName" type="text" name="last_name" class="inputtext" value="" required>
+
+                                                <div style="margin-bottom: 10px">
+                                                    <input type="radio" name="subscr_type" value="fiz" checked>
+                                                    Физическое лицо<br>
+                                                    <input type="radio" name="subscr_type" value="agent">
+                                                    Агент
+                                                </div>
+
+                                                <div class="otp">
+                                                    <input type="hidden" value="" name="otpis">
+                                                    <!--
+                                                    <a href="#" onClick="document.subscrForm.otpis.value='yes'; document.subscrForm.submit(); return false;">Отписаться</a>
+                                                    -->
+                                                </div>
+                                                <div onclick="papap(); return false;" class="ar">
+                                                    
+                                                    <input type="image" src="/i/ok.gif">
+                                                    
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </td>
+                                </tr>
+                                                            </table>
+                        </td>
+                        <td class="cont">
+                            <div id="topmenu">
+                                <a href="/clients/clfaq/" class="bigtext">Вопросы и ответы</a>
+                                | <a href="/clients/questionnaire/" class="bigtext">Служба контроля качества</a>
+<!--                                | <a href="https://arenda.infoflot.com">Аренда флота</a>-->
+                                <a class="club" target="_blank" href="http://bonus.infoflot.com" title="Клуб любителей круизов"><span>Клуб любителей круизов</span></a>
+                            </div>
+                            <table class="page">
+                                <tr>
+                                    <td>
+
+
+
+                                        
+    									
+                                        
+    									    										<script type="text/javascript" src="/jquery.cookie.js"></script>
+
+<!-- jQuery Modal -->
+<script type="text/javascript" src="/js/jquery.modal.js"></script>
+<link rel="stylesheet" href="/styles/jquery.modal.min.css"/>
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        if (Math.floor(Date.now() / 1000) > 1613347200) return;
+
+        let countEnter = parseInt($.cookie('refund_alert')) || 0;
+        $.cookie('refund_alert', (countEnter + 1) % 3);
+        if (countEnter === 0) {
+            $('#ex1').modal();
+        }
+    });
+</script>
+
+
+<div id="ex1" class="modal">
+    <span style="font-size: 14px; font-weight: bold;">Всем влюбленным в круизы возвращаем до 2000 руб./чел.</span>
+    <p style="font-size: 15px;">
+        За новые бронирования с 1 по 14 февраля на теплоходах «Солнечный город» и «Две столицы».
+        <a target="_blank" href="https://www.infoflot.com/news/new8122/">Подробнее</a>
+    </p>
+</div>
+
+
+<script type="text/javascript">
+    (function($) {
+        $(function() {
+          $('ul.tabs-shedule__caption').on('click', 'li:not(.active)', function() {
+            $(this)
+              .addClass('active').siblings().removeClass('active')
+              .closest('div.tabs-shedule').find('div.tab-content').removeClass('active').eq($(this).index()).addClass('active');
+          });
+        });
+    })(jQuery);
+</script>
+<script>
+    jQuery(function ($) {
+        let $sliderBox = $('.sliderBox');
+        $sliderBox.SimSlider({
+            next: '.nextBtn', // селектор стрелки вправо
+            prev: '.prevBtn', // селектор стрелки влево
+            item: '.SimSlider a.slide', // селектор слайда
+            speed: 600, // скорость прокрутки
+            delay: 4000, // задержка в мс
+            autoplay: true,
+        });
+        $sliderBox.hover(
+            function () {
+                $('.prevBtn, .nextBtn').show();
+            },
+            function () {
+                $('.prevBtn, .nextBtn').hide();
+            }
+        );
+    });
+</script>
+
+
+<div style='position: relative; height: 170px;'>
+    <div class="sliderBox">
+        <a rel="nofollow" href="#" class="prevBtn"> </a>
+        <a href="#" class="nextBtn"> </a>
+        <div class="SimSlider">
+                        <a class="slide" href="https://www.infoflot.com/news/new7514/">
+                <img src="https://booking.infoflot.com/Uploads/6/b/4/6b488b438aad4276f79899f017d8a34a961ada5f.jpg"
+                     title="" alt="ЧП">
+            </a>
+                        <a class="slide" href="https://www.infoflot.com/news/new8658/">
+                <img src="https://booking.infoflot.com/Uploads/4/7/5/475cc4600cb4c8cb0f5752987f4e5ea0a65b1e57.jpg"
+                     title="" alt="Круизы за баллы!">
+            </a>
+                        <a class="slide" href="https://www.infoflot.com/news/new5434/">
+                <img src="https://booking.infoflot.com/Uploads/7/8/2/7820a1f983c8b542d3d9de54d217a4f689979162.jpg"
+                     title="" alt="Обь и Иртыш 2023">
+            </a>
+                        <a class="slide" href="https://www.infoflot.com/news/new8642/">
+                <img src="https://booking.infoflot.com/Uploads/c/1/d/c1db210207dc82bb180363e1acafd71f8049bb3a.jpg"
+                     title="" alt="Astoria Grande 2023">
+            </a>
+                        <a class="slide" href="https://www.infoflot.com/news/new7338/">
+                <img src="https://booking.infoflot.com/Uploads/2/6/2/262a27e6042b5789f4fc5d914ac4329b24bd7c64.jpg"
+                     title="" alt="Соловки">
+            </a>
+                    </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+    $(function () {
+        $("#spec_pred, #container-1").tabs({
+            fxSpeed: "fast",
+            fxAutoHeight: false
+        });
+        $(".progressbar_spec").hide();
+        $(".spec_text").show();
+
+        $('#spec_pred .tabs-selected a').click(function () {
+            var golink = $('#spec_pred > .tabs-nav > .tabs-selected').attr('data-link');
+            window.location.href = golink;
+        });
+
+    });
+</script>
+
+
+<table class="intb1">
+    <tr>
+        <td class="intb1td1">
+            <noindex>
+                <!--<iframe id="booking_search" name="zzz" width="608" height="260" scrolling="no" frameborder="0" src="//new_style.dev.booking.infoflot.com/search/externalForm?fromInfoflotcom=1&noRusGroups=1&noCruiseKeys=1"></iframe>-->
+                <div id="booking_search" style="width: 608px;" name="zzz">
+                    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru" xml:lang="ru">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>$title &ndash; Интернет-магазин речных круизов &laquo;Инфофлот&raquo;</title>
+
+<link rel="stylesheet" href="/static/resources/General.css?_v=16" />
+<link rel="stylesheet" href="/static/resources/Common.css?_v=61" />
+
+<!--<script type="text/javascript" src="/static/resources/General.js?_v=13"></script>-->
+
+
+<script type="text/javascript" src="/static/Scripts/functions.js?_v=108"></script>
+<script type="text/javascript" src="/static/Scripts/color.js?_v=1"></script>
+
+<!-- Include the plugin's CSS and JS: -->
+<script type="text/javascript" src="/static/Scripts/Bootstrap/bootstrap-multiselect.js"></script>
+<link rel="stylesheet" href="/static/Styles/Bootstrap/bootstrap-multiselect.css" type="text/css"/>
+
+<style>
+html, body {
+	padding-top: 0;
+	background: transparent;
+}
+#travel {
+	margin-right: 0;
+}
+td.title {
+	font-size: 16px !important;
+}
+</style>
+<script type="text/javascript">
+//<![CDATA[
+$(function() {
+	initializeQTip();
+});
+//]]>
+</script>
+</head>
+<body>
+<!-- Include the plugin's CSS and JS: -->
+<script type="text/javascript" src="/static/Scripts/Bootstrap/bootstrap-multiselect.js"></script>
+<link rel="stylesheet" href="/static/Styles/Bootstrap/bootstrap-multiselect.css" type="text/css"/>
+<script type="text/javascript">
+//<![CDATA[
+$(function() {
+
+    /*
+    * Style start city select
+    */
+    $('[name="startCity"] > option:gt(0):lt(6)').css('font-weight', 'bold');
+    
+    /*
+    * Fetch search results on page load
+    */
+    updateSearchResultsCount.call($('#startPicker'));
+    updatesShipsListMultiselect();
+    /*
+    * Extend length select
+    */
+    $('[name="length"]').on('change', updateLengthSelect);
+    updateLengthSelect();
+
+    /**
+    * Show/hide popover on length select
+    */
+    function updateLengthSelect()
+    {
+        // Prepare variables
+        var
+            $select  = $('[name="length"]'),
+            $options = $('option', $select),
+            $option  = $options.filter(':selected');
+
+        if ($options.last()[0] === $option[0]) {
+            buildLengthPopover($select, $option);
+        } else {
+            $('#moreLength').popover('destroy');
+        }
+    }
+
+    /**
+    * Build popver for cruises length select
+    */
+    function buildLengthPopover($select, $option)
+    {
+        // Prepare variables
+        var
+            $popover = null,
+            popoverContent   = '',
+            daysFromOptions  = '',
+            daysUntilOptions = '',
+            daysArray    = [],
+            daysSelected = [],
+
+            i  = 0,
+            il = 0;
+
+        // Catch days information
+        if (typeof($option.data('days')) === 'number') {
+            daysArray.push($option.data('days'));
+        } else {
+            daysArray = $option.data('days').split(',');
+        }
+        daysSelected = $option.attr('value').split('-');
+
+        // Setup default selected value for until date if need
+        if (daysSelected[0] === 'custom') {
+            daysSelected[0] = 1;
+            daysSelected[1] = daysArray[daysArray.length - 1];
+        }
+
+        // Build days options
+        for (il = daysArray.length; i < il; i += 1) {
+            daysFromOptions = daysFromOptions.concat(
+                '<option value="', daysArray[i], '"', ((daysSelected[0] === daysArray[i]) ? ' selected="selected"' : ''), '>',
+                    daysArray[i],
+                '</option>'
+            );
+            daysUntilOptions = daysUntilOptions.concat(
+                '<option value="', daysArray[i], '"', ((daysSelected[1] === daysArray[i]) ? ' selected="selected"' : ''), '>',
+                    daysArray[i],
+                '</option>'
+            );
+        }
+
+        // Generate popover content
+        popoverContent = [
+            '<form class="form-horizontal">',
+                '<div class="input-append input-prepend">',
+                    '<select name="from" class="input-mini" style="font-size: 13px; height: 25px;">[[daysFromOptions]]</select>',
+                    '<span class="add-on" style="height: 15px; line-height: 15px;">-</span>',
+                    '<select name="until" class="input-mini" style="font-size: 13px; height: 25px;">[[daysUntilOptions]]</select>',
+                '</div>',
+            '</form>'
+        ].join('');
+        popoverContent = popoverContent
+            .replace('[[daysFromOptions]]',  daysFromOptions)
+            .replace('[[daysUntilOptions]]', daysUntilOptions);
+
+        // Setup popover
+        $('#moreLength').popover({
+            content: popoverContent,
+            placement: 'bottom',
+            html: true,
+            trigger: 'manual',
+            template: '<div class="popover" style="width: auto;"><div class="arrow"></div><div class="popover-inner"><div class="popover-content"><p></p></div></div></div>'
+        }).popover('show');
+
+        // Catch popover content
+        $popover = $('#moreLength').data('popover').tip();
+
+        // Extend popover selects
+        $('select', $popover).on('change', function() {
+            // Prepare variables
+            var
+                $popoverSelect = $(this),
+
+                selectName  = $popoverSelect.attr('name'),
+                selectValue = $popoverSelect.val();
+
+            // Update selected value
+            if (selectName === 'from') {
+                daysSelected[0] = selectValue;
+            } else {
+                daysSelected[1] = selectValue;
+            }
+
+            // Store selected value
+            $option.attr('value', daysSelected.join('-'));
+
+            // Update search results count
+            updateSearchResultsCount.call($select);
+        });
+    }
+
+    /*
+    * Prepare variables
+    */
+    var
+        // Extended search
+        $panel              = $('#panel'),
+        $panelButtonHandler = $('.slide'),
+        $panelButton        = $('.btn-slide', $panelButtonHandler),
+        $caretArrow         = $('.btn-slide .caret'),
+
+        isPanelOpen = false;
+
+    /*
+    * Extended search toggler-button
+    */
+    $panelButton.on('click', function() {
+        
+        $panelButtonHandler.css('backgroundColor', '#bce2b5');
+        // Toggle search panel
+        $panel.slideToggle('fast', function() {
+            toggleExtendedSearch();
+        });
+
+        // Prevent default action
+        return false;
+    });
+
+    /*
+    * Show/hide extended search panel on page load
+    */
+    if (isPanelOpen === true) {
+        $panel.show();
+    } else {
+        $panel.hide();
+    }
+    toggleExtendedSearch();
+
+    /**
+    * Update extended search background and toggle button icon
+    */
+    function toggleExtendedSearch()
+    {
+        if ($panel.is(':visible') === true) {
+            $panelButtonHandler.css('backgroundColor', '#bce2b5');
+            $caretArrow.addClass('caret_down');
+            $panelButton.addClass('active');
+        } else {
+            $panelButtonHandler.css('backgroundColor', 'transparent');
+            $caretArrow.removeClass('caret_down');
+            $panelButton.removeClass('active');
+        }
+    }
+    
+    
+    $("#selectNav").find('span').on('click', function() {
+        
+        var $dataFrom = $(this).attr('dataFrom');
+        var $dataUntill = $(this).attr('dataUntill');
+            
+        $("#startPicker, #endPicker").stop().animate({ backgroundColor:'#FFAA37'}, 100).animate({ backgroundColor:'#fff'}, 500);
+        $("#selectNav").find('span').removeClass('selectedYear').addClass('otherYear');
+        $(this).removeClass('otherYear').addClass('selectedYear');
+        $('#startPicker').val($dataFrom);
+        $('#endPicker').val($dataUntill);
+        
+        updateSearchShipList();
+        updateSearchResultsCount.call($('#startPicker'));
+    })
+    
+    
+
+        $('#searchLength').multiselect({
+            
+            buttonWidth: '170px',
+            buttonText: function(options, select) {
+                if (options.length === 0) {
+                    return '- Любая -';
+                }
+                else if (options.length > 1) {
+                    return 'Выбрано '+ options.length;
+                }
+                else {
+                     var labels = [];
+                     options.each(function() {
+                         if ($(this).attr('label') !== undefined) {
+                             labels.push($(this).attr('label'));
+                         }
+                         else {
+                             labels.push($(this).html());
+                         }
+                     });
+                     return labels.join(', ') + '';
+                }
+                
+            }
+        });
+        $('#searchHoliday').multiselect({
+            maxHeight: 300,
+            enableFiltering: true,
+            enableCaseInsensitiveFiltering: true,
+            filterPlaceholder: 'Поиск',
+            buttonWidth: '170px',
+            buttonText: function(options, select) {
+                if (options.length === 0) {
+                    return '- Любой -';
+                }
+                else if (options.length > 1) {
+                    return 'Выбрано '+ options.length;
+                }
+                else {
+                     var labels = [];
+                     options.each(function() {
+                         if ($(this).attr('label') !== undefined) {
+                             labels.push($(this).attr('label'));
+                         }
+                         else {
+                             labels.push($(this).html());
+                         }
+                     });
+                     return labels.join(', ') + '';
+                }
+                
+            }
+        });
+        
+        $('#searchStartCity, #searchInlineCities, #searchRivers, #RouteList').multiselect({
+            buttonWidth: '170px',
+            enableHTML: true,
+            maxHeight: 300,
+            numberDisplayed: 1,
+            enableFiltering: true,
+            enableCaseInsensitiveFiltering: true,
+            filterPlaceholder: 'Поиск',
+            enableClickableOptGroups: true,
+            onChange: function(option, checked) {
+                updateSearchResultsCount.call($('#searchStartCity'));
+            },
+            enableCollapsibleOptGroups: true,
+            buttonText: function(options, select) {
+                if (options.length === 0) {
+                    if($(select).attr('id') == 'searchRivers') {
+                        return '- Любая -';
+                    }
+                    else {
+                        return '- Любой -';
+                    }
+                }
+                else if (options.length > 1) {
+                    return 'Выбрано '+ options.length;
+                }
+                else {
+                     var labels = [];
+                     options.each(function() {
+                         if ($(this).attr('label') !== undefined) {
+                             labels.push($(this).attr('label'));
+                         }
+                         else {
+                             labels.push($(this).html());
+                         }
+                     });
+                     return labels.join(', ') + '';
+                }
+                
+            }
+
+        });
+        
+        $('.fa-trash-o').css('cursor', 'pointer').attr('title', 'Очистить фильтр').click(function(){
+            var uniqselect = $(this).prev().find('select');
+            
+            $(uniqselect).find('option:selected').each(function() {
+                $(this).prop('selected', false);
+            })
+ 
+            $(uniqselect).multiselect('refresh');
+            updateSearchResultsCount.call($(uniqselect));
+            
+        });
+        
+        $('a.reset').click(function(){
+            
+            var objects = $('#searchStartCity, #searchInlineCities, #searchRivers, #RouteList, #searchHoliday, #searchLength, #searchShipList');
+            
+            $(objects).find('option:selected').each(function() {
+				$(this).removeAttr('selected');
+            });
+			$('#moreLength').popover('destroy');
+			
+			$('input:checkbox').removeAttr('checked');
+			
+
+            $('form')[0].reset();
+	
+			$("#startPicker, #endPicker").stop().animate({ backgroundColor:'#FFAA37'}, 100).animate({ backgroundColor:'#fff'}, 500);
+			$("#selectNav").find('span').removeClass('selectedYear').addClass('otherYear');    
+			$('#startPicker').val($('span[data-Year="currentYear"]').attr('dataFrom'));
+			$('#endPicker').val($('span[data-Year="nextYear"]').attr('datauntill'));
+			
+		
+            $(objects).multiselect('refresh');
+             updateSearchResultsCount.call($('#searchStartCity'));
+            
+            // Prevent default action
+            return false;
+        });
+        
+        
+        $('#RouteList, #searchHoliday').parent('span').find('.dropdown-menu').addClass('pull-right');
+
+
+});
+//]]>
+
+</script>
+
+<style>
+    .noVisible {
+        visibility: hidden;
+    }
+    .otherYear {
+        color: #009bda;
+        border-bottom: 1px dashed #009bda !important;
+        
+    }
+    .selectedYear {
+        font-size: 15px;
+    }
+    
+    #travel a {
+        text-decoration: none;
+    }
+    .multiselect-container {
+        z-index: 1011;
+    }
+    .multiselect-container .caret {
+        vertical-align: middle;
+        margin-right: 10px;
+    }
+    .multiselect-container .caret-container {
+    
+    }
+    .multiselect-container>li>a>label {
+        padding: 3px 20px 3px 30px;
+    }
+    .multiselect-container>li.multiselect-group label {
+        padding: 3px 10px 3px 10px;
+        
+    }
+    .multiselect-container>li.multiselect-group {
+        margin-top: 7px;
+    }
+    .multiselect-container>li.multiselect-group>a:focus {
+        background-image: none;
+        background-color: #fff;
+    }
+    .multiselect-container>li.active>a,  .multiselect-container>li>a:hover, .multiselect-container>li.active>a:hover, .multiselect-container>li.active>a:focus {
+        background-image: none;
+        background-color: #D2EDF8;
+    }
+    
+    
+    .radio input[type="radio"], .checkbox input[type="checkbox"] {
+        float: none;
+        margin-left: 0px;
+    }
+    
+    .multiselect-filter .input-group-btn {
+        display: none;
+    }
+    .multiselect-filter .multiselect-search {
+        width: 95%;
+        margin-left: 5px;
+    }
+</style>
+
+<style>
+	.SearchForm-Sea span {
+		display: block;
+		line-height: 15px;
+		margin: 8px 0 5px 0;
+		text-align: center;
+		width: 100px;
+		border-bottom: 0px !important;
+		height: 30px;
+	}
+	.search-form h1 {
+		padding: 0px 20px;
+	}
+	h1.SearchForm-Tabs-River {
+		padding: 0px;
+	}
+
+    .ExternalSearchForm-River, .ExternalSearchForm-River table tr td, .ExternalSearchForm-River table tr td.title {
+        background-color: #9EDBFA;
+    }
+    .search-form h1.ExternalSearchForm-River.current {
+        color: #069 !important;
+    }
+	.search-form h1 span {
+		display: flex;
+	}
+	
+    .search-form h1 span a.ExternalSearchForm-TabLink {
+        color: grey;
+		margin: auto;
+    }
+    .search-form h1 span a.ExternalSearchForm-TabLink:hover {
+        color: #009bda;
+    }
+    .ExternalSearchForm-Label {
+        color: #069;
+    }
+    .ExternalSearchForm-TableForm {
+        color: #069;
+    }
+    .popover-content {
+        color: #333;
+    }
+    .Dotted-Line .Left, .Dotted-Line .Right {
+        background: #9EDBFA !important;
+    }
+    .stat {
+        color: #069;
+        padding-right: 0;
+    }
+</style>
+
+
+<div class="sf" id="travel">
+                                    <div class="Tabs search-form">
+                <h1 data-tab="SearchForm-Tabs-River" data-type="river" class="current   ExternalSearchForm-River  BorderBottom" style="cursor: pointer;font-size: 12px;"><span>Круизы по России и СНГ</span></h1>
+                <h1 data-tab="SearchForm-Tabs-Sea" class="SearchForm-Sea BorderBottom" style="background: #ff6500 !important; cursor: pointer;font-size: 12px;"><span><a href="//booking.infoflot.com/Search.html?shipTypes[]=22&ships[]=969&startCities[]=Сочи" class=" ExternalSearchForm-TabLink " target="_blank" style="color:#fff !important;">Круизы из Сочи</a></span></h1>
+                <h1 data-tab="SearchForm-Tabs-Sea" class="SearchForm-Sea BorderBottom" style="cursor: pointer;font-size: 12px;"><span><a href="//booking.infoflot.com/Search.html?shipTypes[]=11&shipTypes[]=12&shipTypes[]=33&shipTypes[]=40" class=" ExternalSearchForm-TabLink " target="_blank">Речные круизы по зарубежью</a></span></h1>
+                <h1 data-tab="SearchForm-Tabs-Sea" class="SearchForm-Sea BorderBottom" style="cursor: pointer;font-size: 12px;"><span><a href="//booking.infoflot.com/Search.html?shipTypes[]=22&shipTypes[]=44&&shipTypes[]=3" class=" ExternalSearchForm-TabLink " target="_blank">Морские круизы</a></span></h1>
+            </div>
+                <div id="SearchForm-Tabs-River" class="Tabs-Content Tabs-Default   ExternalSearchForm-River ">
+        <form action="/Search.html" method="get" target="_blank">
+            <table class="fieldform  ExternalSearchForm-TableForm " style="margin-top: 5px;">
+               <tr>
+                    <td style="width: 33%; padding: 10px 0 5px 5px;">
+                        Дата отправления:
+                    </td>
+                    <td style="width: 34%; padding: 10px 0 5px 0;">
+                        Теплоход                    </td>
+                    <td style="width: 33%; padding: 10px 0 5px 0;">Популярные маршруты:</td>
+                </tr>
+                <tr>
+                    <td style="padding-left: 5px;">
+                        с
+                        <input type="text" name="dateFrom" id="startPicker" value="25.11.2022" data-value="25.11.2022" data-min-value="25.11.2022"  />
+                        по
+                        <input type="text" name="dateUntil" id="endPicker" value="03.11.2023" data-value="03.11.2023" data-max-value="03.11.2023" />
+                    </td>
+                    <td>
+                        <select id="searchShipList" name="ships[]" class="form_select noVisible" multiple="multiple" size=1>
+                            
+                                                            
+                                                                                                            <optgroup label="Теплоходы круизной компании &quot;Созвездие&quot; (8)">
+                                                                                            <option value="970">Огни большого города</option>
+                                                                                            <option value="963">Маленький принц</option>
+                                                                                            <option value="498">Лунная соната</option>
+                                                                                            <option value="478">Лебединое озеро</option>
+                                                                                            <option value="83">Симфония севера (Дмитрий Фурманов)</option>
+                                                                                            <option value="4">Н.А. Некрасов</option>
+                                                                                            <option value="38">Александр Бенуа</option>
+                                                                                            <option value="571">Северная сказка</option>
+                                                                                    </optgroup>
+                                                                                                                                
+                                                                                                            <optgroup label="Проект &quot;Экспедиции &quot;Созвездия&quot; (1)">
+                                                                                            <option value="462">Империя</option>
+                                                                                    </optgroup>
+                                                                                                                                
+                                                                                                            <optgroup label="Генеральный агент (4)">
+                                                                                            <option value="1">Две столицы</option>
+                                                                                            <option value="487">Капитан Пушкарев</option>
+                                                                                            <option value="3">Космонавт Гагарин</option>
+                                                                                            <option value="64">Александр Невский</option>
+                                                                                    </optgroup>
+                                                                                                                                
+                                                                                                            <optgroup label="Другие теплоходы (61)">
+                                                                                            <option value="463">А. Матросов</option>
+                                                                                            <option value="141">А.И. Герцен</option>
+                                                                                            <option value="461">Александр Великий</option>
+                                                                                            <option value="26">Александр Пушкин</option>
+                                                                                            <option value="54">Александр Радищев</option>
+                                                                                            <option value="111">Александр Суворов</option>
+                                                                                            <option value="106">Александр Фадеев</option>
+                                                                                            <option value="227">Александра (Т.Г. Шевченко)</option>
+                                                                                            <option value="25">Алексей Толстой</option>
+                                                                                            <option value="103">Антон Чехов</option>
+                                                                                            <option value="968">Бирюса (СВП)</option>
+                                                                                            <option value="972">Борис Полевой</option>
+                                                                                            <option value="99">Бородино</option>
+                                                                                            <option value="242">В.Чкалов</option>
+                                                                                            <option value="33">Валерий Чкалов</option>
+                                                                                            <option value="956">Василий Чапаев</option>
+                                                                                            <option value="71">Виссарион Белинский</option>
+                                                                                            <option value="84">Владимир Маяковский</option>
+                                                                                            <option value="540">Волга Дрим</option>
+                                                                                            <option value="595">Волга Стар</option>
+                                                                                            <option value="104">Генерал Лавриненков</option>
+                                                                                            <option value="11">Георгий Жуков</option>
+                                                                                            <option value="120">Георгий Чичерин</option>
+                                                                                            <option value="44">Григорий Пирогов</option>
+                                                                                            <option value="287">Демьян Бедный</option>
+                                                                                            <option value="226">Дмитрий Пожарский</option>
+                                                                                            <option value="251">Иван Бунин</option>
+                                                                                            <option value="250">Игорь Стравинский</option>
+                                                                                            <option value="2">Илья Муромец</option>
+                                                                                            <option value="231">Козьма Минин</option>
+                                                                                            <option value="115">Константин Коротков</option>
+                                                                                            <option value="207">Константин Симонов</option>
+                                                                                            <option value="265">Константин Федин</option>
+                                                                                            <option value="110">Кронштадт</option>
+                                                                                            <option value="59">Лев Толстой</option>
+                                                                                            <option value="116">Ленин</option>
+                                                                                            <option value="223">Леонид Соболев</option>
+                                                                                            <option value="52">Максим Горький</option>
+                                                                                            <option value="228">Максим Литвинов</option>
+                                                                                            <option value="47">Михаил Кутузов</option>
+                                                                                            <option value="233">Михаил Светлов</option>
+                                                                                            <option value="214">Михаил Танич</option>
+                                                                                            <option value="12">Михаил Фрунзе</option>
+                                                                                            <option value="117">Мстислав Ростропович</option>
+                                                                                            <option value="927">Мустай Карим</option>
+                                                                                            <option value="230">Н.В. Гоголь</option>
+                                                                                            <option value="46">Павел Бажов</option>
+                                                                                            <option value="27">Президент</option>
+                                                                                            <option value="249">Принцесса Анабелла</option>
+                                                                                            <option value="260">Родная Русь</option>
+                                                                                            <option value="219">Русь Великая</option>
+                                                                                            <option value="137">Санкт-Петербург</option>
+                                                                                            <option value="28">Семен Буденный</option>
+                                                                                            <option value="252">Сергей Дягилев</option>
+                                                                                            <option value="61">Сергей Кучкин</option>
+                                                                                            <option value="95">Ф.И. Панферов</option>
+                                                                                            <option value="72">Федор Достоевский</option>
+                                                                                            <option value="60">Феликс Дзержинский</option>
+                                                                                            <option value="965">Хирург Разумовский</option>
+                                                                                            <option value="424">Юрий Андропов</option>
+                                                                                            <option value="966">Юрий Никулин</option>
+                                                                                    </optgroup>
+                                                                                                                        </select>
+                        <i class="fa fa-trash-o"></i>
+                    </td>
+                    <td>
+                        <select name="routes[]" id="RouteList" class="form_select noVisible" multiple="multiple" size=1>
+                                                            <option value="105">Черная пятница</option>
+                                                            <option value="4">Золотое кольцо России</option>
+                                                            <option value="76">Между Москвой и Санкт-Петербургом</option>
+                                                            <option value="2">Золотая коллекция круизов</option>
+                                                            <option value="3">Круизы выходного дня</option>
+                                                            <option value="83">Майские праздники </option>
+                                                            <option value="6">Валаам или Кижи</option>
+                                                            <option value="7">Карелия</option>
+                                                            <option value="21">Байкал</option>
+                                                            <option value="11">На Соловецкие острова</option>
+                                                            <option value="78">Экспедиционные круизы</option>
+                                                            <option value="84">Обь и Иртыш</option>
+                                                            <option value="41">Круизы в/из Санкт-Петербурга</option>
+                                                            <option value="17">Круизы в Казань</option>
+                                                            <option value="18">Круизы в/из Москвы</option>
+                                                            <option value="96">Круизы в Ростов-на-Дону</option>
+                                                            <option value="97">Круизы в Астрахань</option>
+                                                            <option value="13">Круизы в Ростов-на-Дону и Астрахань</option>
+                                                            <option value="12">Круизы в Пермь и/или Уфу</option>
+                                                            <option value="77">Круизы из Нижнего Новгорода</option>
+                                                            <option value="10">Московская кругосветка</option>
+                                                            <option value="67">Татарстан</option>
+                                                            <option value="42">Реки Сибири</option>
+                                                            <option value="9">Вятка</option>
+                                                            <option value="31">Волхов (до Старой Ладоги)</option>
+                                                            <option value="22">Енисей</option>
+                                                            <option value="14">Кама</option>
+                                                            <option value="8">Ока</option>
+                                                    </select>
+                        <i class="fa fa-trash-o"></i>
+                    </td>
+
+                </tr>
+
+                <tr>
+                    <td style="padding: 12px 0 5px 20px;">
+                        Продолжительность:
+                    </td>
+                    <td style="padding: 12px 0 5px 0px;">
+                        Город отправления:
+                    </td>
+                    <td style="padding: 12px 0 0 0;">
+                                            </td>
+                </tr>
+                <tr>
+                    <td style="padding-left: 20px; vertical-align: top;">
+                        <div id="moreLength" style='width: 170px;'>
+                            <select id="searchLength" name="length" class="form_select">
+                                                                                                                                                    <option value="1-27" selected="selected">Любая</option>
+                                                                                                                                                                                                                                <option value="1-5">Менее 5 дней</option>
+                                                                                                                                                                                                                                <option value="5-7">от 5 до 7 дней</option>
+                                                                                                                                                                                                                                <option value="8-14">от 8 до 14 дней</option>
+                                                                                                                                                                                                                                <option value="15-27">Более 14 дней</option>
+                                                                                                                                                                                        <option value="custom" data-days="2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,27">- свой вариант -</option>
+                                                                                                </select>
+                        </div>
+                    </td>
+                    <td style="vertical-align: top;">
+                    
+                    
+                        <select id="searchStartCity" name="startCities[]" class="form_select noVisible" multiple="multiple" size=1>
+
+                                                            <optgroup label="Россия">
+                                                                            <option value="Москва">                                        •  
+                                                                                    Москва
+                                        </option>
+                                                                            <option value="Санкт-Петербург">                                        •  
+                                                                                    Санкт-Петербург
+                                        </option>
+                                                                            <option value="Самара">                                        •  
+                                                                                    Самара
+                                        </option>
+                                                                            <option value="Нижний Новгород">                                        •  
+                                                                                    Нижний Новгород
+                                        </option>
+                                                                            <option value="Казань">                                        •  
+                                                                                    Казань
+                                        </option>
+                                                                            <option value="Ростов-на-Дону">                                        •  
+                                                                                    Ростов-на-Дону
+                                        </option>
+                                                                            <option value="Пермь">                                        •  
+                                                                                    Пермь
+                                        </option>
+                                                                            <option value="Ярославль">                                        •  
+                                                                                    Ярославль
+                                        </option>
+                                                                            <option value="Иркутск">                                        •  
+                                                                                    Иркутск
+                                        </option>
+                                                                            <option value="Волгоград">                                        •  
+                                                                                    Волгоград
+                                        </option>
+                                                                            <option value="Архангельск">                                            Архангельск
+                                        </option>
+                                                                            <option value="Астрахань">                                            Астрахань
+                                        </option>
+                                                                            <option value="Дудинка">                                            Дудинка
+                                        </option>
+                                                                            <option value="Кострома">                                            Кострома
+                                        </option>
+                                                                            <option value="Красноярск">                                            Красноярск
+                                        </option>
+                                                                            <option value="Норильск">                                            Норильск
+                                        </option>
+                                                                            <option value="Санкт–Петербург">                                            Санкт–Петербург
+                                        </option>
+                                                                            <option value="Сарапул">                                            Сарапул
+                                        </option>
+                                                                            <option value="Саратов">                                            Саратов
+                                        </option>
+                                                                            <option value="Сургут">                                            Сургут
+                                        </option>
+                                                                            <option value="Таганрог">                                            Таганрог
+                                        </option>
+                                                                            <option value="Тобольск">                                            Тобольск
+                                        </option>
+                                                                            <option value="Тольятти">                                            Тольятти
+                                        </option>
+                                                                            <option value="Улан-Удэ">                                            Улан-Удэ
+                                        </option>
+                                                                            <option value="Ульяновск">                                            Ульяновск
+                                        </option>
+                                                                            <option value="Усть-Кут">                                            Усть-Кут
+                                        </option>
+                                                                            <option value="Уфа">                                            Уфа
+                                        </option>
+                                                                            <option value="Чайковский">                                            Чайковский
+                                        </option>
+                                                                            <option value="Чебоксары">                                            Чебоксары
+                                        </option>
+                                                                            <option value="Челябинск">                                            Челябинск
+                                        </option>
+                                                                            <option value="Череповец">                                            Череповец
+                                        </option>
+                                                                            <option value="Якутск">                                            Якутск
+                                        </option>
+                                                                    </optgroup>
+                                                    </select>
+                        <i class="fa fa-trash-o"></i>
+                    </td>
+                    <td style="">
+                                                <label class=" ExternalSearchForm-Label ">
+                            <input type="checkbox" name="isWeekend" value="1" />
+                            Круизы выходного дня
+                        </label>
+                        <span data-qtip="left" style="display: inline-block;" title="Круиз выходного дня наилучший вариант для тех, кто не может позволить себе отпуск. Круизы отправляются вечером в пятницу и возвращаются в воскресенье. Также данные круизы будут интересны тем, кто хочет открыть для себя этот вид отдыха."><b class="BlueQuestion"></b></span>
+                                            </td>
+                </tr>
+
+                                                    
+                                
+                
+                
+
+              
+                
+                    <tr>
+                        <td> &nbsp; </td>
+                        <td> &nbsp; </td>
+                        <td>
+                            <label class=" ExternalSearchForm-Label ">
+                                <input type="checkbox" id="isBonusCruise" name="isBonusCruise" value="1" />
+                                Круизы за баллы КЛК
+                            </label>
+                            <span data-qtip="left" style="display: inline-block;" title="
+                                <span style='color:#000080'>
+                                В этом круизе возможно приобретение  премиальных  кают за бонусные баллы (1 рубль = 10 баллов).</span>">
+                                <b class="BlueQuestion"></b>
+                            </span>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td> &nbsp; </td>
+                        <td> &nbsp; </td>
+                        <td>
+                            <label class=" ExternalSearchForm-Label ">
+                                <input type="checkbox" id="isBlackFriday" name="isBlackFriday" value="1" />
+                                Акция «Черная пятница»
+                            </label>
+                            <span data-qtip="left" style="display: inline-block;" title="
+                                <span style='color:#000080'>До 04.12.2022 приобретайте круизы по России и зарубежью с максимальной выгодой до 25% по специальным условиям акции «Черная пятница».</span>">
+                                <b class="BlueQuestion"></b>
+                            </span>
+                        </td>
+                    </tr>
+
+              
+                
+
+                                <tr>
+                    <td colspan="3" class="text-right" style="vertical-align: middle;">
+                        <table style="position: relative; width: 100%; border: 1; border-spacing: 0;">
+                            <tr>
+                                <td style="text-align: left; width: 310px;">
+                                                                            <div style="width: 200px; display: block;" class="stat">
+                                            <div>
+                                                <table style="width: 100%">
+                                                    <tr>
+                                                        <td class="Dotted-Line"><span class="Left">Теплоходов</span><span class="Right" id="counterShips">74</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="Dotted-Line"><span class="Left">Речных круизов</span><span class="Right" id="counterCruises">3989</span></td>
+                                                    </tr>
+
+                                                </table>
+                                            </div>
+                                        </div>
+                                                                    </td>
+                                <td style="text-align: left">
+                                    <a rel="nofollow" href="#" class="reset" style="color: #069; text-decoration: underline">Сбросить фильтр</a>
+                                </td>
+                                <td class="text-right" style="position: relative; width: 150px; padding: 0 20px 0 5px;">
+                                                                                                                                                                                                                            <input type="hidden" name="roistat_visit">
+                                                                        <button type="submit" name="submit" class="BtnSearch">Найти круиз</button>
+                                </td>
+                            </tr>
+                            <!--tr>
+                                <td colspan="2" align="center" style="padding: 10px 0 5px"><strong><a href="https://www.infoflot.com/news/new5142/" target="_blank">Предварительное бронирование круизов-2017</a></strong></td>
+                            </tr-->
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
+<script>
+    $('#SearchForm-Tabs-River .BtnSearch').on('click', function() {
+        let event_label = '';
+        let type = $('.Tabs.search-form .current[data-type]').data('type');
+        switch (type) {
+            case 'river':
+                event_label = 'Реки России';
+                break;
+            case 'foreign-river':
+                event_label = 'Реки зарубежья';
+                break;
+            case 'mega-yacht':
+                event_label = 'Мега-яхты';
+                break;
+        }
+
+        let select_cities = document.getElementById('searchStartCity');
+        let selected_cities = Array.from(select_cities.options).filter(option=>option.selected).map(option=>option.value).join(', ');
+        if (false === !!selected_cities) selected_cities = 'Любой';
+        let search_length = $('#searchLength option:selected').val();
+        analyticsSearch(event_label, selected_cities, search_length);
+    });
+    function analyticsSearch(event_label, cities_start, cruise_length_days) {
+            }
+    // Roistat
+        window.addEventListener('message', function (message) {
+        if (message.origin == 'https://www.infoflot.com' && message.data.type == 'site') {
+            $('form input[name="roistat_visit"]').val(message.data.visitId);
+        }
+    });
+    </script>
+</body>
+</html>
+
+                </div>
+            </noindex>
+
+            
+            <!--<pre>-->
+<!--</pre>-->
+
+<style>
+    .qqqq a img {
+        width: 200px;
+    }
+
+    /* Safari 7.1+ */
+    _::-webkit-full-page-media, _:future, :root .safari_only {
+        width: 199px !important;
+    }
+
+
+    .more_btn_div {
+        background: #FF6500;
+        text-transform: uppercase;
+        height: 20px;
+        line-height: 20px;
+    }
+
+    .more_btn {
+        margin: 0;
+        padding: 0;
+        cursor: pointer;
+        text-align: center;
+        vertical-align: middle;
+        color: #fff;
+    }
+
+    .more_btn span {
+        margin-right: 3px;
+    }
+
+    .more_btn:after {
+        content: "\203A";
+    }
+
+    .more_btn.more_icon_down:after {
+        content: "\203A";
+        display: inline-block;
+        transform: rotate(-90deg);
+        /* Safari */
+        -webkit-transform: rotate(-90deg);
+
+        /* Firefox */
+        -moz-transform: rotate(-90deg);
+
+        /* IE */
+        -ms-transform: rotate(-90deg);
+
+        /* Opera */
+        -o-transform: rotate(-90deg);
+
+        /* Internet Explorer */
+        filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+    }
+    .qqqq{
+        min-width: 610px;
+    }
+</style>
+
+
+<div class="qqqq">
+    <!--        <h3></h3>-->
+        <div>
+                                            <!--                -->
+                        <a href="/news/new7464/"><img class="safari_only" src="//booking.infoflot.com/Uploads/0/5/2/05293fd7a4e25db63d730d0e25c95030b0e29b45.jpg"
+                                               alt=" Черная пятница Astoria Grande"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new8658/"><img class="safari_only" src="//booking.infoflot.com/Uploads/1/a/2/1a2ba86c23864dcf1fc2a604ba69cc7e66116ee3.jpg"
+                                               alt="Предварительное бронирование кешбэка 20%"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new7514/"><img class="safari_only" src="//booking.infoflot.com/Uploads/f/4/8/f483296afc62d6ad396cb32e3f3300d2f4900aa0.jpg"
+                                               alt="ЧП"/></a>
+<!--                        -->
+                    </div>
+    <!--        <h3></h3>-->
+        <div>
+                                            <!--                -->
+                        <a href="/news/new5434/"><img class="safari_only" src="//booking.infoflot.com/Uploads/2/8/a/28a315187a9546ce215915dea2645555a48ac3ad.jpg"
+                                               alt="Обь и Иртыш 2023"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new8660/"><img class="safari_only" src="//booking.infoflot.com/Uploads/b/9/0/b90684a30da0f6bd6554a97b6ca8457c219ef6ad.jpg"
+                                               alt="Мустай Карим 2023"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new8642/"><img class="safari_only" src="//booking.infoflot.com/Uploads/5/f/5/5f528fef1978fc1f35ab8c01d707a4c95e50f438.jpg"
+                                               alt="НГ на Астория Гранде"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new8476/"><img class="safari_only" src="//booking.infoflot.com/Uploads/f/9/2/f92e856910813126a004b8b869d58b8a25fe162d.jpg"
+                                               alt="Из Москвы в СПБ"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new7338/"><img class="safari_only" src="//booking.infoflot.com/Uploads/6/9/9/699bca5b69770b43f4f3b2b43b175f1ab11627c3.jpg"
+                                               alt="Соловки"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new7314/"><img class="safari_only" src="//booking.infoflot.com/Uploads/1/4/1/141e73e72a072b850ab6b948965303f9e566daa2.jpg"
+                                               alt="Из Москвы"/></a>
+<!--                        -->
+                                            <!--                -->
+<!--                    <div class="more_content">-->
+<!--                        -->
+                        <a href="/news/new7726/"><img class="safari_only" src="//booking.infoflot.com/Uploads/b/f/6/bf6cd1cb8808b87ab995ce4c2893df37a37e43d1.jpg"
+                                               alt="КВД из Москвы"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new8522/"><img class="safari_only" src="//booking.infoflot.com/Uploads/c/4/1/c41919a3b8350dce7f95a1c73eb5daab4347beb1.jpg"
+                                               alt="ЗК"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new8662/"><img class="safari_only" src="//booking.infoflot.com/Uploads/5/e/4/5e42737fcc9a85e67c0827569582e8c8e55c2c73.jpg"
+                                               alt="5000 баллов - в подарок!"/></a>
+<!--                        -->
+<!--                    </div>-->
+<!--                    <div class="more_btn_div">-->
+<!--                        <h4 class="more_btn more_icon_down"><span>Скрыть</span></h4>-->
+<!--                    </div>-->
+<!--                -->
+                    </div>
+    <!--        <h3>Зарубежные круизы</h3>-->
+        <div>
+                                            <!--                -->
+                        <a href="/news/new8106/"><img class="safari_only" src="//booking.infoflot.com/Uploads/f/c/c/fccf2c2d9a3a5f74c91c0536d3736fb484d8c9f8.jpg"
+                                               alt="ЧП Celestyal"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new7464/"><img class="safari_only" src="//booking.infoflot.com/Uploads/5/f/c/5fc0c908af309aa8f8a2be101b629bd57f28fc87.jpg"
+                                               alt="Astoria Grande 2023"/></a>
+<!--                        -->
+                                            <!--                -->
+                        <a href="/news/new7834/"><img class="safari_only" src="//booking.infoflot.com/Uploads/9/5/d/95dec519df24b4b088cee636044bd5ca167f874d.jpg"
+                                               alt="ЧП MSC"/></a>
+<!--                        -->
+                    </div>
+    </div>
+
+
+<script type="application/javascript">
+    $(document).ready(function () {
+        $('.more_btn').click(function (e) {
+            e.preventDefault();
+            let $self = $(this);
+            let $textSpan = $self.find('span');
+            // $(this).parent().find('.more_content').slideToggle('fast');
+            $(this).closest('.qqqq').find('.more_content').slideToggle('slow');
+            $self.toggleClass('more_icon_down');
+            $textSpan.text($textSpan.text() === 'Показать ещё' ? 'Скрыть' : 'Показать ещё');
+        });
+    });
+</script>
+
+
+
+            <hr size="1" noshade="noshade">
+
+            <a name="why"></a>
+            <table border="0" width="100%" cellspacing="0" cellpadding="3" class="why">
+                <tr>
+                    <td width="50%" valign="top">
+                        <h2></h2>
+                        <div class="whytxt"></div>
+                    </td>
+                    <td width="50%" valign="top">
+                        <div class="hh2"></div>
+                        <div class=whytxt></div>
+                    </td>
+                </tr>
+            </table>
+        </td>
+
+        <td class="sp">
+            <hr>
+            <noindex>
+                <a rel="nofollow" href="/news/new7004/" style="display: block; margin-bottom:2px;">
+                    <img src="https://www.infoflot.com/UPLOAD/UPLOAD/sales_and_specialsales.png" style="display:block">
+                </a>
+                <a rel="nofollow" href="/news/new8524/">
+                    <img src="https://www.infoflot.com/UPLOAD/UPLOAD/infoflot_recomenduet.png" style="display:block">
+                </a>
+                <!--                <a href="//status.infoflot.com/" target="_blank">-->
+                <!--                    <img src="/UPLOAD/banners/82206eea266556346dc2acb7ead2b45d" alt="СТАТУС" style="display:block">-->
+                <!--                </a>-->
+                <!--                <a href="//booking.infoflot.com/page/view/148" target="_blank">-->
+                <!--                    <img src="/UPLOAD/banners/7136a235aa7ef6514a0415391ea814d2" alt="Уведомления от туроператоров" style="display:block"></a>-->
+                <!--                <hr size="1" noshade="">-->
+            </noindex>
+
+            <table class="spec">
+                <tr>
+                    <td>
+                        <div align="left">
+                            <table class="news_head">
+                                <tr>
+                                    <td>
+                                        <a target="_blank" href="http://www.infoflot.com/news/rss/" style="float: right"><img src="./i/rss-icon.png"></a> Новости
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+
+                        <div class="mar11">
+<div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 25 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new6060">«Черная пятница»: скидки до 25% + оплата баллами «Клуба Любителей Круизов»</a>
+
+</div>
+<div class="ntext">Более 300 круизов на теплоходах «Генерал Лавриненков», «Игорь Стравинский» и «Александра» («Т.Г. Шевченко»), «Антон Чехов», «Иван Бунин», «Максим Литвинов», «Принцесса Анабелла», «Сергей Дягилев» и «Волга Стар»
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 24 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new8314">Новые предложения по акции «Черная пятница»</a>
+
+</div>
+<div class="ntext"> +19 теплоходов, более 500 круизов по России со скидками до 15% и оплатой баллами Клуба Любителей Круизов
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 23 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new7464">Astoria Grande объявляет «Черную Пятницу»! Зимние круизы из Сочи в Турцию</a>
+
+</div>
+<div class="ntext">Какой будет ваша выгода? Путешествие без доплат, скидка 20% или 350 евро - в подарок!
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 23 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new5514">Акция «Третье место  -  в подарок» продлена до 4 декабря </a>
+
+</div>
+<div class="ntext">Круизы 2023 на теплоходах «Огни большого города», «Маленький принц», «Лебединое озеро», «Лунная соната», «Симфония севера» («Дмитрий Фурманов»), «Александр Бенуа» и «Н.А. Некрасов»
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 22 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new8686">Клубу Любителей Круизов - 10 лет! </a>
+
+</div>
+<div class="ntext">10 000 баллов - в подарок для участников Клуба Любителей Круизов
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 22 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new7834">«BLACK FRIDAY» от MSC Cruises на зимние круизы от 149 евро на человека!</a>
+
+</div>
+<div class="ntext">Круизы по Персидскому заливу и Красному морю. Только с 23 ноября по 2 декабря!
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 21 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new8106">BLACK FRIDAY от Celestyal Cruises: круизы «всё включено» от 299 евро на человека!</a>
+
+</div>
+<div class="ntext">Специальные цены на круизы по Адриатическому и Средиземному морям. При бронировании до 6.12.22!
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 18 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new7514">«Черная пятница»: коллекция лучших круизных предложений до 4 декабря 2022</a>
+
+</div>
+<div class="ntext">Более 1000 круизов по рекам России с выгодой до 25% и специальные предложения для морских круизов 
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 15 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new8684">Акция «Черная пятница»: – 20% на круизы по Волге</a>
+
+</div>
+<div class="ntext">Только с 22 по 30 ноября 2022! Специальные условия для круизов на теплоходах «Валерий Чкалов», «Федор Достоевский» и «Ф.И. Панферов»
+	
+</div>
+</div><div class="news_element">
+<div class="ndate"><img src="/i/li_blue.gif"> 14 ноября</div>
+<div class="ntitle">
+
+	<a href="https://www.infoflot.com/news/new8670">Изменения на теплоходе «Дмитрий Фурманов» к навигации 2023</a>
+
+</div>
+<div class="ntext">Новое название, раскраска и каюты
+	
+</div>
+</div>
+</div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/news/">все новости</a>
+                        <hr size="1" noshade="noshade">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div align="left">
+                            <table class="news_head">
+                                <tr>
+                                    <td>
+                                        Изменения в рейсах
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+
+                        <div class='mar11'><div class="ndate">08.11.2022</div>
+        <div class="ntitle"><a href='/izmreys/352'>Изменения в расписании круиза теплохода «Лунная соната» 13 - 18 ноября 2022</a></div><div class="ndate">27.09.2022</div>
+        <div class="ntitle"><a href='/izmreys/351'>Изменение в расписании круиза с 6 по 14 октября 2022 на теплоходе «Лебединое озеро» </a></div><div class="ndate">12.09.2022</div>
+        <div class="ntitle"><a href='/izmreys/350'>Изменения в расписании круизов 2022 на теплоходе «Лебединое озеро»</a></div><div class="ndate">09.09.2022</div>
+        <div class="ntitle"><a href='/izmreys/349'>Изменения в расписании круизов 2022 на теплоходе «Две столицы»</a></div></div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a href="/izmreys/all/">все изменения рейсов</a>
+                        <hr size="1" noshade="noshade">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+    									
+
+                                                                            </td>
+                                </tr>
+                            </table>
+
+                            
+                                                    </td>
+                    </tr>
+                    <tr>
+                        <td id="botl" colspan="2">
+                            <table width="100%">
+                                <tr>
+                                    <td width="250" valign="top">
+                                        <div style="height: 40px;">
+											<!-- <b>Туристическая компания "ИНФОФЛОТ" </b><br> -->
+											<img src="/i/logo120_1.png">
+										</div>
+
+
+                                    </td>
+                                    <td align="right" valign="top">
+                                        <div style="height: 40px;">
+											<a href="https://www.infoflot.com/info/contact_pay/#2" target="_blank"><img src="//booking.infoflot.com/i/logo/visa_small.gif" /></a>
+											<a href="https://www.infoflot.com/info/contact_pay/#2" target="_blank"><img src="//booking.infoflot.com/i/logo/mastercard_small.gif" /></a>
+											<a href="https://www.infoflot.com/info/contact/" target="_blank"><img src="//booking.infoflot.com/i/logo/contact.jpg" /></a>
+											<!--<a href="https://www.infoflot.com/info/contact_pay/#11" target="_blank"><img src="//booking.infoflot.com/i/logo/qiwi_small.gif" /></a>-->
+											<!--<a href="https://www.infoflot.com/info/contact_pay/#15" target="_blank"><img src="//booking.infoflot.com/i/logo/tourpay_small.jpg" /></a>-->
+										</div>
+
+										<div style="float:right; margin: 10px 0;"><a href="/information/job/"><u>Наши вакансии</u></a></div>
+										<div style="float:right; margin: 10px 10px 0 0;"><a href="https://www.infoflot.com/politic/"><u>Политика конфиденциальности</u></a></div>
+									</td>
+                                    <td width="400" align="right" valign="top" rowspan="2">
+                                                   <div class="row-fluid">
+        <div class="span12 agency" style="display:inline-block;">
+                <div style="color:#f60; display:inline-block; text-transform: uppercase;font-weight: bold;">Для
+                        туристов:
+                </div>
+                <div class="comm" style="display:inline-block; text-transform: uppercase;font-weight: bold;"> <a onclick="ym(4009198,'reachGoal','phone_was_touched'); return true;"
+                                href="tel:+78007074418" rel="nofollow" target="_blank"> 8 (800) 707-44-18</a></div>
+                <div
+                        style="color:#f60;display:inline-block;text-transform: uppercase;font-weight: bold;margin-left: 10px;">
+                        Для турагентств:
+                </div>
+                <div class="comm" style="display:inline-block; text-transform: uppercase;font-weight: bold;"><a onclick="ym(4009198,'reachGoal','phone_was_touched'); return true;"
+				href="tel:88007075035" rel="nofollow" target="_blank">8 (800) 707-50-35</a></div>
+        </div>
+</div>
+<div class="border"> </div>
+<div class="row-fluid">
+
+</div>           
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="830" valign="top" colspan="2" align="left">
+                                        При использовании материалов сайта ссылка на <a href="https://www.infoflot.com">www.infoflot.com</a> - обязательна.<br>
+                                        <font color="#C0C0C0">
+                                            <small>
+                                                Сайт подготовлен сотрудниками круизного центра «Инфофлот» – <a href="https://www.infoflot.com/">речные круизы</a> и прогулки по всей России. Туры по Волге в Москву из Самары. Речные круизы в Петербург, Пермь и другие города России. Все права защищены. <a href="/map/">Карта сайта</a>.<br>
+                                               При подготовке использованы собственные материалы компании, материалы, предоставленные компаниями-партнерами, а также материалы Интернет-портала INFOFLOT.RU и <a href="http://frocush.livejournal.com/">http://frocush.livejournal.com/</a>.
+                                            </small>
+                                            <div>
+                                                <small>
+                                                    Информация на сайте не является публичной офертой и носит информационный характер. Конкретные характеристики продуктов и условия их продаж (в том числе применение акций, скидок и т.п.) уточняйте в офисах компании.
+                                                </small>
+                                            </div>
+                                        </font>
+
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- <div class="girlyands_bottom_static"></div> -->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+<script type="text/javascript">
+        $('#Datatable, #Datatable2, #Datatable3, #Datatable4').show().DataTable( {
+            //dom: 'Bfrtip',
+            searching: false,
+            ordering: false,
+            language: {
+                "processing": "Подождите...",
+                "search": "Поиск:",
+                "lengthMenu": '',
+                "info": "Записи с _START_ до _END_ из _TOTAL_ записей",
+                "infoEmpty": "Записи с 0 до 0 из 0 записей",
+                "infoFiltered": "(отфильтровано из _MAX_ записей)",
+                "infoPostFix": "",
+                "loadingRecords": "Загрузка записей...",
+                "zeroRecords": "Записи отсутствуют.",
+                "emptyTable": "В таблице отсутствуют данные",
+                "paginate": {
+                "first": "Первая",
+                "previous": "Предыдущая",
+                "next": "Следующая",
+                "last": "Последняя"
+                },
+                "aria": {
+                "sortAscending": ": активировать для сортировки столбца по возрастанию",
+                "sortDescending": ": активировать для сортировки столбца по убыванию"
+                }
+            },
+            /*initComplete: function () {
+                this.api().columns().every( function () {
+                    var column = this;
+                    var select = $('<select><option value=""></option></select>')
+                        .appendTo( $(column.header()).empty() )
+                        .on( 'change', function () {
+                            var val = $.fn.dataTable.util.escapeRegex(
+                                $(this).val()
+                            );
+
+                            column
+                                .search( val ? '^'+val+'$' : '', true, false )
+                                .draw();
+                        } );
+
+                    column.data().unique().sort().each( function ( d, j ) {
+                        select.append( '<option value="'+d+'">'+d+'</option>' )
+                    } );
+                } );
+            }*/
+            /*buttons: [
+                {
+                    extend: 'excelHtml5',
+                    title: 'Инфофлот Условия возврата'
+                },
+                {
+                    extend: 'print',
+                    text: 'Печать',
+                },
+            ]*/
+        } );
+</script>
+
+
+<script>
+/*AndreyS: только для страницы новостей, вывод фото в модальном окне */
+if(document.URL.split('/')[3] == 'news') {
+    // задаем cursor: pointer для всех фото, которые с шириной 360px
+    $.each($('img'), function(){
+        if($(this).context.width == 360) {
+            $(this).css('cursor', 'pointer');
+        }
+    });
+    // при клике по фото с шириной 360px и если это не ссылка, или с классом clickok и не являющимся ссылкой, открываем его в окне popup с подписью из alt, если alt пуст, то выводим подпись по дефолту
+    $('img').on("click",function(e){
+        if(e.srcElement.width == 360 && e.srcElement.parentNode.nodeName != 'A' || e.srcElement.className == 'clickok' && e.srcElement.parentNode.nodeName != 'A') {
+            let title = '';
+            if(e.srcElement.alt != '' ) {
+                title = e.srcElement.alt;
+            }
+            else {
+                title = 'Открой мир вместе с "Инфофлот"';
+            }
+            
+            let foto = '';
+            let url = e.srcElement.src;
+            
+            $('#popupSrc').attr('src', '' + url + '');
+            $('#popupText').text(title);
+            $('.popup-fade').css('display', 'block');
+            return false;
+        }
+    }); 
+    $('.popup-close').click(function() {
+        $('.popup-fade').css('display', 'none');
+        return false;
+    });
+
+    $('.popup-fade').click(function(e) {
+        if ($(e.target).closest('.popup').length == 0) {
+            $(this).css('display', 'none');					
+        }
+    });
+}
+</script>
+
+
+
+<script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = 'https://vk.com/rtrg?p=VK-RTRG-213189-he686';</script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        setTimeout(() => {
+            $('.paginate_button.previous').text('Следующая');
+            $('.paginate_button.next').text('Предыдущая');
+        },6000);
+
+        // $('.paginate_button').click(function() {
+        //     if ($(this).hasClass('previous')) {
+        //         setTimeout(function() {
+        //             $(this).text('Следующая');
+        //         },10);
+        //     } else if($(this).hasClass('next')) {
+        //         setTimeout(function() {
+        //             $(this).text('Предыдущая');
+        //         },10);
+        //     }
+        // });
+
+        $('.head__menu').click(function() {
+            let $sibl = $(this).next();
+            let $siblHead = $(this).children().text();
+            if(!$sibl.hasClass( 'content__menu' )) return;
+
+            $sibl.slideToggle('fast');
+        });
+    });
+
+    function myFunction() {
+        document.getElementById("myDropdown").classList.toggle("show");
+    }
+
+    window.onclick = function (event) {
+        if (!event.target.matches('.dropbtn') && !$(event.target).closest('.dropdown').length) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+                var openDropdown = dropdowns[i];
+                if (openDropdown.classList.contains('show')) {
+                    openDropdown.classList.remove('show');
+                }
+            }
+        }
+    }
+</script>
+<script>
+  var titleNewsBreadCrumbs = $(".MainContent").children("h1").first().text();
+  $(".titleNewsBreadCrumbs").text(titleNewsBreadCrumbs);
+</script>
+
+
+
+<script>
+        (function(w,d,u){
+                var s=d.createElement('script');s.async=true;s.src=u+'?'+(Date.now()/60000|0);
+                var h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://bitrix.infoflot.com/upload/crm/site_button/loader_6_5czrc1.js');
+</script>
+
+<!-- Отслеживание метрикой, написавших в чат B24 -->
+<script type="text/javascript"> 
+    window.addEventListener('onBitrixLiveChat', function(event)
+    {
+        var widget = event.detail.widget;
+    
+        // Обработка событий 
+        widget.subscribe({
+            type: BX.LiveChatWidget.SubscriptionType.userMessage,
+            callback: function(data) {
+          
+            // любая команда
+          
+            if (typeof(dataLayer) == 'undefined')
+                {
+                  dataLayer = [];
+                }
+                dataLayer.push({
+                    "ecommerce": {
+                        "purchase": {
+                            "actionField": {
+                                "id" : "chat_send",
+                                "goal_id" : "230287905"
+                            },
+                            "products": [ {} ]
+                        }
+                    }
+                });
+            }
+        });
+    });
+</script>
+<script>
+    function papap() {
+        if(document.getElementById('papapEmail').value == '') {
+            alert('Вы не ввели Email для рассылки. Введите все данные');
+        }
+        else if(document.getElementById('papapName').value == '') {
+            alert('Вы не ввели Имя для рассылки. Введите все данные');
+        }
+        else {
+            document.getElementById('papap').style.display='block';
+        }
+    }
+    
+</script>
+<!-- Отслеживание метрикой, написавших в чат B24 -->
+<!-- BEGIN BITRIX24 WIDGET INTEGRATION WITH ROISTAT -->
+<script>
+(function(w) {
+    function trim(str) {
+        return str.replace(/^\s+|\s+$/g,"");
+    }
+
+    function getContactName(data) {
+        var name = data.LEAD_NAME || data.CONTACT_NAME || null;
+        var lastName = data.LEAD_LAST_NAME || data.CONTACT_LAST_NAME || null;
+        var secondName = data.LEAD_SECOND_NAME || data.CONTACT_SECOND_NAME || null;
+
+        var fullname = '';
+        if (lastName !== null) {
+            fullname = lastName;
+        }
+        if (name !== null) {
+            fullname = fullname + ' ' + name;
+        }
+        if (secondName !== null) {
+            fullname = fullname + ' ' + secondName;
+        }
+        return trim(fullname);
+    }
+
+    function getContactPhone(data) {
+        return data.LEAD_PHONE || data.CONTACT_PHONE || null;
+    }
+
+    function getContactEmail(data) {
+        return data.LEAD_EMAIL || data.CONTACT_EMAIL || null;
+    }
+
+    function getContactComment(data) {
+        return data.LEAD_COMMENTS || data.CONTACT_COMMENTS || null;
+    }
+
+    function sendLead(data) {
+        var name = getContactName(data);
+        var phone = getContactPhone(data);
+        var email = getContactEmail(data);
+        var comment = getContactComment(data);
+        if (phone === null && email === null) {
+            return;
+        }
+        roistatGoal.reach({name: name, phone: phone, email: email, leadName: 'Bitrix24 chat lead', is_skip_sending: 1});
+        roistat.event.send('add_chat', {'url': document.location.href});
+    }
+
+    // forms
+    w.addEventListener('message', function (event) {
+        var data = event.data;
+        try {
+            var decodedData = JSON.parse(data);
+        } catch(e) {
+            var decodedData = {};
+        }
+        var eventName = decodedData.eventName;
+        if (eventName !== 'send') {
+            return;
+        }
+
+        var values = decodedData.value;
+        if (typeof values !== 'object' || values.length === 0) {
+            return;
+        }
+
+        var lead = values[0];
+        sendLead(lead);
+    });
+
+    // new forms
+    w.addEventListener('b24:form:submit', function (event) {
+        var form = event.detail.object;
+        var data = {};
+        form.pager.pages[0].fields.forEach(function (field) {
+            data[field.name] = field.items[0].value;
+        });
+        sendLead(data);
+    });
+
+    // chat
+    w.addEventListener('onBitrixLiveChat', function(event) {
+        var widget = event.detail.widget;
+        widget.subscribe({
+            type: BX.LiveChatWidget.SubscriptionType.every,
+            callback: function(data) {
+                type: BX.LiveChatWidget.SubscriptionType.every,
+                callback: function(data) {
+
+                    if(data.type === 'sessionStart'){
+                        roistat.event.send('add_session', {'url': document.location.href});
+                    }
+
+                    if(data.type === 'userForm'){
+                        var fields = data.fields || {};
+                        var name = fields.name || null;
+                        var phone = fields.phone || null;
+                        var email = fields.email || null;
+                        roistatGoal.reach({name: name, phone: phone, email: email, leadName: 'Bitrix24 chat lead', is_skip_});
+                    }
+                }
+            }
+        });
+
+    });
+
+    $("body").on("click", ".b24-widget-button-openline_livechat", function () {
+        roistat.event.send('add_chat_click', {'url': document.location.href});
+    });
+})(window);
+</script>
+<!-- END BITRIX24 WIDGET INTEGRATION WITH ROISTAT -->
+<!-- BEGIN WAZZUP INTEGRATION WITH ROISTAT -->
+<script>
+    (function () {
+        function ChangeLinkWA() {
+            this.text = "Здравствуйте! Номер моей заявки: {wz_metric}";
+            this.cookieSource = "roistat_visit";
+        }
+
+        ChangeLinkWA.prototype.editLink = function (url, id) {
+            if (
+                decodeURIComponent(url.split("text=")[1]) ===
+                this.text.replace(/{wz_metric}/gi, id)
+            )
+                return;
+            var regexNumberPhone = /\d+/;
+            if (!regexNumberPhone.test(url)) return;
+            var phone = url.match(regexNumberPhone)[0];
+            var host = url.split(phone)[0];
+            var newUrl =
+                host === "https://wa.me/"
+                    ? host.toString()+phone.toString()+"?text="+(this.text.replace(/{wz_metric}/gi, id))
+                    : host.toString()+phone.toString()+"&text="+(this.text.replace(/{wz_metric}/gi, id));
+            return newUrl;
+        };
+
+        ChangeLinkWA.prototype.getCookie = function (name) {
+            var cookie = document.cookie;
+            var matches = cookie.match(
+                new RegExp(
+                    "(?:^|; )"+(name.replace(/([.$?*|{}()[]\/+^])/g, "\\$1"))+"=([^;]*)"
+                )
+            );
+            return matches ? decodeURIComponent(matches[1]) : undefined;
+        };
+
+        ChangeLinkWA.prototype.censusLinks = function () {
+            var links = document.querySelectorAll(
+                '[href*="//wa.me"], [href*="//api.whatsapp.com/send"], [href*="//web.whatsapp.com/send"], [href^="whatsapp://send"]'
+            );
+            var id = this.getCookie(this.cookieSource);
+            var that = this;
+            links.forEach(function (link) {
+                var newLink = that.editLink(link.href, id);
+                if (newLink) link.href = newLink;
+            });
+        };
+
+        window.addEventListener("DOMContentLoaded", function () {
+            if (!(window.__wz_scripts && window.__wz_scripts.scriptsChangeLinkWA)) {
+                if (!window.__wz_scripts) window.__wz_scripts = {};
+                window.__wz_scripts.scriptsChangeLinkWA = new ChangeLinkWA();
+                var interval = setInterval(function () {
+                    var id = window.__wz_scripts.scriptsChangeLinkWA.getCookie(
+                        window.__wz_scripts.scriptsChangeLinkWA.cookieSource
+                    );
+                    if (id) {
+                        clearInterval(interval);
+                        window.__wz_scripts.scriptsChangeLinkWA.censusLinks();
+                    }
+                }, 200);
+            }
+        });
+    })();
+</script>
+<script>
+window.onload = function () {
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
+        
+        let container_o = document.getElementsByClassName('b24-widget-button-inner-container');
+        container_o[0].onclick = function() {
+            if(document.getElementById('callback_phone')){
+                
+            }else{
+                let widget_button_o = document.getElementsByClassName('b24-widget-button-social');
+                let a_o = document.createElement('a');
+
+                a_o.setAttribute('id', 'callback_phone'); 
+                a_o.setAttribute('class', 'b24-widget-button-social-item b24-widget-button-callback'); 
+                a_o.setAttribute('href', 'tel:+78007074418'); 
+                a_o.setAttribute('style', 'background-color: rgb(255, 102, 0);'); 	
+
+                widget_button_o[0].prepend(a_o);
+            }
+            //return false;
+        }    
+    }
+}
+</script>
+<!-- END WAZZUP INTEGRATION WITH ROISTAT -->
+
+<script>
+    (function () {
+        let _int = setInterval(function () {
+            try {
+                let whatsAppBtn = document.getElementsByClassName('ui-icon-service-wz_whatsapp_c20db2a6970cdb3986729fa391fda6f64')
+                whatsAppBtn[0].addEventListener('click', function () {
+                    roistat.event.send('whatsapp')
+                    console.log('roistat', 'event sended...')
+                })
+                clearInterval(_int);
+            } catch (Err) {}
+        }, 500)
+
+        let _int2 = setInterval(function () {
+            try {
+                let whatsAppBtn = document.getElementsByClassName('whatsapp')
+                whatsAppBtn[0].addEventListener('click', function () {
+                    roistat.event.send('whatsapp')
+                    console.log('roistat', 'event sended...')
+                })
+                clearInterval(_int2);
+            } catch (Err) {}
+        }, 500)
+
+        let _int3 = setInterval(function () {
+            try {
+                let whatsAppBtn = document.getElementsByClassName('b24-widget-button-openline_livechat')
+                whatsAppBtn[0].addEventListener('click', function () {
+                    roistat.event.send('add_chat_click')
+                    console.log('roistat', 'event sended...')
+                })
+                clearInterval(_int3);
+            } catch (Err) {}
+        }, 500)
+
+    })();
+</script>
+
+<!---->
+<!--    <div class="marquiz-pops marquiz-pops_position_top-left marquiz-pops_rounded marquiz-pops_shadowed marquiz-pops_blicked marquiz-pops_position" >-->
+<!--        <a class="marquiz-pops__body" href="#popup:marquiz_5dd6a4bae3a33c0044ff4f34" data-marquiz-pop-text-color="#ffffff" data-marquiz-pop-background-color="#fb3f17" data-marquiz-pop-svg-color="#fff" data-marquiz-pop-close-color="#fff" data-marquiz-pop-color-pulse="rgba(251, 63, 23, 0.4)" data-marquiz-pop-color-pulse-alpha="rgba(251, 63, 23, 0)" data-marquiz-pop-bonuses="1" data-marquiz-pop-delay="10s" data-marquiz-pop="true">-->
+<!--            <span class="marquiz-pops__icon"></span>-->
+<!--            <span class="marquiz-pops__content">-->
+<!--                <span class="marquiz-pops__content-title">Пройти тест</span>-->
+<!--                <span class="marquiz-pops__content-text">&laquo;Узнайте, какой круиз подойдет Вам?&raquo;</span>-->
+<!--            </span>-->
+<!--            <span class="marquiz-pops__bonus">Вам доступен бонус</span>-->
+<!--        </a>-->
+<!--    </div>-->
+<!---->
+</body>
+</html><!-- Generation time: 1.732409954071 sec. //-->
