@@ -3,8 +3,6 @@
 <head>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5384118276825947"
      crossorigin="anonymous"></script>
-<script type='text/javascript' src='//pl17990038.highperformancecpmgate.com/64/01/46/64014665e34a54b90f283a4c2bbe2ebc.js'></script>
-<script type='text/javascript' src='//pl17991402.highperformancecpmgate.com/83/aa/2e/83aa2e731089edc6b4e8d6e6eb671588.js'></script>
 {if in_array($smarty.get.sub, array('kruizy-iz-kazani', 'valaam', 'kizhi', 'kruizy-iz-samary', 'kruizy-iz-sankt-peterburga', 'kruizy-iz-moskvy', 'kruizy-iz-nizhnego-novgoroda', 'kruizy-po-volge', 'kruizy-iz-rostova-na-donu'))}
 <meta property="og:title" content="{$TITLE}" />
 {else}
