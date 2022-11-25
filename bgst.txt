@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html xmlns:fb="http://ogp.me/ns/fb#">
 <head>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5384118276825947"
-     crossorigin="anonymous"></script>
 {if in_array($smarty.get.sub, array('kruizy-iz-kazani', 'valaam', 'kizhi', 'kruizy-iz-samary', 'kruizy-iz-sankt-peterburga', 'kruizy-iz-moskvy', 'kruizy-iz-nizhnego-novgoroda', 'kruizy-po-volge', 'kruizy-iz-rostova-na-donu'))}
 <meta property="og:title" content="{$TITLE}" />
 {else}
@@ -15,7 +13,8 @@
 <!-- <meta name='yandex-verification' content='56a8525867332385' /> -->
 <meta name='yandex-verification' content='795db3193ee52f62' />
 <meta name="google-site-verification" content="M3o3enAXIY2MbSJ2U-FvA6bULRxotcPOBAAkYqaIaMM" />
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5384118276825947"
+     crossorigin="anonymous"></script>
     <meta name="yandex-verification" content="ecd031b0f1b0c831" />
     <meta name="google-site-verification" content="IiixyNg0tt4NS1NQ5nvdw4fgCK5XE6c-Qpuq6LyfJ-w" />
 <link rel="alternate" type="application/rss+xml" title="Новости в формате RSS" href="https://www.infoflot.com/news/rss/" />
